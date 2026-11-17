@@ -1,0 +1,28 @@
+# Virtual Environment
+mlee-env/
+venv/
+.venv/
+
+# Ignore heavy dataset images, but KEEP folder structure & CSVs
+data/raw/**/*
+!data/raw/**/.gitkeep
+data/processed/**/*
+!data/processed/**/.gitkeep
+*.zip
+
+# Ignore saved model weights, KEEP models/ folder
+models/*.pth
+models/*.pt
+models/*.pkl
+models/*.joblib
+
+# Python & IDE cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+external_data/
+
+# Cached feature vectors and removed duplicate images (local only)
+data/features/

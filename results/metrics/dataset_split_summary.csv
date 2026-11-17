@@ -1,0 +1,6 @@
+class,train,val,test,total,duplicates_dropped,downsampled_out
+Whitefly,210,45,45,300,0,11
+Red_Mite,210,45,45,300,0,1200
+Yellow_Mosaic,210,45,45,300,5,1197
+Leaf_Miner,43,10,10,63,0,0
+Healthy,29,6,6,41,41,0

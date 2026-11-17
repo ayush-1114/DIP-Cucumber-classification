@@ -1,0 +1,23 @@
+# Core Data Handling & Math
+numpy                   # Matrix operations, array manipulation, and mathematical functions (used heavily in DIP and PyTorch)
+pandas                  # Data manipulation and analysis (used for reading/writing CSV files like the split manifest)
+
+# Image Processing & Computer Vision
+opencv-python           # The core DIP library (cv2) used for GrabCut, CLAHE, Otsu, Canny, and image loading
+Pillow                  # Standard Python image library (PIL) used by PyTorch for loading/resizing images
+scikit-image            # Added by SN for classical feature extraction (HOG/LBP)
+
+# Classical Machine Learning
+scikit-learn            # Used for SVM, Random Forest, train/test splitting, and evaluation metrics (F1, Confusion Matrix)
+joblib                  # Used to save/load classical ML models like .pkl files
+
+# Deep Learning (PyTorch)
+torch                   # The core Deep Learning framework used to build and train the MobileNetV2 neural network
+torchvision             # PyTorch library for computer vision (provides pre-trained MobileNetV2 and image transforms/augmentation)
+grad-cam                # Explainable AI library used to generate heatmaps showing where the CNN is looking
+
+# Visualization & Utilities
+matplotlib              # Used to generate the Feature Evolution Plots and Training Loss/Accuracy graphs
+seaborn                 # Used to create beautiful, statistically accurate Confusion Matrix heatmaps
+tqdm                    # Adds progress bars to long loops (like processing 1,000 images in the DIP pipeline)
+jupyter                 # For running interactive notebooks (useful for PJ's evaluation and error analysis)
