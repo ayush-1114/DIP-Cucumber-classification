@@ -1,0 +1,3 @@
+precision,checkpoint,bytes,mb,reduction_pct,test_correct,test_images,test_accuracy,test_macro_f1,leaf_miner_correct,leaf_miner_total
+FP32,mobilenetv2_cucumber.pth,9144076,9.144076,0.0,135,151,0.8940397350993378,0.8588411588411589,8,10
+INT8 weight storage,mobilenetv2_cucumber_int8.pth,2654043,2.654043,70.9752740462787,140,151,0.9271523178807947,0.892012494422133,8,10
