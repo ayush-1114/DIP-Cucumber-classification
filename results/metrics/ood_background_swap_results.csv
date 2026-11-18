@@ -1,0 +1,3 @@
+Condition,Raw_Accuracy,Processed_Accuracy,Raw_Drop,Processed_Drop
+Clean,95.36%,89.40%,-,-
+Noisy (OOD),34.44%,55.63%,60.93%,33.77%
