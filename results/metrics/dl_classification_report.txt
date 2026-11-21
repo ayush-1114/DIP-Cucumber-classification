@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+      Healthy       1.00      1.00      1.00         6
+   Leaf_Miner       0.36      0.80      0.50        10
+     Red_Mite       1.00      1.00      1.00        45
+     Whitefly       0.97      0.69      0.81        45
+Yellow_Mosaic       0.98      1.00      0.99        45
+
+     accuracy                           0.89       151
+    macro avg       0.86      0.90      0.86       151
+ weighted avg       0.94      0.89      0.91       151
