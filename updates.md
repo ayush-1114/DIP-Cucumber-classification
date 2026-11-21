@@ -55,3 +55,13 @@ The live predictor uses the processed-image checkpoint. Whole-leaf performance o
 ### Logging correction
 
 Created this updates.md file in the repository root. Future updates should be recorded here alongside implementation changes.
+
+## 22 November 2026 — Unlabelled demo input and five-class scores
+
+- Added demo_input as the dedicated folder for presentation photos, with no class subfolders.
+- Updated src/leaf_demo.py so running it without a photo argument processes all supported images directly in demo_input. Explicit photo paths still work.
+- Added all five softmax percentage scores to terminal output and the DIP stage panel. The class with the highest score is the prediction.
+- Kept the existing analyze return shape for evaluation callers, and added scores to its stage metadata.
+- Added empty-folder guidance, unique-stem checking and per-image failure messages.
+- Updated reports/PRESENTATION_GUIDE.md with the new command and the interpretation of scores.
+- Verification uses the saved model on the existing healthy rehearsal sample and an unlabelled folder copy. See the chat for the completed checks.

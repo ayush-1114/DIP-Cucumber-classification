@@ -1,4 +1,14 @@
-# Presenting the cucumber leaf project
+# Quick live demonstration
+
+Put unlabelled JPEG or PNG photos in demo_input directly, without class subfolders. From the DIP-project PowerShell terminal, run:
+
+~~~powershell
+.\mlee-env\Scripts\python.exe -m src.leaf_demo
+~~~
+
+The command processes every supported image in demo_input. It prints scores for all five classes and the highest-scoring predicted class, and includes them in each DIP stage panel under results/demo/<photo stem>/stages.png. Use unique stems for different photos. The percentages are softmax model scores that sum to approximately 100%. They express the model's relative preference and are not calibrated guarantees of correctness. Existing labelled test folders are for benchmark scoring.
+
+## Detailed rehearsal guide
 
 ## Before entering the room
 
