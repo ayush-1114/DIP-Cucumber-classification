@@ -1,0 +1,5 @@
+stage,test_images,bytes,reduction_vs_original_pct
+Original file,111,58364018,0.0
+Resized JPEG,111,1927935,96.7
+Resized + CLAHE JPEG,111,2511235,95.7
+Resized + CLAHE + foreground mask JPEG,111,1963639,96.64

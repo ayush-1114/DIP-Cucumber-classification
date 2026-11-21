@@ -1,5 +1,7 @@
 # Quick live demonstration
 
+Current readiness check on 22 November 2026 found only 3/9 matches to provisional labels on the nine Google photos. The corrected internal benchmark is 129/135 views. Reliable classification of a new whole cucumber leaf still requires verified target-domain training and rehearsal data.
+
 Put unlabelled JPEG or PNG photos in demo_input directly, without class subfolders. From the DIP-project PowerShell terminal, run:
 
 ~~~powershell
@@ -12,7 +14,7 @@ The command processes every supported image in demo_input. It prints scores for 
 
 ## Before entering the room
 
-Bring the presentation laptop, a phone or camera, a way to transfer a photo locally, the repository with its two saved checkpoints, and the working Python environment. For the full benchmark, bring the local data directory containing the manifest-listed raw images. On a fresh machine, use Python 3.12, create a virtual environment, install requirements.txt during setup, and test the following commands. The demo loads weights locally and uses CPU. Keep a sample photo and a rendered panel for rehearsal.
+Bring the presentation laptop, a phone or camera, a way to transfer a photo locally, the repository with its corrected model files and results/corrected/metrics.json, and the working Python environment. For the full benchmark, bring the external_data source files referenced by results/corrected/manifest.csv. On a fresh machine, use Python 3.12, create a virtual environment, install requirements.txt during setup, and test the following commands. The demo loads weights locally and uses CPU. Keep a sample photo and a rendered panel for rehearsal.
 
 From the DIP-project directory in PowerShell:
 
@@ -47,13 +49,12 @@ Invoke-Item ".\results\demo\leaf\stages.png"
 
 ## Experiments and grading evidence
 
-The rubric rewards before/after figures, analysis of differences, a baseline and discussion of errors. Use the live panel for DIP implementation and visual comparison, the 1,004-pair storage measurement for compression, and the raw CNN as the baseline. Explain that resizing, masking and encoding all affect file size. For the 151-image stage comparison at fixed JPEG quality, show Table 1 of the [technical report](DIP_TECHNICAL_REPORT.md).
+The rubric rewards before/after figures, analysis of differences, a baseline and discussion of errors. Use the live panel for DIP implementation and visual comparison, the matched full-frame storage measurements for compression, and the raw CNN as the baseline. Explain that resizing, masking and encoding all affect file size. See [corrected model metrics](../results/corrected/metrics.json), [confusion matrices](../results/corrected/confusion_matrices.png) and [controlled storage results](../results/corrected/dip_stage_storage.csv). Older report numbers describe the previous dataset and checkpoints.
 
-For the presentation workflow benchmark, run the following once on the local dataset. The preprocessing decision uses only the pixels. Ground truth enters during scoring. It writes a per-image CSV and a classification report with a confusion matrix under results/metrics.
+The corrected benchmark command verifies that the deployed predictor reproduces every selected-model test prediction. It reports both all test views and the full-frame subset separately.
 
 ~~~powershell
 .\mlee-env\Scripts\python.exe -m src.evaluate_leaf_demo
 ~~~
 
-See [requirements, completed work, remaining work and extras](DIP_PROJECT_STATUS.md), [historical matched model comparisons](PJ_RESULTS_AND_DISCUSSION.md), and [the presentation workflow benchmark](../results/metrics/demo_classification_report.txt). For final rehearsal, record the actual class, prediction and mask quality for independently labelled photographs of whole cucumber leaves under presentation lighting. A rehearsal on the course test split establishes software operation and benchmark performance. Field performance requires independent photographs.
-
+For the independent physical rehearsal, record the examiner's label, prediction, framing and whether the mask retained the visible damage. Use the five scores to explain the model's preference. Performance on an actual cucumber leaf depends on the source and appearance, particularly for proxy-host categories.

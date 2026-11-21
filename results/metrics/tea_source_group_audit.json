@@ -1,0 +1,238 @@
+{
+  "red_mite_manifest_images": 300,
+  "source_matches": 300,
+  "source_photo_ids": 126,
+  "source_ids_crossing_splits": 55,
+  "crossing_groups": {
+    "IMG_1370": [
+      "train",
+      "val"
+    ],
+    "IMG_1374": [
+      "test",
+      "train"
+    ],
+    "IMG_1378": [
+      "train",
+      "val"
+    ],
+    "IMG_1379": [
+      "train",
+      "val"
+    ],
+    "IMG_1380": [
+      "train",
+      "val"
+    ],
+    "IMG_1385": [
+      "train",
+      "val"
+    ],
+    "IMG_1387": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1389": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1396": [
+      "test",
+      "train"
+    ],
+    "IMG_1401": [
+      "train",
+      "val"
+    ],
+    "IMG_1402": [
+      "train",
+      "val"
+    ],
+    "IMG_1403": [
+      "train",
+      "val"
+    ],
+    "IMG_1404": [
+      "test",
+      "train"
+    ],
+    "IMG_1407": [
+      "test",
+      "val"
+    ],
+    "IMG_1408": [
+      "test",
+      "train"
+    ],
+    "IMG_1409": [
+      "test",
+      "train"
+    ],
+    "IMG_1410": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1411": [
+      "train",
+      "val"
+    ],
+    "IMG_1412": [
+      "test",
+      "train"
+    ],
+    "IMG_1413": [
+      "test",
+      "train"
+    ],
+    "IMG_1414": [
+      "test",
+      "train"
+    ],
+    "IMG_1418": [
+      "test",
+      "train"
+    ],
+    "IMG_1419": [
+      "test",
+      "train"
+    ],
+    "IMG_1420": [
+      "train",
+      "val"
+    ],
+    "IMG_1421": [
+      "test",
+      "train"
+    ],
+    "IMG_1423": [
+      "test",
+      "train"
+    ],
+    "IMG_1427": [
+      "test",
+      "train"
+    ],
+    "IMG_1430": [
+      "test",
+      "train"
+    ],
+    "IMG_1435": [
+      "test",
+      "train"
+    ],
+    "IMG_1436": [
+      "train",
+      "val"
+    ],
+    "IMG_1438": [
+      "test",
+      "train"
+    ],
+    "IMG_1439": [
+      "train",
+      "val"
+    ],
+    "IMG_1441": [
+      "train",
+      "val"
+    ],
+    "IMG_1446": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1447": [
+      "test",
+      "train"
+    ],
+    "IMG_1448": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1454": [
+      "train",
+      "val"
+    ],
+    "IMG_1457": [
+      "test",
+      "train"
+    ],
+    "IMG_1460": [
+      "test",
+      "train"
+    ],
+    "IMG_1461": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1464": [
+      "test",
+      "train"
+    ],
+    "IMG_1474": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1475": [
+      "test",
+      "val"
+    ],
+    "IMG_1476": [
+      "train",
+      "val"
+    ],
+    "IMG_1479": [
+      "test",
+      "train"
+    ],
+    "IMG_1482": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1485": [
+      "test",
+      "train"
+    ],
+    "IMG_1489": [
+      "test",
+      "train"
+    ],
+    "IMG_1490": [
+      "train",
+      "val"
+    ],
+    "IMG_1498": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1501": [
+      "train",
+      "val"
+    ],
+    "IMG_1505": [
+      "test",
+      "train"
+    ],
+    "IMG_1506": [
+      "test",
+      "val"
+    ],
+    "IMG_1512": [
+      "test",
+      "train",
+      "val"
+    ],
+    "IMG_1513": [
+      "train",
+      "val"
+    ]
+  }
+}

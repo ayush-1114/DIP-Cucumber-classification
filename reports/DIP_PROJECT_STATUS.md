@@ -1,6 +1,12 @@
 # DIP project status and submission checklist
 
-As of 21 November 2026. This is a planning document for the DIP submission.
+Updated 22 November 2026. This is a planning document for the DIP submission.
+
+## Current repair status
+
+Source-group training has been rebuilt and both corrected MobileNet and SVM predictors have been verified against saved test predictions. New measurements are in results/corrected. DIP MobileNet scored 129/135 views with macro-F1 0.9436, raw MobileNet 133/135 with macro-F1 0.9801, and DIP SVM 112/135 with macro-F1 0.7722. The MobileNet heads are newly fitted on frozen ImageNet features.
+
+The new demo matches only 3/9 provisional Google-photo labels. A reliable unseen-cucumber demonstration remains unfinished. Verified cucumber training and independent evaluation photos are needed, particularly for Red Mite and Yellow Mosaic. Existing tea, luffa and Mangalore cucumber sources are proxies. Internal test scores cannot establish presentation readiness. See updates.md for the full repair log and reports/PRESENTATION_GUIDE.md for commands. The sections below record the earlier work and its historical measurements.
 
 ## What the course requires
 
@@ -35,3 +41,12 @@ The grading guide also calls for labelled figures and tables, proper citations, 
 1. Rehearse on independently labelled whole cucumber leaves using the actual camera and presentation machine. Log expected class, prediction and mask quality. Prioritize Whitefly and Leaf Miner given the confusion observed on the held-out data.
 2. Verify the training setup on a fresh installation, pin tested dependency versions and document source dataset acquisition. The presentation workflow uses the included checkpoint.
 3. Add student/team identifiers and rehearsal observations, finalize dataset and method citations, export the approved submission format, and package the report, scripts, weights and documented data access.
+
+## External-photo readiness check — 22 November 2026
+
+A diagnostic check on nine user-provided whole-leaf photos matched 4/9 filename-derived expected classes with each existing checkpoint. The class mapping was verified. Source labels need verification. Whole-leaf presentation readiness requires further data and training work. See [external-photo diagnosis](EXTERNAL_PHOTO_DIAGNOSIS.md).
+
+
+## Source audit correction — 22 November 2026
+
+Recovered original tea filenames by hash matching. All 300 Red Mite examples mapped to 126 source photos. Transformed versions of 55 source IDs cross splits, including 34 shared between training and test. Rebuilding source-group splits and retraining is now a required correction. Earlier high Red Mite test scores are affected. Inspect all Roboflow pest annotations for compatibility with whole-leaf symptom classification before adding them to a revised training set. [Source audit](dataset_construction.md#source-audit-on-22-november-2026)

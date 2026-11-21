@@ -1,0 +1,10 @@
+filename,provisional_expected_from_filename,raw_prediction,raw_top_score,dip_prediction,dip_top_score,segmentation
+cuc1_healthy.jpg,Healthy Leaf,Healthy Leaf,0.4812,Healthy Leaf,0.3338,grabcut
+cuc2_redmite.jpg,Red Mite,Healthy Leaf,0.6635,Healthy Leaf,0.6047,"skipped: tight crop, no background"
+cuc3_red.jpg,Red Mite,Leaf Miner,0.378,Healthy Leaf,0.576,"skipped: tight crop, no background"
+cuc4_yel.jpg,Yellow Mosaic,Healthy Leaf,0.6369,Yellow Mosaic,0.4505,"skipped: tight crop, no background"
+cuc5_yel.jpg,Yellow Mosaic,Leaf Miner,0.4972,Healthy Leaf,0.3802,"skipped: tight crop, no background"
+cuc6_miner.jpg,Leaf Miner,Leaf Miner,0.563,Leaf Miner,0.3562,"skipped: tight crop, no background"
+cuc7_miner.jpg,Leaf Miner,Healthy Leaf,0.808,Healthy Leaf,0.5722,grabcut
+cuc8_miner.jpg,Leaf Miner,Healthy Leaf,0.3785,Healthy Leaf,0.5525,grabcut
+cuc9_healthy.jpg,Healthy Leaf,Healthy Leaf,0.893,Healthy Leaf,0.9058,grabcut

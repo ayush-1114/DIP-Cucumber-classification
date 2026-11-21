@@ -1,46 +1,69 @@
-"""Benchmark the live DIP path on manifest-listed raw test images."""
+"""Evaluate the deployed predictor on the corrected manifest and verify saved predictions."""
+
+import argparse
 import csv
+import json
+import sys
+from pathlib import Path
 from collections import Counter
 
 import cv2
 import torch
 from sklearn.metrics import classification_report, confusion_matrix
 
-from src.leaf_demo import ROOT, LABELS, analyze, load_model
+if not __package__:
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from src.corrected_data import OUT, photo
+from src.leaf_demo import LABELS, analyze_rgb, load_demo_model
 
 
 def main():
-    torch.set_num_threads(2)
+    torch.set_num_threads(3)
     cv2.setNumThreads(1)
-    cv2.setRNGSeed(42)
-    model = load_model("mobilenetv2_cucumber.pth")
-    records = []
-    with (ROOT / "data/split_manifest.csv").open() as source:
-        for row in csv.DictReader(source):
-            if row["split"] != "test":
-                continue
-            photo = ROOT / "data/raw/test" / row["class"] / row["filename"]
-            _, stages, _, label = analyze(photo, model)
-            actual = "Healthy Leaf" if row["class"] == "Healthy" else row["class"].replace("_", " ")
-            records.append((row["filename"], actual, label, stages["status"]))
-    if not records:
-        raise ValueError("The manifest has no test images")
-    actual = [row[1] for row in records]
-    predicted = [row[2] for row in records]
-    destination = ROOT / "results/metrics"
-    destination.mkdir(parents=True, exist_ok=True)
-    with (destination / "demo_predictions.csv").open("w", newline="") as output:
-        writer = csv.writer(output)
-        writer.writerow(("filename", "actual", "prediction", "segmentation"))
-        writer.writerows(records)
-    report = classification_report(actual, predicted, labels=LABELS, digits=4, zero_division=0)
-    report += "\nConfusion matrix (rows actual, columns predicted): " + ", ".join(LABELS)
-    report += "\n" + str(confusion_matrix(actual, predicted, labels=LABELS)) + "\n"
-    report += "\nSegmentation decisions\n"
-    for status, count in Counter(row[3] for row in records).items():
-        report += f"{status}: {count}\n"
-    (destination / "demo_classification_report.txt").write_text(report, encoding="utf-8")
-    print(report)
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--model", choices=("dip_mobilenet", "dip_svm"))
+    args = parser.parse_args()
+    default = json.loads((OUT / "metrics.json").read_text())["demo"]
+    winner = args.model or default
+    model = load_demo_model(winner)
+    with (OUT / "manifest.csv").open(encoding="utf-8") as f:
+        rows = [r for r in csv.DictReader(f) if r["split"] == "test"]
+    with (OUT / "test_predictions.csv").open(encoding="utf-8") as f:
+        reference = {(r["path"], r["box"]): r[winner] for r in csv.DictReader(f)}
+    if len(rows) != len(reference):
+        raise ValueError("Test manifest and predictions differ")
+    results = []
+    for r in rows:
+        _, stages, _, pred = analyze_rgb(photo(r), model)
+        if pred != reference[r["path"], r["box"]]:
+            raise ValueError(
+                f"Deployment and training evaluation differ on {r['path']}"
+            )
+        results.append((r["label"], pred, stages["status"]))
+    actual, pred, status = zip(*results)
+    report = classification_report(
+        actual, pred, labels=LABELS, digits=4, zero_division=0
+    )
+    report += "\nRows actual, columns predicted: " + ", ".join(LABELS) + "\n"
+    report += (
+        str(confusion_matrix(actual, pred, labels=LABELS))
+        + "\n"
+        + str(dict(Counter(status)))
+    )
+    full = [(a, b) for r, (a, b, _) in zip(rows, results) if not r["box"]]
+    actual_full, pred_full = zip(*full)
+    report += "\n\nFull-frame subset only (excludes extracted symptom regions)\n"
+    report += classification_report(
+        actual_full, pred_full, labels=LABELS, digits=4, zero_division=0
+    )
+    filename = (
+        "deployed_test_report.txt"
+        if winner == default
+        else f"deployed_{winner}_report.txt"
+    )
+    (OUT / filename).write_text(report)
+    print(winner, report, sep="\n")
 
 
 if __name__ == "__main__":

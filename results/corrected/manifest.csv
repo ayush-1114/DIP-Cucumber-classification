@@ -1,0 +1,910 @@
+path,label,source,group,box,split
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3227_result.jpg,Red Mite,tea_original,tea_original/IMG_3227_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1492_result.jpg,Red Mite,tea_original,tea_original/IMG_1492_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1399_result.jpg,Red Mite,tea_original,tea_original/IMG_1399_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7061_result.jpg,Red Mite,tea_original,tea_original/IMG_7061_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1665_result.jpg,Red Mite,tea_original,tea_original/IMG_1665_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1634_result.jpg,Red Mite,tea_original,tea_original/IMG_1634_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1610_result.jpg,Red Mite,tea_original,tea_original/IMG_1610_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1521_result.jpg,Red Mite,tea_original,tea_original/IMG_1521_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7056_result.jpg,Red Mite,tea_original,tea_original/IMG_7056_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1481_result.jpg,Red Mite,tea_original,tea_original/IMG_1481_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3329_result.jpg,Red Mite,tea_original,tea_original/IMG_3329_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7060_result.jpg,Red Mite,tea_original,tea_original/IMG_7060_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2269_result.jpg,Red Mite,tea_original,tea_original/IMG_2269_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1465_result.jpg,Red Mite,tea_original,tea_original/IMG_1465_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3177_result.jpg,Red Mite,tea_original,tea_original/IMG_3177_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2136_result.jpg,Red Mite,tea_original,tea_original/IMG_2136_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1406_result.jpg,Red Mite,tea_original,tea_original/IMG_1406_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1404_result.jpg,Red Mite,tea_original,tea_original/IMG_1404_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1472_result.jpg,Red Mite,tea_original,tea_original/IMG_1472_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1605_result.jpg,Red Mite,tea_original,tea_original/IMG_1605_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1620_result.jpg,Red Mite,tea_original,tea_original/IMG_1620_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2227_result.jpg,Red Mite,tea_original,tea_original/IMG_2227_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3189_result.jpg,Red Mite,tea_original,tea_original/IMG_3189_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1401_result.jpg,Red Mite,tea_original,tea_original/IMG_1401_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3147_result.jpg,Red Mite,tea_original,tea_original/IMG_3147_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1583_result.jpg,Red Mite,tea_original,tea_original/IMG_1583_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7035_result.jpg,Red Mite,tea_original,tea_original/IMG_7035_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3238_result.jpg,Red Mite,tea_original,tea_original/IMG_3238_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7020_result.jpg,Red Mite,tea_original,tea_original/IMG_7020_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7209_result.jpg,Red Mite,tea_original,tea_original/IMG_7209_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2133_result.jpg,Red Mite,tea_original,tea_original/IMG_2133_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1607_result.jpg,Red Mite,tea_original,tea_original/IMG_1607_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2163_result.jpg,Red Mite,tea_original,tea_original/IMG_2163_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3176_result.jpg,Red Mite,tea_original,tea_original/IMG_3176_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1668_result.jpg,Red Mite,tea_original,tea_original/IMG_1668_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7130_result.jpg,Red Mite,tea_original,tea_original/IMG_7130_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1380_result.jpg,Red Mite,tea_original,tea_original/IMG_1380_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7079_result.jpg,Red Mite,tea_original,tea_original/IMG_7079_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7127_result.jpg,Red Mite,tea_original,tea_original/IMG_7127_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1543_result.jpg,Red Mite,tea_original,tea_original/IMG_1543_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7016_result.jpg,Red Mite,tea_original,tea_original/IMG_7016_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7206_result.jpg,Red Mite,tea_original,tea_original/IMG_7206_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1732_result.jpg,Red Mite,tea_original,tea_original/IMG_1732_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7186_result.jpg,Red Mite,tea_original,tea_original/IMG_7186_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1539_result.jpg,Red Mite,tea_original,tea_original/IMG_1539_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1602_result.jpg,Red Mite,tea_original,tea_original/IMG_1602_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7083_result.jpg,Red Mite,tea_original,tea_original/IMG_7083_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1728_result.jpg,Red Mite,tea_original,tea_original/IMG_1728_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7212_result.jpg,Red Mite,tea_original,tea_original/IMG_7212_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1471_result.jpg,Red Mite,tea_original,tea_original/IMG_1471_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1773_result.jpg,Red Mite,tea_original,tea_original/IMG_1773_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1476_result.jpg,Red Mite,tea_original,tea_original/IMG_1476_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1751_result.jpg,Red Mite,tea_original,tea_original/IMG_1751_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1736_result.jpg,Red Mite,tea_original,tea_original/IMG_1736_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3191_result.jpg,Red Mite,tea_original,tea_original/IMG_3191_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1654_result.jpg,Red Mite,tea_original,tea_original/IMG_1654_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7128_result.jpg,Red Mite,tea_original,tea_original/IMG_7128_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1420_result.jpg,Red Mite,tea_original,tea_original/IMG_1420_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7049_result.jpg,Red Mite,tea_original,tea_original/IMG_7049_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2175_result.jpg,Red Mite,tea_original,tea_original/IMG_2175_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2260_result.jpg,Red Mite,tea_original,tea_original/IMG_2260_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1506_result.jpg,Red Mite,tea_original,tea_original/IMG_1506_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1771_result.jpg,Red Mite,tea_original,tea_original/IMG_1771_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1456_result.jpg,Red Mite,tea_original,tea_original/IMG_1456_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3138_result.jpg,Red Mite,tea_original,tea_original/IMG_3138_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1684_result.jpg,Red Mite,tea_original,tea_original/IMG_1684_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7151_result.jpg,Red Mite,tea_original,tea_original/IMG_7151_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3216_result.jpg,Red Mite,tea_original,tea_original/IMG_3216_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3206_result.jpg,Red Mite,tea_original,tea_original/IMG_3206_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1754_result.jpg,Red Mite,tea_original,tea_original/IMG_1754_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3164_result.jpg,Red Mite,tea_original,tea_original/IMG_3164_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1576_result.jpg,Red Mite,tea_original,tea_original/IMG_1576_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7023_result.jpg,Red Mite,tea_original,tea_original/IMG_7023_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1447_result.jpg,Red Mite,tea_original,tea_original/IMG_1447_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1422_result.jpg,Red Mite,tea_original,tea_original/IMG_1422_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3250_result.jpg,Red Mite,tea_original,tea_original/IMG_3250_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1615_result.jpg,Red Mite,tea_original,tea_original/IMG_1615_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7093_result.jpg,Red Mite,tea_original,tea_original/IMG_7093_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1680_result.jpg,Red Mite,tea_original,tea_original/IMG_1680_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1457_result.jpg,Red Mite,tea_original,tea_original/IMG_1457_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7201_result.jpg,Red Mite,tea_original,tea_original/IMG_7201_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1480_result.jpg,Red Mite,tea_original,tea_original/IMG_1480_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7170_result.jpg,Red Mite,tea_original,tea_original/IMG_7170_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7177_result.jpg,Red Mite,tea_original,tea_original/IMG_7177_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2168_result.jpg,Red Mite,tea_original,tea_original/IMG_2168_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3223_result.jpg,Red Mite,tea_original,tea_original/IMG_3223_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1757_result.jpg,Red Mite,tea_original,tea_original/IMG_1757_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1546_result.jpg,Red Mite,tea_original,tea_original/IMG_1546_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1763_result.jpg,Red Mite,tea_original,tea_original/IMG_1763_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1747_result.jpg,Red Mite,tea_original,tea_original/IMG_1747_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1594_result.jpg,Red Mite,tea_original,tea_original/IMG_1594_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3323_result.jpg,Red Mite,tea_original,tea_original/IMG_3323_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1657_result.jpg,Red Mite,tea_original,tea_original/IMG_1657_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7193_result.jpg,Red Mite,tea_original,tea_original/IMG_7193_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_6999_result.jpg,Red Mite,tea_original,tea_original/IMG_6999_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3236_result.jpg,Red Mite,tea_original,tea_original/IMG_3236_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1449_result.jpg,Red Mite,tea_original,tea_original/IMG_1449_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3196_result.jpg,Red Mite,tea_original,tea_original/IMG_3196_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7135_result.jpg,Red Mite,tea_original,tea_original/IMG_7135_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1555_result.jpg,Red Mite,tea_original,tea_original/IMG_1555_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2257_result.jpg,Red Mite,tea_original,tea_original/IMG_2257_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7048_result.jpg,Red Mite,tea_original,tea_original/IMG_7048_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7216_result.jpg,Red Mite,tea_original,tea_original/IMG_7216_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1547_result.jpg,Red Mite,tea_original,tea_original/IMG_1547_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2179_result.jpg,Red Mite,tea_original,tea_original/IMG_2179_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1772_result.jpg,Red Mite,tea_original,tea_original/IMG_1772_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1660_result.jpg,Red Mite,tea_original,tea_original/IMG_1660_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3228_result.jpg,Red Mite,tea_original,tea_original/IMG_3228_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7005_result.jpg,Red Mite,tea_original,tea_original/IMG_7005_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3143_result.jpg,Red Mite,tea_original,tea_original/IMG_3143_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1606_result.jpg,Red Mite,tea_original,tea_original/IMG_1606_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7002_result.jpg,Red Mite,tea_original,tea_original/IMG_7002_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1716_result.jpg,Red Mite,tea_original,tea_original/IMG_1716_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7088_result.jpg,Red Mite,tea_original,tea_original/IMG_7088_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7096_result.jpg,Red Mite,tea_original,tea_original/IMG_7096_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1433_result.jpg,Red Mite,tea_original,tea_original/IMG_1433_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1616_result.jpg,Red Mite,tea_original,tea_original/IMG_1616_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7205_result.jpg,Red Mite,tea_original,tea_original/IMG_7205_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1707_result.jpg,Red Mite,tea_original,tea_original/IMG_1707_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1794_result.jpg,Red Mite,tea_original,tea_original/IMG_1794_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1658_result.jpg,Red Mite,tea_original,tea_original/IMG_1658_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1443_result.jpg,Red Mite,tea_original,tea_original/IMG_1443_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1596_result.jpg,Red Mite,tea_original,tea_original/IMG_1596_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3153_result.jpg,Red Mite,tea_original,tea_original/IMG_3153_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7037_result.jpg,Red Mite,tea_original,tea_original/IMG_7037_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1706_result.jpg,Red Mite,tea_original,tea_original/IMG_1706_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1597_result.jpg,Red Mite,tea_original,tea_original/IMG_1597_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3244_result.jpg,Red Mite,tea_original,tea_original/IMG_3244_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2221_result.jpg,Red Mite,tea_original,tea_original/IMG_2221_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1789_result.jpg,Red Mite,tea_original,tea_original/IMG_1789_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3231_result.jpg,Red Mite,tea_original,tea_original/IMG_3231_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2174_result.jpg,Red Mite,tea_original,tea_original/IMG_2174_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1525_result.jpg,Red Mite,tea_original,tea_original/IMG_1525_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1655_result.jpg,Red Mite,tea_original,tea_original/IMG_1655_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7214_result.jpg,Red Mite,tea_original,tea_original/IMG_7214_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1636_result.jpg,Red Mite,tea_original,tea_original/IMG_1636_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7064_result.jpg,Red Mite,tea_original,tea_original/IMG_7064_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7197_result.jpg,Red Mite,tea_original,tea_original/IMG_7197_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2262_result.jpg,Red Mite,tea_original,tea_original/IMG_2262_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1653_result.jpg,Red Mite,tea_original,tea_original/IMG_1653_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7066_result.jpg,Red Mite,tea_original,tea_original/IMG_7066_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3171_result.jpg,Red Mite,tea_original,tea_original/IMG_3171_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2142_result.jpg,Red Mite,tea_original,tea_original/IMG_2142_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3170_result.jpg,Red Mite,tea_original,tea_original/IMG_3170_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1792_result.jpg,Red Mite,tea_original,tea_original/IMG_1792_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7154_result.jpg,Red Mite,tea_original,tea_original/IMG_7154_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7110_result.jpg,Red Mite,tea_original,tea_original/IMG_7110_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1520_result.jpg,Red Mite,tea_original,tea_original/IMG_1520_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2231_result.jpg,Red Mite,tea_original,tea_original/IMG_2231_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2214_result.jpg,Red Mite,tea_original,tea_original/IMG_2214_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1470_result.jpg,Red Mite,tea_original,tea_original/IMG_1470_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1424_result.jpg,Red Mite,tea_original,tea_original/IMG_1424_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1489_result.jpg,Red Mite,tea_original,tea_original/IMG_1489_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1535_result.jpg,Red Mite,tea_original,tea_original/IMG_1535_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3215_result.jpg,Red Mite,tea_original,tea_original/IMG_3215_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7181_result.jpg,Red Mite,tea_original,tea_original/IMG_7181_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3333_result.jpg,Red Mite,tea_original,tea_original/IMG_3333_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7179_result.jpg,Red Mite,tea_original,tea_original/IMG_7179_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3183_result.jpg,Red Mite,tea_original,tea_original/IMG_3183_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1441_result.jpg,Red Mite,tea_original,tea_original/IMG_1441_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1778_result.jpg,Red Mite,tea_original,tea_original/IMG_1778_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1774_result.jpg,Red Mite,tea_original,tea_original/IMG_1774_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7062_result.jpg,Red Mite,tea_original,tea_original/IMG_7062_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2186_result.jpg,Red Mite,tea_original,tea_original/IMG_2186_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2252_result.jpg,Red Mite,tea_original,tea_original/IMG_2252_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1641_result.jpg,Red Mite,tea_original,tea_original/IMG_1641_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3139_result.jpg,Red Mite,tea_original,tea_original/IMG_3139_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1385_result.jpg,Red Mite,tea_original,tea_original/IMG_1385_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7084_result.jpg,Red Mite,tea_original,tea_original/IMG_7084_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7040_result.jpg,Red Mite,tea_original,tea_original/IMG_7040_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1496_result.jpg,Red Mite,tea_original,tea_original/IMG_1496_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_6998_result.jpg,Red Mite,tea_original,tea_original/IMG_6998_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7160_result.jpg,Red Mite,tea_original,tea_original/IMG_7160_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7164_result.jpg,Red Mite,tea_original,tea_original/IMG_7164_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3229_result.jpg,Red Mite,tea_original,tea_original/IMG_3229_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7178_result.jpg,Red Mite,tea_original,tea_original/IMG_7178_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7220_result.jpg,Red Mite,tea_original,tea_original/IMG_7220_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7155_result.jpg,Red Mite,tea_original,tea_original/IMG_7155_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2149_result.jpg,Red Mite,tea_original,tea_original/IMG_2149_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1541_result.jpg,Red Mite,tea_original,tea_original/IMG_1541_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7136_result.jpg,Red Mite,tea_original,tea_original/IMG_7136_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1377_result.jpg,Red Mite,tea_original,tea_original/IMG_1377_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7038_result.jpg,Red Mite,tea_original,tea_original/IMG_7038_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7081_result.jpg,Red Mite,tea_original,tea_original/IMG_7081_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2222_result.jpg,Red Mite,tea_original,tea_original/IMG_2222_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1562_result.jpg,Red Mite,tea_original,tea_original/IMG_1562_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2229_result.jpg,Red Mite,tea_original,tea_original/IMG_2229_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1485_result.jpg,Red Mite,tea_original,tea_original/IMG_1485_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3213_result.jpg,Red Mite,tea_original,tea_original/IMG_3213_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1689_result.jpg,Red Mite,tea_original,tea_original/IMG_1689_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7221_result.jpg,Red Mite,tea_original,tea_original/IMG_7221_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7034_result.jpg,Red Mite,tea_original,tea_original/IMG_7034_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7123_result.jpg,Red Mite,tea_original,tea_original/IMG_7123_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7196_result.jpg,Red Mite,tea_original,tea_original/IMG_7196_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7067_result.jpg,Red Mite,tea_original,tea_original/IMG_7067_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1766_result.jpg,Red Mite,tea_original,tea_original/IMG_1766_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1545_result.jpg,Red Mite,tea_original,tea_original/IMG_1545_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2263_result.jpg,Red Mite,tea_original,tea_original/IMG_2263_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2254_result.jpg,Red Mite,tea_original,tea_original/IMG_2254_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1370_result.jpg,Red Mite,tea_original,tea_original/IMG_1370_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3186_result.jpg,Red Mite,tea_original,tea_original/IMG_3186_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1715_result.jpg,Red Mite,tea_original,tea_original/IMG_1715_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2209_result.jpg,Red Mite,tea_original,tea_original/IMG_2209_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1393_result.jpg,Red Mite,tea_original,tea_original/IMG_1393_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7044_result.jpg,Red Mite,tea_original,tea_original/IMG_7044_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1755_result.jpg,Red Mite,tea_original,tea_original/IMG_1755_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1698_result.jpg,Red Mite,tea_original,tea_original/IMG_1698_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1629_result.jpg,Red Mite,tea_original,tea_original/IMG_1629_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1435_result.jpg,Red Mite,tea_original,tea_original/IMG_1435_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1630_result.jpg,Red Mite,tea_original,tea_original/IMG_1630_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7097_result.jpg,Red Mite,tea_original,tea_original/IMG_7097_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7157_result.jpg,Red Mite,tea_original,tea_original/IMG_7157_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1463_result.jpg,Red Mite,tea_original,tea_original/IMG_1463_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2206_result.jpg,Red Mite,tea_original,tea_original/IMG_2206_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1446_result.jpg,Red Mite,tea_original,tea_original/IMG_1446_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2256_result.jpg,Red Mite,tea_original,tea_original/IMG_2256_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1507_result.jpg,Red Mite,tea_original,tea_original/IMG_1507_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1510_result.jpg,Red Mite,tea_original,tea_original/IMG_1510_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3248_result.jpg,Red Mite,tea_original,tea_original/IMG_3248_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2195_result.jpg,Red Mite,tea_original,tea_original/IMG_2195_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3135_result.jpg,Red Mite,tea_original,tea_original/IMG_3135_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1549_result.jpg,Red Mite,tea_original,tea_original/IMG_1549_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7087_result.jpg,Red Mite,tea_original,tea_original/IMG_7083_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2251_result.jpg,Red Mite,tea_original,tea_original/IMG_2251_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3194_result.jpg,Red Mite,tea_original,tea_original/IMG_3194_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2137_result.jpg,Red Mite,tea_original,tea_original/IMG_2137_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7098_result.jpg,Red Mite,tea_original,tea_original/IMG_7098_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7148_result.jpg,Red Mite,tea_original,tea_original/IMG_7148_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1585_result.jpg,Red Mite,tea_original,tea_original/IMG_1585_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1703_result.jpg,Red Mite,tea_original,tea_original/IMG_1703_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7076_result.jpg,Red Mite,tea_original,tea_original/IMG_7076_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3324_result.jpg,Red Mite,tea_original,tea_original/IMG_3324_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7194_result.jpg,Red Mite,tea_original,tea_original/IMG_7194_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7025_result.jpg,Red Mite,tea_original,tea_original/IMG_7025_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2152_result.jpg,Red Mite,tea_original,tea_original/IMG_2152_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2239_result.jpg,Red Mite,tea_original,tea_original/IMG_2239_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_2166_result.jpg,Red Mite,tea_original,tea_original/IMG_2166_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1502_result.jpg,Red Mite,tea_original,tea_original/IMG_1502_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1637_result.jpg,Red Mite,tea_original,tea_original/IMG_1637_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1612_result.jpg,Red Mite,tea_original,tea_original/IMG_1612_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7218_result.jpg,Red Mite,tea_original,tea_original/IMG_7218_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1730_result.jpg,Red Mite,tea_original,tea_original/IMG_1730_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1395_result.jpg,Red Mite,tea_original,tea_original/IMG_1395_result,,val
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3175_result.jpg,Red Mite,tea_original,tea_original/IMG_3175_result,,test
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_3140_result.jpg,Red Mite,tea_original,tea_original/IMG_3140_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1617_result.jpg,Red Mite,tea_original,tea_original/IMG_1617_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7001_result.jpg,Red Mite,tea_original,tea_original/IMG_7001_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_7190_result.jpg,Red Mite,tea_original,tea_original/IMG_7190_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1381_result.jpg,Red Mite,tea_original,tea_original/IMG_1381_result,,train
+external_data/03-Red Spider-Tea-Disease/03-Red Spider-Tea-Disease/IMG_1448_result.jpg,Red Mite,tea_original,tea_original/IMG_1448_result,,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (5).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (12),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (358).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (358),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1106).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1106),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (142).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (142),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1122).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1122),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (864).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (864),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1056).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1056),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (78).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (78),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1607).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1607),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1129).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1129),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1946).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1946),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1437).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1434),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1511).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1511),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (428).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (425),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1894).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1894),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1393).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1392),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1993).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1993),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1241).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1241),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (528).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (528),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (919).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (919),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (821).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (821),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (247).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (247),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (257).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (257),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1870).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1870),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1446).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1446),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (640).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (640),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (683).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (683),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1749).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1749),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1349).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1349),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1172).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1172),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1177).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1177),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (409).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (409),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1793).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1793),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1651).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1651),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (178).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (178),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1756).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1756),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (186).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (186),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (788).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (788),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (539).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (537),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1098).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1098),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (436).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (436),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (4).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (12),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (386).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (384),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (118).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (118),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (111).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (111),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1740).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1740),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (537).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (537),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1623).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1623),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (670).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (670),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (783).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (783),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (12).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (12),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1457).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1457),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1351).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1351),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1988).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1988),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1825).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1825),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1257).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1257),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1777).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1777),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1336).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1336),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1851).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1851),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1459).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1459),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (806).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (806),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (897).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (897),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1137).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1137),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1815).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1815),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (684).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (684),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (773).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (773),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (209).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (209),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1179).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1179),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1091).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1090),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (397).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (397),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1996).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1996),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (736).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (736),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1025).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1025),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (981).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (981),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1170).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1170),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (902).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (902),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (584).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (584),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (76).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (76),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1434).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1434),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1304).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1296),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1748).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1748),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1886).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1886),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1392).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1392),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (789).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (789),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1738).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1738),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (859).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (859),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1301).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1296),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1698).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1698),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1001).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1001),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1718).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1718),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1488).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1488),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (64).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (64),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (641).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (641),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1837).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1837),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1524).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1523),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1779).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1779),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (479).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (479),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (96).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (96),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (541).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (537),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (639).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (639),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (219).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (219),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (414).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (414),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (519).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (519),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1896).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1896),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1284).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1284),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1348).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1348),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1545).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1545),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (14).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (12),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (980).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (980),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1105).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1105),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (262).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (262),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (550).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1387),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1999).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1999),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (573).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (573),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1577).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1577),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1103).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1102),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1090).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1090),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (271).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (271),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1878).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1878),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1925).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1925),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (89).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (89),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (767).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (767),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1978).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1978),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1289).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1289),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1102).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1102),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (966).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (966),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1935).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1935),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1146).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1146),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (764).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (764),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1340).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1340),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1124).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1124),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (291).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (290),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1123).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1123),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (439).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (439),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (784).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (784),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1431).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1431),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1742).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1742),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1219).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1219),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (930).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (930),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (836).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (836),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (244).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (244),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1452).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1452),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (261).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (261),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (290).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (290),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1071).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1071),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (336).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (336),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1149).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1149),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1771).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1771),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (406).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (406),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (270).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (270),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (236).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (236),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1962).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1962),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1581).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1581),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (918).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (912),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (148).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (148),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1375).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1375),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (429).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (429),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (514).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (514),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1578).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1578),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1438).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1434),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1728).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1728),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (124).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (118),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (432).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (432),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (384).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (384),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1551).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1551),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1841).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1841),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (907).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (907),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (580).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (580),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (92).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (92),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1131).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1131),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1015).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1015),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1843).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1843),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (34).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (34),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (232).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (232),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1182).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1182),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1133).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1133),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1990).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1990),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1391).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1387),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1931).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1931),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1242).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1242),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (915).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (912),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1641).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1641),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (819).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (819),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (815).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (815),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1449).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1449),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (168).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (168),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1523).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1523),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (129).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (129),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1806).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1806),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (731).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (731),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (20).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (19),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (491).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (491),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1556).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1556),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (321).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (321),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (682).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (682),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (40).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (34),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1974).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1974),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1012).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1012),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (425).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (425),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (700).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (700),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (216).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (216),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1550).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1550),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (912).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (912),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (417).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (417),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (119).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (118),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (925).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (925),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (813).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (813),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1246).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1246),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1486).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1486),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1210).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1210),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (835).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (835),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1196).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1196),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (563).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (563),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (214).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (214),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1285).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1284),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (150).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (150),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1518).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1518),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (309).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (309),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1387).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1387),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (517).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (517),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1630).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1630),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1373).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1373),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (461).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (461),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (363).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (363),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1485).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1485),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1930).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1930),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (19).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (19),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1461).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1461),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (869).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (869),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (754).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (754),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1092).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1092),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1169).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1169),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (364).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (364),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (723).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (723),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1508).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1508),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (108).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (108),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1004).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1004),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1613).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1613),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (616).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (616),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1239).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1239),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (369).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (369),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1481).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1481),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1296).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1296),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (561).JPG,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (561),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1812).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1812),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (210).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (209),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (496).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (496),,val
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1787).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1787),,test
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (228).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (228),,train
+external_data/Comprehensive Dataset of Luffa aegyptiaca Diseases in Dhaka District A Valuable Resource for Agricultural Research/Luffa Aegyptiaca 480/Cucumber Mosaic Virus/Cucumber-Mosaic-Virus (1204).jpg,Yellow Mosaic,luffa_mosaic,luffa_mosaic/Cucumber-Mosaic-Virus (1204),,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_101724.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_101724,,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_101726.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_101726,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_101928.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_101928,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_101941.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_101941,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_101957.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_101957,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102019.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102019,,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102029.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102029,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102038.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102038,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102052.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102052,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102107.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102107,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102302.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102302,,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102309.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102309,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_102923.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_102923,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103058.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103058,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103222.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103222,,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103341.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103341,,test
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103443.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103443,,test
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103543.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103543,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103740.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103740,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103836.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103836,,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_103946.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_103946,,test
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104040.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104040,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104148.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104148,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104226.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104226,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104359.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104359,,val
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104516.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104516,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104530.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104530,,test
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104546.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104546,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_20210208_104558.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_20210208_104558,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2010.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2010,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2029.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2029,,test
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2030.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2030,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2035.JPG,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2035,,test
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2036.JPG,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2036,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2042.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2042,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2043.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2043,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2056.jpg,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2056,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2062.JPG,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2062,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2063.JPG,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2063,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2071.JPG,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2071,,train
+external_data/Healthy Leaves/Healthy Leaves/O_Healthy_IMG_2072.JPG,Healthy Leaf,greenhouse,greenhouse/O_Healthy_IMG_2072,,train
+external_data/roboflow_raw_data/dataset/test/images/1305019-WEB_jpg.rf.ecc9aef543095a4301e2b26e29cabef3.jpg,Whitefly,roboflow,roboflow/1305019-WEB_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/159071_kak-izbavitsya-ot-belokrylki-v-teplitse-na-ogurtsah-samye-effektivnye-metody-borby-i-profilaktiki2-e1554713795981_jpg.rf.6607461ce8cdb39040a704d26e9cce72.jpg,Whitefly,roboflow,roboflow/159071_kak-izbavitsya-ot-belokrylki-v-teplitse-na-ogurtsah-samye-effektivnye-metody-borby-i-profilaktiki2-e1554713795981_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/5496040-WEB_jpg.rf.71f60254b329d8b0671d17ba6943b74f.jpg,Whitefly,roboflow,roboflow/5496040-WEB_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/8a10cf72-2bd8-4e11-af15-be1a316ee986_jpg.rf.9b871c0706ee4ab41959179d7fc1c069.jpg,Whitefly,roboflow,roboflow/8a10cf72-2bd8-4e11-af15-be1a316ee986_jpg,,test
+external_data/roboflow_raw_data/dataset/test/images/blobid5_png.rf.7c41298c830c2cf028aa3f4b7b1f8c22.jpg,Whitefly,roboflow,roboflow/blobid5_png,,train
+external_data/roboflow_raw_data/dataset/test/images/hgic_veg_insects_whitefly_damage_1571443_500_jpg.rf.b7b1cf32f4551b7faad8061288803029.jpg,Whitefly,roboflow,roboflow/hgic_veg_insects_whitefly_damage_1571443_500_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/HKPKQKEKLKPKZKPKEQPKLKUK6QPK4QT08QPKSKO08QO0RK2KEQA08Q2KQKUK0KD0ZKWK5Q10EQ9K2Q_jpg.rf.25134389984ebf64bdb1c323f0cada27.jpg,Whitefly,roboflow,roboflow/HKPKQKEKLKPKZKPKEQPKLKUK6QPK4QT08QPKSKO08QO0RK2KEQA08Q2KQKUK0KD0ZKWK5Q10EQ9K2Q_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/image_BG7xlv8orv9024n70rHtJcg_jpg.rf.76aa4d645e4095ed3a2088a587d0097c.jpg,Whitefly,roboflow,roboflow/image_BG7xlv8orv9024n70rHtJcg_jpg,,val
+external_data/roboflow_raw_data/dataset/test/images/images-5-_jpeg.rf.6a372490804e963ce52af4d769a56e07.jpg,Whitefly,roboflow,roboflow/images-5-_jpeg,,train
+external_data/roboflow_raw_data/dataset/test/images/OIP-2-_jpg.rf.eae5c7f3a21f200c09611cd07f9e0b1c.jpg,Whitefly,roboflow,roboflow/OIP-2-_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/orig_jpg.rf.eeccba46f014176e82e65019467f61a6.jpg,Whitefly,roboflow,roboflow/orig_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/RSBQJ0VQ108K6KZK1KXKVKLKEKLKC0PQLSPQPKSKC0HKT02QD0KKO0RKNKLKWKPQA0LKWKSKC0GQV0GQD0ZKO0VQJ0IK_jpg.rf.44e74c5a8f0fdb57aeb4532fed3b01ac.jpg,Whitefly,roboflow,roboflow/RSBQJ0VQ108K6KZK1KXKVKLKEKLKC0PQLSPQPKSKC0HKT02QD0KKO0RKNKLKWKPQA0LKWKSKC0GQV0GQD0ZKO0VQJ0IK_jpg,,val
+external_data/roboflow_raw_data/dataset/test/images/spiralling-whitefly-3-websize_jpg.rf.a71e50243f835e12babce3248b61c316.jpg,Whitefly,roboflow,roboflow/spiralling-whitefly-3-websize_jpg,,test
+external_data/roboflow_raw_data/dataset/test/images/stock-photo-cucumber-pests-in-the-garden-greenhouse-whitefly-trialeurodes-vaporariorum-a-primary-insect-1298536432_jpg.rf.ad3c10111c6a8f0d42001ec01c0965cc.jpg,Whitefly,roboflow,roboflow/stock-photo-cucumber-pests-in-the-garden-greenhouse-whitefly-trialeurodes-vaporariorum-a-primary-insect-1298536432_jpg,,test
+external_data/roboflow_raw_data/dataset/test/images/v0edtdza6y611_jpg.rf.bbd84ad33feb1d54c139f9cfa850a3c1.jpg,Whitefly,roboflow,roboflow/v0edtdza6y611_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/Whiteflies-1-1024x762_jpeg.rf.6b7250c5efdd66b5fcd40fd6c88f7d0f.jpg,Whitefly,roboflow,roboflow/Whiteflies-1-1024x762_jpeg,,val
+external_data/roboflow_raw_data/dataset/test/images/whiteflies-manioc-1558351848_jpg.rf.ae0bb28b9a230e939ad16ac655f9ff5d.jpg,Whitefly,roboflow,roboflow/whiteflies-manioc-1558351848_jpg,,test
+external_data/roboflow_raw_data/dataset/test/images/whiteflies-pepper-1578234338_jpg.rf.b8a6282d0e9b0e84f08c78be9f8c1ddb.jpg,Whitefly,roboflow,roboflow/whiteflies-pepper-1578234338_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/whiteflies_greenhouse-1-450x450_jpg.rf.818e2f12ef6c3cc8cc36a6d6d5055c7e.jpg,Whitefly,roboflow,roboflow/whiteflies_greenhouse-1-450x450_jpg,,val
+external_data/roboflow_raw_data/dataset/test/images/whitefly2_1_jpg.rf.7c7d8f5e8407f0ed21926109afd72d9a.jpg,Whitefly,roboflow,roboflow/whitefly2_1_jpg,,train
+external_data/roboflow_raw_data/dataset/test/images/whitefly_ID_web_1024x1024_jpg.rf.542dbf9499b1c67461ac26871d389235.jpg,Whitefly,roboflow,roboflow/whitefly_ID_web_1024x1024_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/1-Figure1-1_jpg.rf.77a0b83a67d1977bd7ad1d9a69f3bb33.jpg,Whitefly,roboflow,roboflow/1-Figure1-1_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/125540_jpg.rf.92aa2d2f63584ee8c60032a54fa14156.jpg,Whitefly,roboflow,roboflow/125540_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/1452655713830_jpeg.rf.7bb704e19c0ee79bda8f8ca07bb9ef99.jpg,Whitefly,roboflow,roboflow/1452655713830_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/18-most-dangerous-invasive-invertebrate-species-in-the-world-picture-18-Fn5RBI77s_jpg.rf.e80610430fff12eeeb8848a2e6bd7332.jpg,Whitefly,roboflow,roboflow/18-most-dangerous-invasive-invertebrate-species-in-the-world-picture-18-Fn5RBI77s_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/196098_web_jpg.rf.4f69cc23953e0bebbbcf443f193a1b32.jpg,Whitefly,roboflow,roboflow/196098_web_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/3-67_thumb_png.rf.5094776a1068895fca9a62b53cf0d398.jpg,Whitefly,roboflow,roboflow/3-67_thumb_png,,train
+external_data/roboflow_raw_data/dataset/train/images/3-s2-0-B9780124115842000068-f06-02-9780124115842_jpg.rf.e0b724563f65857a20fa6d41d2ff198f.jpg,Whitefly,roboflow,roboflow/3-s2-0-B9780124115842000068-f06-02-9780124115842_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/360_F_451758298_ABCRgGMBemgoEF3JngbmU4M93MuJC6bw_jpg.rf.0dec61f5d49214dc9e9a49dd366cd4cc.jpg,Whitefly,roboflow,roboflow/360_F_451758298_ABCRgGMBemgoEF3JngbmU4M93MuJC6bw_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/420602706f810e8f_jpg.rf.e2e6bf538b0e3c8267c914753746f8f9.jpg,Whitefly,roboflow,roboflow/420602706f810e8f_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/4KDKXKCK4KDKGKBKXKOKQK2KKKOKKK105QA0GQT01QHSBQJ05QB06QHS7KAKNQY0WQF0MKVKVQ304K_jpg.rf.75009742254e3fb587cd72134a8ad674.jpg,Whitefly,roboflow,roboflow/4KDKXKCK4KDKGKBKXKOKQK2KKKOKKK105QA0GQT01QHSBQJ05QB06QHS7KAKNQY0WQF0MKVKVQ304K_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/4QB0EQV01QEKGK9K0KPKRK2KHKPKIKZSIKPKSKCK8KVK7KDKSKA0GQ10GQUKZKD0AQOKQKB0QKB05QEKRKC0AQHSXKJ0_jpg.rf.e34204267401c40012e84295cba88b1f.jpg,Whitefly,roboflow,roboflow/4QB0EQV01QEKGK9K0KPKRK2KHKPKIKZSIKPKSKCK8KVK7KDKSKA0GQ10GQUKZKD0AQOKQKB0QKB05QEKRKC0AQHSXKJ0_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/5-53_thumb_png.rf.00d438454c2caa92bf965c79c04bf499.jpg,Whitefly,roboflow,roboflow/5-53_thumb_png,,train
+external_data/roboflow_raw_data/dataset/train/images/5077076-WEB_jpg.rf.553fc5f58316e6af454e8eb7213908ce.jpg,Whitefly,roboflow,roboflow/5077076-WEB_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/5402128-WEB_jpg.rf.0f4a5d7c5fb63ad0a8822dc4ccf06bde.jpg,Whitefly,roboflow,roboflow/5402128-WEB_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/5402306-WEB_jpg.rf.18b5d93dc76da7225bdadf526c0bfe54.jpg,Whitefly,roboflow,roboflow/5402306-WEB_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/5QB06QA04QB0GQ9K4KOKKKNKQKWK5KJ0IKHSIKVK8KLSBQOKBQZSVQ1K5K1KZK2KQKB0EQLSIK1KZK_jpg.rf.35c7a66229d1230568bed579db286958.jpg,Whitefly,roboflow,roboflow/5QB06QA04QB0GQ9K4KOKKKNKQKWK5KJ0IKHSIKVK8KLSBQOKBQZSVQ1K5K1KZK2KQKB0EQLSIK1KZK_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/a8e7843a012baab91adb3f604620bae4_jpg.rf.6d4f7098e9c0c6a6b1990386a3e3fcec.jpg,Whitefly,roboflow,roboflow/a8e7843a012baab91adb3f604620bae4_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/Aleurode4_jpeg.rf.f3ad8d6be9173da62d098af7b14b6e79.jpg,Whitefly,roboflow,roboflow/Aleurode4_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/Aleurode5_jpeg.rf.494536c1f5f37dfdb8516c401a2b685f.jpg,Whitefly,roboflow,roboflow/Aleurode5_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/Beet1_jpg.rf.f74f42759f65b3fd9a44d6dd67bdeb4b.jpg,Whitefly,roboflow,roboflow/Beet1_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/bem_arg3_jpg.rf.8d4dc1d348cc5a3953f7925addae4329.jpg,Whitefly,roboflow,roboflow/bem_arg3_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/biological-control-in-cucumber-crop-with-whitefly-trialeurodes-vaporariorium-infestation-parasitised-by-a-parasitoid-wasps-encarsia-formosa-2BD27MH_jpg.rf.c36986be8f46464c75ad4c0cb6a012b2.jpg,Whitefly,roboflow,roboflow/biological-control-in-cucumber-crop-with-whitefly-trialeurodes-vaporariorium-infestation-parasitised-by-a-parasitoid-wasps-encarsia-formosa-2BD27MH_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/blob_jpeg.rf.df9bce5bfef9d876ec615487d09f7f93.jpg,Whitefly,roboflow,roboflow/blob_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/Close-Up-of-Whiteflies-on-a-Plant_jpg.rf.ca9dd51e8636d41d3cbde61c8eb01f2b.jpg,Whitefly,roboflow,roboflow/Close-Up-of-Whiteflies-on-a-Plant_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/csm_Bemisia-tabaci_Koppert-BIological-Systems-4_d6fa069be2_jpg.rf.4b6844061cb363935d2a4ef12ad4ddb0.jpg,Whitefly,roboflow,roboflow/csm_Bemisia-tabaci_Koppert-BIological-Systems-4_d6fa069be2_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/csm_IMG_4766_12e0003504_jpg.rf.fcf14a33a3d7c8bfff4180548794e1f9.jpg,Whitefly,roboflow,roboflow/csm_IMG_4766_12e0003504_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/cucumber-pests_jpg.rf.18d51e0938703305338d898dcc6ea69f.jpg,Whitefly,roboflow,roboflow/cucumber-pests_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/cucumber-whitefly_jpg.rf.8c11e414e5d39be99084e7b0d1c2f8de.jpg,Whitefly,roboflow,roboflow/cucumber-whitefly_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/cucurbit-300x300_jpg.rf.c083fdc06e4d2f5a486c125a85889b40.jpg,Whitefly,roboflow,roboflow/cucurbit-300x300_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/download-1-_jpg.rf.3aca4ed3e6f80560e54f653baf672844.jpg,Whitefly,roboflow,roboflow/download-1-_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/fig1_3_jpg.rf.afd3c40a02aac214a21ad042ab0c2e7b.jpg,Whitefly,roboflow,roboflow/fig1_3_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/GHWFadult_jpg.rf.4450cc7e6df179c38c041e58263454e9.jpg,Whitefly,roboflow,roboflow/GHWFadult_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/greenhouse-whiteflies-2x_jpg.rf.4b2808b6b57130574f2c44a9175636e6.jpg,Whitefly,roboflow,roboflow/greenhouse-whiteflies-2x_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/GZHLPZZLVZIHRRWHOHGHTHNHZRNHHR5LWZXLUZWHUZ8LYH9HVZKLCHGHCH8HAH7H2ZMHAHSLBZNHRR9HBZ4L9Z8LHRXL_jpg.rf.c802c5cdbea4db01eb9d3b59fa144d49.jpg,Whitefly,roboflow,roboflow/GZHLPZZLVZIHRRWHOHGHTHNHZRNHHR5LWZXLUZWHUZ8LYH9HVZKLCHGHCH8HAH7H2ZMHAHSLBZNHRR9HBZ4L9Z8LHRXL_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/hgic_veg_insects_whitefly-adults-and-immatures-CC_1200_jpg.rf.c9b053eb8cb5d53874a625a559f64171.jpg,Whitefly,roboflow,roboflow/hgic_veg_insects_whitefly-adults-and-immatures-CC_1200_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/hgic_veg_insects_whitefly-adults-and-immatures2-CC_400_jpg.rf.ecf27bf94389b097247b0315450cc6b6.jpg,Whitefly,roboflow,roboflow/hgic_veg_insects_whitefly-adults-and-immatures2-CC_400_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/hgic_veg_whitefly_squash_l_jpg.rf.690655387fff2e638e103380a5efc29f.jpg,Whitefly,roboflow,roboflow/hgic_veg_whitefly_squash_l_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/i-1-_jpg.rf.af8c43330dca286c880d07e5825ca8bc.jpg,Whitefly,roboflow,roboflow/i-1-_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/i-ho-btab-ad-016_jpg.rf.388fe4baf4b919f13c0049c1466cbbb8.jpg,Whitefly,roboflow,roboflow/i-ho-btab-ad-016_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/i-ho-tvap-ad-015banner_jpg.rf.b5fff533b4b756ddbe93fdcad0274aa6.jpg,Whitefly,roboflow,roboflow/i-ho-tvap-ad-015banner_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/images-1-_jpeg.rf.c3955fca0a2085ddf11ef2799b776680.jpg,Whitefly,roboflow,roboflow/images-1-_jpeg,,test
+external_data/roboflow_raw_data/dataset/train/images/images-2-_jpeg.rf.6204374619ad6e9c215b6f513dfa676d.jpg,Whitefly,roboflow,roboflow/images-2-_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/images-3-_jpeg.rf.f9dcff9d5317c633ca23e8bb93983f68.jpg,Whitefly,roboflow,roboflow/images-3-_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/images-4-_jpeg.rf.bbf4dda8bbbc3b5dd0b235085ea359ad.jpg,Whitefly,roboflow,roboflow/images-4-_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/images_jpeg.rf.ab2c98ea00754d38fd39d0918a8106d7.jpg,Whitefly,roboflow,roboflow/images_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/images_jpg.rf.46da7ac4d031764e09003ab6c9d2a6f8.jpg,Whitefly,roboflow,roboflow/images_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/IMG_4376-495x400_jpg.rf.17c7db2404ce312a98e7100dda889ba1.jpg,Whitefly,roboflow,roboflow/IMG_4376-495x400_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/kak-belokrylka-vredit-ogurcam-i-kak-ot-nee-izbavitsya_jpg.rf.0f66723c2aea6f6fb7fff23e8621a0c9.jpg,Whitefly,roboflow,roboflow/kak-belokrylka-vredit-ogurcam-i-kak-ot-nee-izbavitsya_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/mosca-blanca-999x568_jpg.rf.1c785f3cd3f39d05b8a052fcfb5cdb9a.jpg,Whitefly,roboflow,roboflow/mosca-blanca-999x568_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/moscablanca_jpg.rf.a9472b18a270fe69c1375145ea728394.jpg,Whitefly,roboflow,roboflow/moscablanca_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/MTc0MzU1MTkxMzk3NzU0NTAy_jpg.rf.509eb20b0182bb1ed839fdfa5bc5f960.jpg,Whitefly,roboflow,roboflow/MTc0MzU1MTkxMzk3NzU0NTAy_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/OIP-1-_jpg.rf.dcbaa9fa2e54d812457a5f5b4470dc0e.jpg,Whitefly,roboflow,roboflow/OIP-1-_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/OIP-4-_jpg.rf.6f8a4d102c2236ef63f7f9af3f40a916.jpg,Whitefly,roboflow,roboflow/OIP-4-_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/OIP-5-_jpg.rf.b067da9fad1e35baf90897917f587802.jpg,Whitefly,roboflow,roboflow/OIP-5-_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/OIP-6-_jpg.rf.9b97e39142dd129e802c01782e6e2baf.jpg,Whitefly,roboflow,roboflow/OIP-6-_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/OIP_jpg.rf.528d9c620159710a24ff48bfbd485724.jpg,Whitefly,roboflow,roboflow/OIP_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/patch_-_bugs_-_white_fly_jpg.rf.fd5429c3f79e60d0f14fab1228f6f306.jpg,Whitefly,roboflow,roboflow/patch_-_bugs_-_white_fly_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/Picture1_png.rf.4e39e5132b2e2a853d89546e3adb890b.jpg,Whitefly,roboflow,roboflow/Picture1_png,,train
+external_data/roboflow_raw_data/dataset/train/images/Plumeria-Whiteflies-1_jpg.rf.b5536e478364b728ef64b9ceb0d57361.jpg,Whitefly,roboflow,roboflow/Plumeria-Whiteflies-1_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/poinsettia_pests_fig102_adult_whitefly_unid_-1-_fmt_png.rf.af96bb70363557a10304fcc6dceee6f1.jpg,Whitefly,roboflow,roboflow/poinsettia_pests_fig102_adult_whitefly_unid_-1-_fmt_png,,train
+external_data/roboflow_raw_data/dataset/train/images/R-2-_jpg.rf.ccdc6a96e8e2832b0d4c52f952ba8e39.jpg,Whitefly,roboflow,roboflow/R-2-_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/R-3-_jpg.rf.01d9de121f2503d9de9df1adab8b118d.jpg,Whitefly,roboflow,roboflow/R-3-_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/R8_jpg.rf.25f8e06dd75f39a3ef17746ae88d6d86.jpg,Whitefly,roboflow,roboflow/R8_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/rsz-white-flies-on-cannabis-plant_jpg.rf.972c182d9a681eb36237c8159ece2c98.jpg,Whitefly,roboflow,roboflow/rsz-white-flies-on-cannabis-plant_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/sap-sucking-collage_jpg.rf.46694080157d683ede79400e57ac7e0b.jpg,Whitefly,roboflow,roboflow/sap-sucking-collage_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/Scorching-damage-on-squash-due-to-silverleaf-whitefly-2800nqq_jpg.rf.a4e4404088f871fbc8d82b183a4b5cee.jpg,Whitefly,roboflow,roboflow/Scorching-damage-on-squash-due-to-silverleaf-whitefly-2800nqq_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/silverleaf-whiteflies-223x300_jpeg.rf.e3d95f9a154d86600fe0af414ea2d2b9.jpg,Whitefly,roboflow,roboflow/silverleaf-whiteflies-223x300_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/Silverleaf_whitefly_jpg.rf.7bcd8b2d52a714df779020aa3f1dbde3.jpg,Whitefly,roboflow,roboflow/Silverleaf_whitefly_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/Sooty-mold_jpg.rf.4643ec555c22a3b6cc8897c21f5e3cf8.jpg,Whitefly,roboflow,roboflow/Sooty-mold_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/spiralling-whitefly-1-websize_jpg.rf.dc30a6845bf25aa0a1402ed43df995d6.jpg,Whitefly,roboflow,roboflow/spiralling-whitefly-1-websize_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/stunning1_jpg.rf.78ecd276901ace29508292e424ad5be1.jpg,Whitefly,roboflow,roboflow/stunning1_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/stunning2_jpg.rf.f6171ce379f185ca883ffeaa8956ff61.jpg,Whitefly,roboflow,roboflow/stunning2_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/SW1244_790940_jpg.rf.395610c9c4d90e80342c367de1251db6.jpg,Whitefly,roboflow,roboflow/SW1244_790940_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/sweetpotato-whitefly-_jpeg.rf.f0d3d898cbfb3d2bd7ee35da6e4454e8.jpg,Whitefly,roboflow,roboflow/sweetpotato-whitefly-_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/White-flies01_jpg.rf.bea534f703a132e2e51dc85b0954a97f.jpg,Whitefly,roboflow,roboflow/sap-sucking-collage_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/White-fly-1_jpg.rf.647af896c9162f7f96ad6cbb62489332.jpg,Whitefly,roboflow,roboflow/White-fly-1_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/white-fly-cannabis-pest_jpg.rf.ffc29039403d42a56001a86bc91069ae.jpg,Whitefly,roboflow,roboflow/white-fly-cannabis-pest_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/white-fly-compressed_jpg.rf.b95fad43803e4eeb3a333603494b087b.jpg,Whitefly,roboflow,roboflow/white-fly-compressed_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/Whiteflies-and-eggs-800x533_jpg.rf.f47ad7c9cb0987adbd2b1d7fce1b14a1.jpg,Whitefly,roboflow,roboflow/Whiteflies-and-eggs-800x533_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-are-commonly-found-on-the-underside-of_jpeg.rf.bbd20601d3372002e180870c50c7efb4.jpg,Whitefly,roboflow,roboflow/whiteflies-are-commonly-found-on-the-underside-of_jpeg,,train
+external_data/roboflow_raw_data/dataset/train/images/Whiteflies-Attacking-a-Brassica-Leaf_jpg.rf.8a213d1bf6a3a4a89cc836c5e9ce5899.jpg,Whitefly,roboflow,roboflow/Whiteflies-Attacking-a-Brassica-Leaf_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-banana-1562073973_jpg.rf.91c916009538dca07050e8b301929bcc.jpg,Whitefly,roboflow,roboflow/whiteflies-banana-1562073973_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-cabbage-1_jpg.rf.4526e2647ad785e2ad35e8620424e1fc.jpg,Whitefly,roboflow,roboflow/whiteflies-cabbage-1_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-citrus-1666185059_jpg.rf.d88de8273149fe7c3130091843da398c.jpg,Whitefly,roboflow,roboflow/whiteflies-citrus-1666185059_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-cucumber-1578238038_jpg.rf.5c44b6f5a084858f777f68387968b9e2.jpg,Whitefly,roboflow,roboflow/whiteflies-cucumber-1578238038_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-cucumber-1_jpg.rf.9bb4cd6930819dec98172bee3f35767d.jpg,Whitefly,roboflow,roboflow/whiteflies-cucumber-1_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-guava-1666186845_jpg.rf.87fab79b2dc9adf293bca95cd66a6470.jpg,Whitefly,roboflow,roboflow/whiteflies-guava-1666186845_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/Whiteflies-in-Croatia-Demonstration-of-heavy-whitefly-infestations-on-cucumbers-grown-in_Q640_jpg.rf.3af06214646d87a64ec2d48b468b8b2e.jpg,Whitefly,roboflow,roboflow/Whiteflies-in-Croatia-Demonstration-of-heavy-whitefly-infestations-on-cucumbers-grown-in_Q640_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/Whiteflies-on-leaves_jpg.rf.75a8a5c81bf0bc4bec031e43e45e1ecf.jpg,Whitefly,roboflow,roboflow/Whiteflies-on-leaves_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies-pepper-1556112032_jpg.rf.cf97048b78d9f75a0a2a8a41d69f9cfc.jpg,Whitefly,roboflow,roboflow/whiteflies-pepper-1556112032_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/whiteflies_0_jpg.rf.02486c880d2868576fb1dc65edd0a3ea.jpg,Whitefly,roboflow,roboflow/whiteflies_0_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whiteflies_rapeseed_jpg.rf.3f6b4fbbfa6055238d8f29b043f035e5.jpg,Whitefly,roboflow,roboflow/whiteflies_rapeseed_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whitefliesonleaf-300x300-1_jpg.rf.686c99efe5e34e0d7360f809b7d0d620.jpg,Whitefly,roboflow,roboflow/whitefliesonleaf-300x300-1_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/whitefliesonsquashleaf_jpg.rf.9f03b2e0d08e05f56f202174528067cf.jpg,Whitefly,roboflow,roboflow/whitefliesonsquashleaf_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whitefly-720x480_jpg.rf.95abe0522716300288b386919a394436.jpg,Whitefly,roboflow,roboflow/whitefly-720x480_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whitefly-adults-and-larvae-garden-pest-shutterstock-com_15882_jpg.rf.5e9d474db0d8e0d6674be949735adbcc.jpg,Whitefly,roboflow,roboflow/whitefly-adults-and-larvae-garden-pest-shutterstock-com_15882_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whitefly-braun_jpg.rf.f22df96395fde807b9878a272fdfabbf.jpg,Whitefly,roboflow,roboflow/whitefly-braun_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whitefly-close-up_jpg.rf.45c7e68ff1332eb5c29de48d81c651a4.jpg,Whitefly,roboflow,roboflow/whitefly-close-up_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/Whitefly-Nymphs-Close-Up_jpg.rf.af191e1363827f69268b2483c4ef00b9.jpg,Whitefly,roboflow,roboflow/Whitefly-Nymphs-Close-Up_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/whitefly-on-leaf-260nw-1378742507_jpg.rf.a5f332fd2ccd454179f1b92e14ece274.jpg,Whitefly,roboflow,roboflow/whitefly-on-leaf-260nw-1378742507_jpg,,test
+external_data/roboflow_raw_data/dataset/train/images/whitefly2_jpg.rf.c28370249122a8176bffbd8d6765e58f.jpg,Whitefly,roboflow,roboflow/whitefly2_jpg,,val
+external_data/roboflow_raw_data/dataset/train/images/whitefly_300x300_jpg.rf.91cd41aa9c558b8528ea8b64d3915b38.jpg,Whitefly,roboflow,roboflow/whitefly_300x300_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/Whitefly_jpg.rf.d2ef237f3071157e7af7a5c0bc60c165.jpg,Whitefly,roboflow,roboflow/Whitefly_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/XKAK5K1KKKY02QB0UQY09QA04QA0EQ9KRKO0KKA0ZKO0RK6KKKOK7KRS2QD05QT0GQT0PQT05QNK6QO0ZKT0ZKEKHKC0_jpg.rf.613dce3ead1c914bd97c8893ff41d70f.jpg,Whitefly,roboflow,roboflow/XKAK5K1KKKY02QB0UQY09QA04QA0EQ9KRKO0KKA0ZKO0RK6KKKOK7KRS2QD05QT0GQT0PQT05QNK6QO0ZKT0ZKEKHKC0_jpg,,train
+external_data/roboflow_raw_data/dataset/train/images/ZKEKSK6K4KB0VQO0EQB05QV08QB00KV0EQLSXKJ08QUKLKPKIKTKXK2KXKTK8KCK0K2K2QHSWQTKIKCKSKEK0KWK5K1K_jpg.rf.f4d137e7930671b63721ef864247f84e.jpg,Whitefly,roboflow,roboflow/ZKEKSK6K4KB0VQO0EQB05QV08QB00KV0EQLSXKJ08QUKLKPKIKTKXK2KXKTK8KCK0K2K2QHSWQTKIKCKSKEK0KWK5K1K_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/05587f1_jpg.rf.b521dc7b1ed69f5fa51979ad2b6befd8.jpg,Whitefly,roboflow,roboflow/05587f1_jpg,,test
+external_data/roboflow_raw_data/dataset/valid/images/1400976695396_jpeg.rf.95b0de986b12cad2ff45bf0686ee84d8.jpg,Whitefly,roboflow,roboflow/1400976695396_jpeg,,train
+external_data/roboflow_raw_data/dataset/valid/images/1576579-WEB_jpg.rf.646fd4233747f1e6018085644593d7f8.jpg,Whitefly,roboflow,roboflow/1576579-WEB_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/159070_kak-izbavitsya-ot-belokrylki-v-teplitse-na-ogurtsah-samye-effektivnye-metody-borby-i-profilaktiki1_jpg.rf.48dce351bb523ada695b99aee92f79d5.jpg,Whitefly,roboflow,roboflow/159070_kak-izbavitsya-ot-belokrylki-v-teplitse-na-ogurtsah-samye-effektivnye-metody-borby-i-profilaktiki1_jpg,,test
+external_data/roboflow_raw_data/dataset/valid/images/303a_jpg.rf.bd3b0fa57f7abe384c4d82fdd7e0bd83.jpg,Whitefly,roboflow,roboflow/303a_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/319a_jpg.rf.80bda0964c8fc4231cc3cbae99ae7839.jpg,Whitefly,roboflow,roboflow/319a_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/80111252_jpg.rf.2ca16bc6767e32bd3e3761ed8e143bc8.jpg,Whitefly,roboflow,roboflow/80111252_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/blobid0_png.rf.7e332f641615498ef4f5b1900b943cc0.jpg,Whitefly,roboflow,roboflow/blobid0_png,,train
+external_data/roboflow_raw_data/dataset/valid/images/cucumber_jpg.rf.a0acfc2745e13084c00d3befa9a76d77.jpg,Whitefly,roboflow,roboflow/cucumber_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/greenhouse-whitefly-2x_jpg.rf.50fc906d06df5b1a16b4b0789a11cae0.jpg,Whitefly,roboflow,roboflow/greenhouse-whitefly-2x_jpg,,test
+external_data/roboflow_raw_data/dataset/valid/images/Group-of-Whiteflies-on-Green-Plant_jpg.rf.1036dea9be2dff6698903e4ec7710440.jpg,Whitefly,roboflow,roboflow/Group-of-Whiteflies-on-Green-Plant_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/images_jpg.rf.548bc76db26b9f6c17b181e280b56a26.jpg,Whitefly,roboflow,roboflow/images_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/kak-belokrylka-vredit-ogurcam-i-kak-ot-nee-izbavitsya-9_jpg.rf.6e8fccc04e88c44b5580b1a361c29639.jpg,Whitefly,roboflow,roboflow/kak-belokrylka-vredit-ogurcam-i-kak-ot-nee-izbavitsya-9_jpg,,val
+external_data/roboflow_raw_data/dataset/valid/images/kak-vyglyadit-belokrylka-i-kak-ot-nee-izbavitsya_jpg.rf.5a335f009274d738b577ae48f826c954.jpg,Whitefly,roboflow,roboflow/kak-vyglyadit-belokrylka-i-kak-ot-nee-izbavitsya_jpg,,val
+external_data/roboflow_raw_data/dataset/valid/images/OIP-3-_jpg.rf.2f1d25eb829017332a40b9a39a716521.jpg,Whitefly,roboflow,roboflow/OIP-3-_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/R-1-_jpg.rf.2a58c21eff5b40f0d7177fc9688faacb.jpg,Whitefly,roboflow,roboflow/R-1-_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/R-4-_jpg.rf.d5e90a1b2958dfac3135c685351df668.jpg,Whitefly,roboflow,roboflow/R-4-_jpg,,val
+external_data/roboflow_raw_data/dataset/valid/images/R-5-_jpg.rf.8e9438d10dd4ea079dce902eb408c86b.jpg,Whitefly,roboflow,roboflow/R-5-_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/TLMZVLIZOLMZTLKZVLERBL3LFZZZPLFLTZQRPLIROZLZOLZZ6LHZDLSZ2LFL6LXRJZHZULSROZMRJZ_jpg.rf.66695d76e59b882d5dba3eb76cab3e42.jpg,Whitefly,roboflow,roboflow/sap-sucking-collage_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/whiteflies-cucumber-1578238123_jpg.rf.4dbeb6e6713640e8a3cdfd45f4c9b6ad.jpg,Whitefly,roboflow,roboflow/whiteflies-cucumber-1578238123_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/whiteflies_2_1024x1024_jpg.rf.35b52bdddf1b45ac8418b532a02a822c.jpg,Whitefly,roboflow,roboflow/whiteflies_2_1024x1024_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/Whiteflies_cover_web_jpg.rf.28ed3373cd9ae07bbbf1bf819fa3b2d0.jpg,Whitefly,roboflow,roboflow/Whiteflies_cover_web_jpg,,val
+external_data/roboflow_raw_data/dataset/valid/images/whitefly-1_jpg.rf.0fdc871c99fc4ba27191a58d6652bdb1.jpg,Whitefly,roboflow,roboflow/whitefly-1_jpg,,train
+external_data/roboflow_raw_data/dataset/valid/images/Whitefly_Fig01asm_jpg.rf.84c67faf8aa1a61fc75ac8f3a0c57463.jpg,Whitefly,roboflow,roboflow/Whitefly_Fig01asm_jpg,,val
+external_data/roboflow_raw_data/dataset/valid/images/whitefly_squ4_jpg.rf.6bca543ec340c3aab0039be9d56dc33a.jpg,Whitefly,roboflow,roboflow/whitefly_squ4_jpg,,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (1).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (1),,val
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (11).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (11),,test
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (14).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (14),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (17).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (17),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (2).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (2),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (22).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (22),,test
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (25).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (25),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (28).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (28),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (30).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (30),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (33).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (33),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (36).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (36),,test
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (39).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (39),,val
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (41).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (41),,val
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (44).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (41),,val
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (47).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (47),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (5).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (5),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (52).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (52),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (55).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (55),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (58).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (11),,test
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (60).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (60),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (63).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (63),,val
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (66).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (66),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (69).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (69),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (71).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (71),,val
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (74).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (74),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (77).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (77),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (8).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (8),,test
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (82).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (82),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (85).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (2),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (88).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (88),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (90).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (90),,test
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (93).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (93),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (96).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (96),,train
+external_data/wmc4/healthy/Mangalore Cucumber Healthy (99).jpg,Healthy Leaf,wmc_healthy,wmc_healthy/Mangalore Cucumber Healthy (99),,train
+external_data/wmc4/miner/Mangalore cucumber (1).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (1),0.607626 0.459064 0.085632 0.064964,train
+external_data/wmc4/miner/Mangalore cucumber (1).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (1),0.347345 0.220747 0.057522 0.055064,train
+external_data/wmc4/miner/Mangalore cucumber (10).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (10),0.174897 0.470165 0.117970 0.072016,val
+external_data/wmc4/miner/Mangalore cucumber (10).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (10),0.279150 0.792181 0.074074 0.053498,val
+external_data/wmc4/miner/Mangalore cucumber (101).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (101),0.152655 0.184038 0.122419 0.112750,train
+external_data/wmc4/miner/Mangalore cucumber (101).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (101),0.106932 0.873648 0.063422 0.076041,train
+external_data/wmc4/miner/Mangalore cucumber (12).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (12),0.422068 0.264403 0.047840 0.129630,test
+external_data/wmc4/miner/Mangalore cucumber (12).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (12),0.584105 0.450617 0.072531 0.069959,test
+external_data/wmc4/miner/Mangalore cucumber (15).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (15),0.264060 0.453704 0.098765 0.026749,train
+external_data/wmc4/miner/Mangalore cucumber (15).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (15),0.180384 0.451646 0.057613 0.043210,train
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (18),,test
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (18),0.247599 0.653292 0.109739 0.047325,test
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (18),0.449044 0.657831 0.081767 0.035100,test
+external_data/wmc4/miner/Mangalore cucumber (19).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (19),0.482167 0.475309 0.183813 0.144033,train
+external_data/wmc4/miner/Mangalore cucumber (19).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (19),0.077503 0.734568 0.098765 0.074074,train
+external_data/wmc4/miner/Mangalore cucumber (2).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (2),,val
+external_data/wmc4/miner/Mangalore cucumber (2).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (2),0.426840 0.577160 0.080476 0.055556,val
+external_data/wmc4/miner/Mangalore cucumber (2).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (2),0.842021 0.623457 0.084134 0.041152,val
+external_data/wmc4/miner/Mangalore cucumber (20).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (20),0.688974 0.743680 0.088837 0.047031,train
+external_data/wmc4/miner/Mangalore cucumber (20).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (20),0.939807 0.438713 0.104514 0.039683,train
+external_data/wmc4/miner/Mangalore cucumber (21).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (21),0.223428 0.667789 0.116390 0.071081,train
+external_data/wmc4/miner/Mangalore cucumber (22).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (22),0.579275 0.400806 0.035437 0.047154,val
+external_data/wmc4/miner/Mangalore cucumber (22).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (22),0.525549 0.607425 0.037723 0.030007,val
+external_data/wmc4/miner/Mangalore cucumber (23).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (23),0.606391 0.416364 0.072622 0.060518,test
+external_data/wmc4/miner/Mangalore cucumber (23).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (23),0.727427 0.409102 0.095215 0.043573,test
+external_data/wmc4/miner/Mangalore cucumber (24).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (24),0.028235 0.874486 0.056470 0.078189,train
+external_data/wmc4/miner/Mangalore cucumber (24).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (24),0.952675 0.822016 0.073160 0.047325,train
+external_data/wmc4/miner/Mangalore cucumber (25).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (25),0.246793 0.457548 0.040430 0.018410,test
+external_data/wmc4/miner/Mangalore cucumber (26).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (26),0.212849 0.257202 0.171925 0.082305,val
+external_data/wmc4/miner/Mangalore cucumber (26).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (26),0.821902 0.276749 0.146319 0.063786,val
+external_data/wmc4/miner/Mangalore cucumber (27).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (27),0.100023 0.251029 0.200046 0.078189,val
+external_data/wmc4/miner/Mangalore cucumber (27).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (27),0.730453 0.269547 0.182899 0.065844,val
+external_data/wmc4/miner/Mangalore cucumber (28).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (28),0.119469 0.640937 0.238938 0.275320,train
+external_data/wmc4/miner/Mangalore cucumber (29).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (29),,val
+external_data/wmc4/miner/Mangalore cucumber (29).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (29),0.807522 0.962389 0.030973 0.075221,val
+external_data/wmc4/miner/Mangalore cucumber (29).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (29),0.319743 0.801025 0.026338 0.067425,val
+external_data/wmc4/miner/Mangalore cucumber (3).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (3),0.808259 0.441003 0.147493 0.268764,test
+external_data/wmc4/miner/Mangalore cucumber (3).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (3),0.397493 0.467224 0.125369 0.235988,test
+external_data/wmc4/miner/Mangalore cucumber (30).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (30),0.534294 0.351852 0.160037 0.069959,train
+external_data/wmc4/miner/Mangalore cucumber (31).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (31),0.645290 0.875343 0.109739 0.042867,train
+external_data/wmc4/miner/Mangalore cucumber (32).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (32),0.812684 0.406916 0.041298 0.081285,train
+external_data/wmc4/miner/Mangalore cucumber (32).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (32),0.227876 0.671747 0.033923 0.097017,train
+external_data/wmc4/miner/Mangalore cucumber (34).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (34),0.453013 0.444234 0.033713 0.054315,train
+external_data/wmc4/miner/Mangalore cucumber (34).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (34),0.776970 0.833802 0.026338 0.035586,train
+external_data/wmc4/miner/Mangalore cucumber (35).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (35),,val
+external_data/wmc4/miner/Mangalore cucumber (35).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (35),0.648605 0.709877 0.086877 0.057613,val
+external_data/wmc4/miner/Mangalore cucumber (36).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (36),0.314241 0.649969 0.128646 0.144215,train
+external_data/wmc4/miner/Mangalore cucumber (36).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (36),0.429204 0.361029 0.053097 0.099639,train
+external_data/wmc4/miner/Mangalore cucumber (37).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (37),0.596022 0.596708 0.131687 0.065844,val
+external_data/wmc4/miner/Mangalore cucumber (37).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (37),0.699061 0.607787 0.088636 0.041152,val
+external_data/wmc4/miner/Mangalore cucumber (38).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (38),0.755162 0.611439 0.103245 0.117994,train
+external_data/wmc4/miner/Mangalore cucumber (39).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (39),0.725874 0.183898 0.069532 0.076790,val
+external_data/wmc4/miner/Mangalore cucumber (4).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (4),0.258433 0.453071 0.047835 0.026116,train
+external_data/wmc4/miner/Mangalore cucumber (4).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (4),0.341441 0.301124 0.036580 0.024533,train
+external_data/wmc4/miner/Mangalore cucumber (40).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (40),0.474394 0.492798 0.263374 0.109053,train
+external_data/wmc4/miner/Mangalore cucumber (40).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (40),0.406722 0.349794 0.069502 0.053498,train
+external_data/wmc4/miner/Mangalore cucumber (41).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (41),,train
+external_data/wmc4/miner/Mangalore cucumber (41).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (41),0.152492 0.787037 0.256059 0.121399,train
+external_data/wmc4/miner/Mangalore cucumber (41).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (41),0.232510 0.902263 0.141747 0.076132,train
+external_data/wmc4/miner/Mangalore cucumber (42).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (42),,train
+external_data/wmc4/miner/Mangalore cucumber (42).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (42),0.048811 0.705761 0.097622 0.115226,train
+external_data/wmc4/miner/Mangalore cucumber (42).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (42),0.580018 0.413580 0.114312 0.053498,train
+external_data/wmc4/miner/Mangalore cucumber (43).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (43),,train
+external_data/wmc4/miner/Mangalore cucumber (43).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (43),0.078075 0.648148 0.156150 0.065844,train
+external_data/wmc4/miner/Mangalore cucumber (43).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (43),0.825560 0.615226 0.117055 0.057613,train
+external_data/wmc4/miner/Mangalore cucumber (44).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (44),0.446520 0.126622 0.123809 0.050649,train
+external_data/wmc4/miner/Mangalore cucumber (44).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (44),0.791214 0.177271 0.092856 0.050649,train
+external_data/wmc4/miner/Mangalore cucumber (45).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (45),0.353982 0.687480 0.073746 0.222878,test
+external_data/wmc4/miner/Mangalore cucumber (45).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (45),0.561209 0.047689 0.092920 0.086529,test
+external_data/wmc4/miner/Mangalore cucumber (46).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (46),0.402655 0.633727 0.076696 0.215011,test
+external_data/wmc4/miner/Mangalore cucumber (46).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (46),0.409819 0.196072 0.037927 0.074917,test
+external_data/wmc4/miner/Mangalore cucumber (47).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (47),,train
+external_data/wmc4/miner/Mangalore cucumber (47).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (47),0.740413 0.644215 0.058997 0.072108,train
+external_data/wmc4/miner/Mangalore cucumber (47).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (47),0.247050 0.799902 0.036873 0.095051,train
+external_data/wmc4/miner/Mangalore cucumber (48).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (48),,train
+external_data/wmc4/miner/Mangalore cucumber (48).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (48),0.323009 0.562275 0.064897 0.137660,train
+external_data/wmc4/miner/Mangalore cucumber (49).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (49),0.128319 0.152573 0.109145 0.301540,train
+external_data/wmc4/miner/Mangalore cucumber (49).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (49),0.855457 0.716323 0.076696 0.249099,train
+external_data/wmc4/miner/Mangalore cucumber (5).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (5),0.481710 0.762346 0.283493 0.067901,test
+external_data/wmc4/miner/Mangalore cucumber (50).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (50),0.089971 0.939200 0.082596 0.102262,test
+external_data/wmc4/miner/Mangalore cucumber (50).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (50),0.887906 0.302032 0.058997 0.123238,test
+external_data/wmc4/miner/Mangalore cucumber (51).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (51),0.275811 0.275811 0.044248 0.076041,train
+external_data/wmc4/miner/Mangalore cucumber (51).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (51),0.325221 0.552442 0.045723 0.052442,train
+external_data/wmc4/miner/Mangalore cucumber (52).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (52),0.109053 0.937243 0.205761 0.125514,train
+external_data/wmc4/miner/Mangalore cucumber (52).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (52),0.657205 0.646565 0.102001 0.020576,train
+external_data/wmc4/miner/Mangalore cucumber (53).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (53),0.802088 0.469250 0.166641 0.060585,train
+external_data/wmc4/miner/Mangalore cucumber (53).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (53),0.423182 0.296296 0.139003 0.069959,train
+external_data/wmc4/miner/Mangalore cucumber (54).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (54),0.306047 0.717634 0.078171 0.215011,train
+external_data/wmc4/miner/Mangalore cucumber (54).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (54),0.433628 0.514422 0.120944 0.128482,train
+external_data/wmc4/miner/Mangalore cucumber (55).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (55),0.936671 0.781893 0.123457 0.119342,train
+external_data/wmc4/miner/Mangalore cucumber (55).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (55),0.104481 0.810700 0.169182 0.074074,train
+external_data/wmc4/miner/Mangalore cucumber (57).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (57),0.514841 0.142064 0.023046 0.045887,test
+external_data/wmc4/miner/Mangalore cucumber (57).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (57),0.486726 0.691064 0.038717 0.026221,test
+external_data/wmc4/miner/Mangalore cucumber (58).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (58),0.801783 0.862140 0.076818 0.049383,train
+external_data/wmc4/miner/Mangalore cucumber (58).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (58),0.410053 0.601117 0.047031 0.070547,train
+external_data/wmc4/miner/Mangalore cucumber (59).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (59),0.352288 0.727647 0.089787 0.112233,train
+external_data/wmc4/miner/Mangalore cucumber (6).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (6),0.619342 0.092593 0.123457 0.111111,train
+external_data/wmc4/miner/Mangalore cucumber (6).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (6),0.758573 0.441015 0.085963 0.119342,train
+external_data/wmc4/miner/Mangalore cucumber (60).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (60),0.679012 0.548073 0.274348 0.115975,train
+external_data/wmc4/miner/Mangalore cucumber (60).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (60),0.483996 0.175926 0.160037 0.039095,train
+external_data/wmc4/miner/Mangalore cucumber (63).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (63),0.097622 0.199588 0.131687 0.053498,train
+external_data/wmc4/miner/Mangalore cucumber (63).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (63),0.933471 0.385802 0.120713 0.051440,train
+external_data/wmc4/miner/Mangalore cucumber (64).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (64),,train
+external_data/wmc4/miner/Mangalore cucumber (64).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (64),0.685185 0.592593 0.096022 0.037037,train
+external_data/wmc4/miner/Mangalore cucumber (65).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (65),0.246228 0.205761 0.123457 0.053498,train
+external_data/wmc4/miner/Mangalore cucumber (67).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (67),0.409672 0.498236 0.158512 0.049971,val
+external_data/wmc4/miner/Mangalore cucumber (67).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (67),0.088477 0.304527 0.098765 0.074074,val
+external_data/wmc4/miner/Mangalore cucumber (68).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (68),,val
+external_data/wmc4/miner/Mangalore cucumber (68).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (68),0.695428 0.410849 0.042773 0.089151,val
+external_data/wmc4/miner/Mangalore cucumber (68).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (68),0.636431 0.320387 0.042773 0.086529,val
+external_data/wmc4/miner/Mangalore cucumber (70).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (70),,train
+external_data/wmc4/miner/Mangalore cucumber (70).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (70),0.755900 0.597569 0.066372 0.095349,train
+external_data/wmc4/miner/Mangalore cucumber (70).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (70),0.369402 0.498644 0.054975 0.083430,train
+external_data/wmc4/miner/Mangalore cucumber (71).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (71),0.873887 0.425240 0.101030 0.048991,train
+external_data/wmc4/miner/Mangalore cucumber (71).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (71),0.866369 0.390947 0.065844 0.049383,train
+external_data/wmc4/miner/Mangalore cucumber (72).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (72),0.129612 0.564261 0.228624 0.093384,train
+external_data/wmc4/miner/Mangalore cucumber (72).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (72),0.136488 0.748971 0.178326 0.119342,train
+external_data/wmc4/miner/Mangalore cucumber (73).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (73),0.724966 0.419753 0.054870 0.078189,train
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (74),,test
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (74),0.542035 0.526221 0.072271 0.110128,test
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (74),0.060472 0.663881 0.038348 0.107506,test
+external_data/wmc4/miner/Mangalore cucumber (75).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (75),,train
+external_data/wmc4/miner/Mangalore cucumber (75).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (75),0.510324 0.864471 0.061947 0.204523,train
+external_data/wmc4/miner/Mangalore cucumber (75).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (75),0.370206 0.852671 0.044248 0.107506,train
+external_data/wmc4/miner/Mangalore cucumber (76).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (76),,train
+external_data/wmc4/miner/Mangalore cucumber (76).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (76),0.819322 0.426581 0.095870 0.162570,train
+external_data/wmc4/miner/Mangalore cucumber (77).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (77),,train
+external_data/wmc4/miner/Mangalore cucumber (77).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (77),0.531711 0.435759 0.054572 0.191413,train
+external_data/wmc4/miner/Mangalore cucumber (77).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (77),0.529499 0.665192 0.061947 0.141593,train
+external_data/wmc4/miner/Mangalore cucumber (78).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (78),,train
+external_data/wmc4/miner/Mangalore cucumber (78).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (78),0.452065 0.598328 0.092920 0.228122,train
+external_data/wmc4/miner/Mangalore cucumber (79).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (79),,val
+external_data/wmc4/miner/Mangalore cucumber (79).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (79),0.292035 0.572108 0.115044 0.149459,val
+external_data/wmc4/miner/Mangalore cucumber (79).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (79),0.370206 0.307276 0.064897 0.112750,val
+external_data/wmc4/miner/Mangalore cucumber (80).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (80),,train
+external_data/wmc4/miner/Mangalore cucumber (80).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (80),0.430678 0.667158 0.044248 0.117994,train
+external_data/wmc4/miner/Mangalore cucumber (80).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (80),0.783186 0.309898 0.041298 0.078663,train
+external_data/wmc4/miner/Mangalore cucumber (81).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (81),,train
+external_data/wmc4/miner/Mangalore cucumber (81).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (81),0.564159 0.606522 0.060472 0.140937,train
+external_data/wmc4/miner/Mangalore cucumber (83).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (83),,train
+external_data/wmc4/miner/Mangalore cucumber (83).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (83),0.828171 0.424615 0.101770 0.288430,train
+external_data/wmc4/miner/Mangalore cucumber (83).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (83),0.781711 0.640937 0.168142 0.137660,train
+external_data/wmc4/miner/Mangalore cucumber (84).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (84),,train
+external_data/wmc4/miner/Mangalore cucumber (84).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (84),0.589163 0.608025 0.117970 0.109053,train
+external_data/wmc4/miner/Mangalore cucumber (84).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (84),0.969136 0.868313 0.060357 0.106996,train
+external_data/wmc4/miner/Mangalore cucumber (85).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (85),,train
+external_data/wmc4/miner/Mangalore cucumber (85).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (85),0.412209 0.467078 0.080476 0.045267,train
+external_data/wmc4/miner/Mangalore cucumber (85).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (85),0.606081 0.508230 0.065844 0.041152,train
+external_data/wmc4/miner/Mangalore cucumber (86).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (86),,train
+external_data/wmc4/miner/Mangalore cucumber (86).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (86),0.192730 0.542181 0.190215 0.286008,train
+external_data/wmc4/miner/Mangalore cucumber (86).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (86),0.631687 0.673868 0.102423 0.067901,train
+external_data/wmc4/miner/Mangalore cucumber (87).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (87),,train
+external_data/wmc4/miner/Mangalore cucumber (87).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (87),0.446500 0.038065 0.083132 0.076130,train
+external_data/wmc4/miner/Mangalore cucumber (87).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (87),0.476401 0.467224 0.038348 0.065552,train
+external_data/wmc4/miner/Mangalore cucumber (89).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (89),0.509587 0.670436 0.092920 0.204523,train
+external_data/wmc4/miner/Mangalore cucumber (89).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (89),0.273599 0.265323 0.081121 0.117994,train
+external_data/wmc4/miner/Mangalore cucumber (9).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (9),0.709964 0.409148 0.151243 0.087053,train
+external_data/wmc4/miner/Mangalore cucumber (9).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (9),0.677679 0.069444 0.133364 0.046296,train
+external_data/wmc4/miner/Mangalore cucumber (90).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (90),0.010860 0.428669 0.021719 0.050297,train
+external_data/wmc4/miner/Mangalore cucumber (91).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (91),,train
+external_data/wmc4/miner/Mangalore cucumber (91).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (91),0.752212 0.450836 0.053097 0.117994,train
+external_data/wmc4/miner/Mangalore cucumber (91).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (91),0.362094 0.209931 0.051622 0.101606,train
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (92),,test
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (92),0.318930 0.339506 0.164609 0.061728,test
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (92),0.847508 0.683128 0.095107 0.078189,test
+external_data/wmc4/miner/Mangalore cucumber (93).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (93),0.670387 0.947905 0.131355 0.092593,train
+external_data/wmc4/miner/Mangalore cucumber (93).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (93),0.816706 0.909091 0.094775 0.057987,train
+external_data/wmc4/miner/Mangalore cucumber (94).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (94),,train
+external_data/wmc4/miner/Mangalore cucumber (94).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (94),0.328171 0.529499 0.140118 0.399869,train
+external_data/wmc4/miner/Mangalore cucumber (94).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (94),0.565634 0.857260 0.160767 0.275320,train
+external_data/wmc4/miner/Mangalore cucumber (95).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (95),,train
+external_data/wmc4/miner/Mangalore cucumber (95).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (95),0.443215 0.772697 0.045723 0.125860,train
+external_data/wmc4/miner/Mangalore cucumber (95).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (95),0.955015 0.252212 0.069322 0.076041,train
+external_data/wmc4/miner/Mangalore cucumber (96).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (96),,train
+external_data/wmc4/miner/Mangalore cucumber (96).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (96),0.795723 0.673714 0.045723 0.072108,train
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (97),,test
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (97),0.643480 0.548268 0.077732 0.043724,test
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (97),0.334076 0.608282 0.080780 0.042010,test
+external_data/wmc4/miner/Mangalore cucumber (98).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (98),,val
+external_data/wmc4/miner/Mangalore cucumber (98).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (98),0.537862 0.671408 0.081112 0.034890,val
+external_data/wmc4/miner/Mangalore cucumber (98).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (98),0.575237 0.495169 0.054074 0.034890,val
+external_data/wmc4/miner/Mangalore cucumber (99).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (99),0.179941 0.372829 0.153392 0.259587,train
+external_data/wmc4/miner/Mangalore cucumber (99).jpg,Leaf Miner,wmc_miner,wmc_miner/Mangalore cucumber (99),0.479351 0.107997 0.058997 0.117994,train

@@ -1,0 +1,16 @@
+{
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "packages": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "numpy": "2.5.4",
+    "opencv-python": "5.0.0.93",
+    "scikit-learn": "1.9.1",
+    "scikit-image": "0.26.0",
+    "scipy": "1.18.1",
+    "pillow": "13.0.0",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0",
+    "requests": "2.34.2"
+  }
+}

@@ -21,3 +21,4 @@ matplotlib              # Used to generate the Feature Evolution Plots and Train
 seaborn                 # Used to create beautiful, statistically accurate Confusion Matrix heatmaps
 tqdm                    # Adds progress bars to long loops (like processing 1,000 images in the DIP pipeline)
 jupyter                 # For running interactive notebooks (useful for PJ's evaluation and error analysis)
+requests                 # Download and verify the WMC-Leafset field subset

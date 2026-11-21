@@ -1,0 +1,63 @@
+{
+  "views": 909,
+  "distinct_files": 811,
+  "groups": 778,
+  "pairwise_group_overlap": 0,
+  "per_split": {
+    "train": {
+      "groups": 544,
+      "views_by_class": {
+        "Red Mite": 175,
+        "Yellow Mosaic": 177,
+        "Healthy Leaf": 51,
+        "Whitefly": 107,
+        "Leaf Miner": 125
+      },
+      "original_frames_by_source": {
+        "tea_original": 175,
+        "luffa_mosaic": 177,
+        "greenhouse": 29,
+        "roboflow": 107,
+        "wmc_healthy": 22,
+        "wmc_miner": 22
+      }
+    },
+    "val": {
+      "groups": 117,
+      "views_by_class": {
+        "Red Mite": 38,
+        "Yellow Mosaic": 37,
+        "Healthy Leaf": 12,
+        "Whitefly": 22,
+        "Leaf Miner": 30
+      },
+      "original_frames_by_source": {
+        "tea_original": 38,
+        "luffa_mosaic": 37,
+        "greenhouse": 6,
+        "roboflow": 22,
+        "wmc_healthy": 6,
+        "wmc_miner": 6
+      }
+    },
+    "test": {
+      "groups": 117,
+      "views_by_class": {
+        "Red Mite": 37,
+        "Yellow Mosaic": 36,
+        "Healthy Leaf": 12,
+        "Whitefly": 22,
+        "Leaf Miner": 28
+      },
+      "original_frames_by_source": {
+        "tea_original": 37,
+        "luffa_mosaic": 36,
+        "greenhouse": 6,
+        "roboflow": 22,
+        "wmc_healthy": 6,
+        "wmc_miner": 4
+      }
+    }
+  },
+  "known_limits": "Plant and capture-session IDs were unavailable. Perceptual grouping only detects some related images."
+}

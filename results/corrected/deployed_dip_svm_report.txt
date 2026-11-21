@@ -1,0 +1,32 @@
+               precision    recall  f1-score   support
+
+ Healthy Leaf     0.6364    0.5833    0.6087        12
+   Leaf Miner     0.7692    0.7143    0.7407        28
+     Red Mite     0.9250    1.0000    0.9610        37
+     Whitefly     0.7059    0.5455    0.6154        22
+Yellow Mosaic     0.8780    1.0000    0.9351        36
+
+     accuracy                         0.8296       135
+    macro avg     0.7829    0.7686    0.7722       135
+ weighted avg     0.8188    0.8296    0.8208       135
+
+Rows actual, columns predicted: Healthy Leaf, Leaf Miner, Red Mite, Whitefly, Yellow Mosaic
+[[ 7  1  3  0  1]
+ [ 3 20  0  5  0]
+ [ 0  0 37  0  0]
+ [ 1  5  0 12  4]
+ [ 0  0  0  0 36]]
+{'grabcut': 74, 'skipped: tight crop, no background': 56, 'skipped: no reliable colour mask': 5}
+
+Full-frame subset only (excludes extracted symptom regions)
+               precision    recall  f1-score   support
+
+ Healthy Leaf     0.6364    0.5833    0.6087        12
+   Leaf Miner     0.1429    0.2500    0.1818         4
+     Red Mite     0.9250    1.0000    0.9610        37
+     Whitefly     1.0000    0.5455    0.7059        22
+Yellow Mosaic     0.8780    1.0000    0.9351        36
+
+     accuracy                         0.8378       111
+    macro avg     0.7165    0.6758    0.6785       111
+ weighted avg     0.8652    0.8378    0.8359       111

@@ -1,0 +1,10 @@
+file,provisional_expected,prediction,top_score
+cuc1_healthy.jpg,Healthy Leaf,Healthy Leaf,0.9243670701980591
+cuc2_redmite.jpg,Red Mite,Whitefly,0.7875824570655823
+cuc3_red.jpg,Red Mite,Whitefly,0.4203610420227051
+cuc4_yel.jpg,Yellow Mosaic,Whitefly,0.4065001904964447
+cuc5_yel.jpg,Yellow Mosaic,Whitefly,0.3698618412017822
+cuc6_miner.jpg,Leaf Miner,Leaf Miner,0.7861985564231873
+cuc7_miner.jpg,Leaf Miner,Whitefly,0.5700597167015076
+cuc8_miner.jpg,Leaf Miner,Whitefly,0.8559666872024536
+cuc9_healthy.jpg,Healthy Leaf,Healthy Leaf,0.9704071283340454
