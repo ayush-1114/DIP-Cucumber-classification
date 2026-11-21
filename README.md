@@ -1,5 +1,7 @@
 # Cucumber Disease Classification
 
+See the [DIP submission audit](reports/DIP_PROJECT_STATUS.md), [live demonstration guide](reports/PRESENTATION_GUIDE.md) and [DIP technical report](reports/DIP_TECHNICAL_REPORT.md).
+
 ## Team Roles
 *   **AP**: DIP Pipeline & Deep Learning Architect
 *   **SN**: Data Engineer & Classical ML Specialist

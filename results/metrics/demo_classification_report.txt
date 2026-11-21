@@ -1,0 +1,23 @@
+               precision    recall  f1-score   support
+
+ Healthy Leaf     1.0000    1.0000    1.0000         6
+   Leaf Miner     0.3636    0.8000    0.5000        10
+     Red Mite     0.9375    1.0000    0.9677        45
+     Whitefly     0.9655    0.6222    0.7568        45
+Yellow Mosaic     0.9783    1.0000    0.9890        45
+
+     accuracy                         0.8742       151
+    macro avg     0.8490    0.8844    0.8427       151
+ weighted avg     0.9225    0.8742    0.8815       151
+
+Confusion matrix (rows actual, columns predicted): Healthy Leaf, Leaf Miner, Red Mite, Whitefly, Yellow Mosaic
+[[ 6  0  0  0  0]
+ [ 0  8  0  1  1]
+ [ 0  0 45  0  0]
+ [ 0 14  3 28  0]
+ [ 0  0  0  0 45]]
+
+Segmentation decisions
+grabcut: 84
+skipped: tight crop, no background: 61
+skipped: no reliable colour mask: 6
