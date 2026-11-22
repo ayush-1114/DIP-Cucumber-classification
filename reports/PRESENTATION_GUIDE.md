@@ -7,7 +7,7 @@ Current readiness check on 22 November 2026 found only 3/9 matches to provisiona
 Put unlabelled JPEG or PNG photos in demo_input directly, without class subfolders. From the DIP-project PowerShell terminal, run:
 
 ~~~powershell
-.\mlee-env\Scripts\python.exe -m src.leaf_demo
+.\.fresh-env\Scripts\python.exe -m src.leaf_demo
 ~~~
 
 The command processes every supported image in demo_input. It prints scores for all five classes and the highest-scoring predicted class, and includes them in each DIP stage panel under results/demo/<photo stem>/stages.png. Use unique stems for different photos. The percentages are softmax model scores that sum to approximately 100%. They express the model's relative preference and are not calibrated guarantees of correctness. Existing labelled test folders are for benchmark scoring.
@@ -21,7 +21,7 @@ Bring the presentation laptop, a phone or camera, a way to transfer a photo loca
 From the DIP-project directory in PowerShell:
 
 ~~~powershell
-.\mlee-env\Scripts\python.exe -m src.leaf_demo "data/raw/test/Healthy/healthy_0009.jpg"
+.\.fresh-env\Scripts\python.exe -m src.leaf_demo "data/raw/test/Healthy/healthy_0009.jpg"
 ~~~
 
 ## When the examiner hands you a leaf
@@ -30,7 +30,7 @@ From the DIP-project directory in PowerShell:
 2. Run the same command with the new photo path. The example below assumes you have saved the photograph in the project directory.
 
 ~~~powershell
-.\mlee-env\Scripts\python.exe -m src.leaf_demo ".\leaf.jpg"
+.\.fresh-env\Scripts\python.exe -m src.leaf_demo ".\leaf.jpg"
 Invoke-Item ".\results\demo\leaf\stages.png"
 ~~~
 
@@ -56,7 +56,7 @@ The rubric rewards before/after figures, analysis of differences, a baseline and
 The corrected benchmark command verifies that the deployed predictor reproduces every selected-model test prediction. It reports both all test views and the full-frame subset separately.
 
 ~~~powershell
-.\mlee-env\Scripts\python.exe -m src.evaluate_leaf_demo
+.\.fresh-env\Scripts\python.exe -m src.evaluate_leaf_demo
 ~~~
 
 For the independent physical rehearsal, record the examiner's label, prediction, framing and whether the mask retained the visible damage. Use the five scores to explain the model's preference. Performance on an actual cucumber leaf depends on the source and appearance, particularly for proxy-host categories.

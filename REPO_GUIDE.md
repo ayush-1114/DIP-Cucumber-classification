@@ -1,6 +1,6 @@
 # Repository guide
 
-This D-drive copy uses .fresh-env. Run .\verify_setup.ps1 for the checked environment and D-drive cache settings. The older mlee-env references below describe the original workspace. Start with the demo command below. This guide describes the current files as of 22 November 2026.
+This D-drive copy uses .fresh-env. Run .\verify_setup.ps1 for the checked environment and D-drive cache settings. Start with the demo command below. This guide describes the current files as of 22 November 2026.
 
 ## Everyday commands
 
@@ -61,15 +61,12 @@ The current MobileNet models have frozen ImageNet feature extractors and newly t
 - models contains both corrected and earlier checkpoints.
 - results/corrected contains current benchmark evidence and separately named diagnostic outputs.
 - results/demo contains generated demo CSV and per-photo panels.
-- results/metrics, results/figures and results/storage_reduction contain earlier MLEE measurements and supporting experiments. Their checkpoints and splits differ from the corrected run.
+- results/metrics, results/figures and results/storage_reduction contain earlier measurements and supporting experiments. Their checkpoints and splits differ from the corrected run.
 - reports contains existing reports, source notes, progress records and the presentation guide.
 - notebooks is available for exploratory notebooks. The current commands run through Python modules.
-- mlee-env is the local Python environment and is omitted from Git.
 - README.md provides setup and workflow instructions.
 - updates.md records changes and verification.
 - guidelines.png and project-task.jpeg are the course requirements.
-- MLEE_Final_Report.pdf is the earlier project report.
-- roadmap-MLEE-project.pdf is the earlier planning document.
 
 ## Model files
 
@@ -97,7 +94,7 @@ The corrected class order is Healthy Leaf, Leaf Miner, Red Mite, Whitefly, Yello
 
 ## Earlier experiment code
 
-These files support the MLEE experiments and their outputs. They use the earlier datasets/checkpoints and need adaptation before generating evidence for corrected models.
+These files support the initial experiments and their outputs. They use the earlier datasets/checkpoints and need adaptation before generating evidence for corrected models.
 
 - train_dl.py and train_dl_raw.py train the earlier processed and raw MobileNet models.
 - evaluate_dl.py and evaluate_dl_raw.py evaluate those models.
@@ -130,7 +127,7 @@ Generated panels and debugging runs can be regenerated from the images and scrip
 
 ## Requirement completion
 
-The requested DIP operations, classifiers, storage measurements, class metrics, plots and demo export exist. The earlier MLEE work also includes Grad-CAM, noise robustness, ablation, learning curves and checkpoint-storage experiments.
+The requested DIP operations, classifiers, storage measurements, class metrics, plots and demo export exist. The earlier work also includes Grad-CAM, noise robustness, ablation, learning curves and checkpoint-storage experiments.
 
 The corrected-model robustness and Grad-CAM experiments still need rerunning. A fresh-install end-to-end test is pending. GrabCut can retain backgrounds, proxy hosts limit applicability, and the corrected demo matched only 3/9 provisional Google-photo labels. Most implementation components exist, while the intended reliable field-leaf outcome remains partially satisfied.
 

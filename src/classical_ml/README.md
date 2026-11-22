@@ -13,7 +13,7 @@ baseline that the deep-learning track (MobileNetV2 / ResNet50) is compared again
 
 ## How to run
 
-From the project root, with `mlee-env` active:
+From the project root, with `.fresh-env` active:
 
 ```
 pip install -r requirements.txt                 # scikit-image is new

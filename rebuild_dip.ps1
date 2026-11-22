@@ -1,5 +1,5 @@
 param(
-    [string]$Python = ".\mlee-env\Scripts\python.exe"
+    [string]$Python = ".\.fresh-env\Scripts\python.exe"
 )
 $ErrorActionPreference = "Stop"
 Push-Location $PSScriptRoot

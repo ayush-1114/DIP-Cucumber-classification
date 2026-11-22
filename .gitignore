@@ -1,5 +1,4 @@
 # Virtual Environment
-mlee-env/
 venv/
 .venv/
 
@@ -45,3 +44,7 @@ AGENTS.md
 /results/demo_score_check/
 /results/google_photo_contact_sheet.jpg
 /results/roboflow_source_audit.jpg
+
+# Local reference documents
+/*_Final_Report.pdf
+/roadmap-*-project.pdf

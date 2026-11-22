@@ -47,8 +47,8 @@ AP (Ayushman) is the sole owner of this Digital Image Processing course project.
 *   `results/`: Metrics, CSV files, and plots
 
 ## Environment Setup
-1. Create virtual environment: `python -m venv mlee-env`
-2. Activate it: `.\mlee-env\Scripts\Activate.ps1`
+1. Create virtual environment: `python -m venv .fresh-env`
+2. Activate it: `.\.fresh-env\Scripts\Activate.ps1`
 3. Install dependencies: `pip install -r requirements.txt`
 <!-- 
 external_data/: This holds the heavy, raw datasets (the Roboflow YOLO files, the tea dataset, the mosaic dataset). We keep this out of GitHub so it doesn't break the repository.

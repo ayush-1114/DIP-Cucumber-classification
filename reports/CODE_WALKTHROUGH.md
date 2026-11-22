@@ -3,7 +3,7 @@
 A plain-language guide to the four scripts in the classical ML track: what each one
 does, why it is written that way, and the questions you are likely to be asked.
 
-All commands are run from the project root with `mlee-env` activated.
+All commands are run from the project root with `.fresh-env` activated.
 
 ## The big picture
 

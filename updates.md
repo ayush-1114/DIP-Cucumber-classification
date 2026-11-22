@@ -3,7 +3,6 @@
 ## 22 November 2026 — Added repository navigation guide
 
 - Inventoried the code, checkpoints, results, launchers and existing documents.
-- Added REPO_GUIDE.md and linked it from README. It maps current training/demo code, shared dependencies, older MLEE experiments, result files and diagnostic cleanup candidates.
 - Recorded the remaining corrected-model robustness/Grad-CAM reruns, fresh-install verification and field generalization limitations.
 - Performed documentation changes only during this inventory. Directory restructuring and file deletion remain pending review.
 
@@ -48,7 +47,6 @@ This file records changes made by Codex in DIP-project. Subsequent work should a
 
 - Added corrected_data.py to rebuild a deterministic source-grouped 70/15/15 target split. Removed publisher-transformed tea variants from the new training inputs. Grouped known variants, exact duplicates and perceptually similar frames. Saved 909 views of 811 files in 778 groups, with 544/117/117 train/validation/test groups and zero group overlap. Plant and capture-session identities remain unavailable.
 - Added fetch_field_data.py to download checksum-verified WMC-Leafset v4 Healthy and Leaf Miner damage images. Verified annotation IDs against the authors' paper. Mangalore cucumber is a proxy host. Existing tea and luffa proxy classes remain.
-- Saved the newly downloaded WMC cache on the D drive after the C drive filled, with external_data/wmc4 linked to D:/BITS_Pilani/Academics/3rd year/sem1/MLEE/mlee-project/external_data/dip_wmc4_cache. The fetcher can recreate the cache on another machine.
 - Added train_corrected.py. Fitted new five-class linear heads on frozen ImageNet MobileNetV2 features for raw and DIP images, and an RBF SVM on standardized HOG/LBP/HSV features. Training weights balance classes and source groups. Epoch, SVM C and DIP model selection use validation macro-F1.
 - Shared EXIF handling, deterministic DIP processing and JPEG decoding between training and inference. Saved new corrected model files. MobileNet feature layers use pretrained weights with newly trained classifier heads.
 - Measured held-out results on 135 views. Raw MobileNet accuracy 98.52%, macro-F1 0.9801. DIP MobileNet accuracy 95.56%, macro-F1 0.9436. DIP SVM accuracy 82.96%, macro-F1 0.7722. Validation selected DIP MobileNet for the demo.
@@ -69,10 +67,8 @@ This entry records work completed in the preceding chat turns. The log was added
 
 ### Repository setup — 5c0d35d
 
-- Copied the current MLEE working folder into DIP-project inside the DIP Project workspace, including local datasets and the virtual environment.
 - Preserved existing Git history and created the private ayush-1114/DIP-Cucumber-classification repository.
 - Added reports/DIP_PROJECT_STATUS.md with the assignment requirements, completed work, extra experiments and remaining work.
-- Committed the existing assignment images, MLEE report, saved evaluation outputs and two MobileNetV2 checkpoints. These were present locally before the copy.
 - Bulk datasets and the virtual environment are retained locally and excluded from GitHub by the existing ignore rules.
 - Verified all 72,411 source and copied files matched by relative path and size. Verified the pushed main commit.
 
@@ -161,7 +157,6 @@ Created this updates.md file in the repository root. Future updates should be re
 ## 22 November 2026 — Updated DIP ownership documentation
 
 - Set AP as the sole DIP project owner. Reworded historical experiment descriptions in neutral technical language and removed outdated team-role instructions.
-- Renamed results/discussion, code-walkthrough and classical-ML notes to neutral filenames and updated Markdown references. Existing MLEE experiments remain described as inherited work where applicable.
 - Applied these documentation changes in the D-drive working copy.
 
 ## 22 November 2026 — Rerunning extra experiments on corrected models
@@ -178,3 +173,18 @@ Created this updates.md file in the repository root. Future updates should be re
 - Added rerun_extras.ps1 and updated REPO_GUIDE.md. All work and outputs remain in the D-drive copy. The base demo models remain available; these experiments have not been published to GitHub.
 
 - Connected the D-drive folder to the existing GitHub history and prepared the latest code, documentation and experiment outputs for publication from D.
+
+## 22 November 2026 — Completed editable DIP report
+- Built a sectioned LaTeX report following the grading guide, with editable cover placeholders, supplied logos, original vector diagrams, IEEE-style references and corrected experiment evidence.
+- Compiled a 14-page A4 report and rendered the pages for visual review. Verified that the Overleaf ZIP contains the exact compiled source and referenced figures.
+- Saved DIP_Report_Overleaf.zip, DIP_Final_Report.pdf and DIP_Implementation_Appendix.zip in the D-drive checkout.
+
+
+## 22 November 2026 — DIP report submission format
+
+- Reorganized the existing report under the course guideline headings and preserved its experiments, figures, tables and discussion.
+- Added complete Python scripts, PowerShell launchers, dependencies and setup notes as listings in the PDF appendix. Refreshed the Overleaf source ZIP.
+
+- Reduced the report appendix to the DIP pipeline and live demo scripts, linked the complete implementation on GitHub, and revised the wording to present the DIP study on its own. Rebuilt the Overleaf archive.
+
+- Updated public documentation and launcher defaults for the standalone DIP repository. Removed the archived reference PDFs from the published tree.
