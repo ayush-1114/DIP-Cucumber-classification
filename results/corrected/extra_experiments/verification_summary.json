@@ -1,0 +1,106 @@
+{
+  "verified_test_views": 135,
+  "feature_and_clean_predictions_reproduced": true,
+  "rf_validation_selected": {
+    "features": "LBP+Colour",
+    "dimensions": "124",
+    "validation_macro_f1": "0.9272347505628386",
+    "accuracy": "0.9111111111111111",
+    "macro_f1": "0.8947638893424674",
+    "Healthy Leaf recall": "0.9166666666666666",
+    "Leaf Miner recall": "0.8928571428571429",
+    "Red Mite recall": "1.0",
+    "Whitefly recall": "0.6818181818181818",
+    "Yellow Mosaic recall": "0.9722222222222222"
+  },
+  "cam_deletion": {
+    "raw": {
+      "distinct_view_targets": 9,
+      "hot_deletion_exceeds_random": 2
+    },
+    "dip": {
+      "distinct_view_targets": 11,
+      "hot_deletion_exceeds_random": 8
+    }
+  },
+  "stress_summary.csv": [
+    {
+      "model": "raw",
+      "condition": "brightness_60pct",
+      "mean_accuracy": 0.9777777777777777
+    },
+    {
+      "model": "raw",
+      "condition": "clean",
+      "mean_accuracy": 0.9851851851851852
+    },
+    {
+      "model": "raw",
+      "condition": "gaussian_std25_before_DIP",
+      "mean_accuracy": 0.965432098765432
+    },
+    {
+      "model": "dip",
+      "condition": "brightness_60pct",
+      "mean_accuracy": 0.9777777777777777
+    },
+    {
+      "model": "dip",
+      "condition": "clean",
+      "mean_accuracy": 0.9555555555555556
+    },
+    {
+      "model": "dip",
+      "condition": "gaussian_std25_before_DIP",
+      "mean_accuracy": 0.9061728395061728
+    }
+  ],
+  "legacy_tensor_noise_summary.csv": [
+    {
+      "model": "raw",
+      "condition": "tensor_noise_std0.8",
+      "mean_accuracy": 0.7530864197530863
+    },
+    {
+      "model": "dip",
+      "condition": "tensor_noise_std0.8",
+      "mean_accuracy": 0.6765432098765433
+    }
+  ],
+  "localization": [
+    {
+      "model": "raw",
+      "view_type": "crop",
+      "views": 24,
+      "mean_box_enrichment": 1.3274549082541587,
+      "peak_in_box": 24
+    },
+    {
+      "model": "raw",
+      "view_type": "full_frame",
+      "views": 4,
+      "mean_box_enrichment": 0.9251246664472734,
+      "peak_in_box": 0
+    },
+    {
+      "model": "dip",
+      "view_type": "crop",
+      "views": 24,
+      "mean_box_enrichment": 1.8738231784321788,
+      "peak_in_box": 23
+    },
+    {
+      "model": "dip",
+      "view_type": "full_frame",
+      "views": 4,
+      "mean_box_enrichment": 1.0118244763698834,
+      "peak_in_box": 0
+    }
+  ],
+  "learning_curve_mean_leaf_recall": {
+    "0.25": 0.2261904761904762,
+    "0.5": 0.46428571428571425,
+    "0.75": 0.6309523809523809,
+    "1": 0.7142857142857143
+  }
+}

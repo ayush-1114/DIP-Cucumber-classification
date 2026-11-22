@@ -4,7 +4,6 @@ import argparse
 import csv
 import json
 import sys
-from datetime import datetime
 from pathlib import Path
 
 import cv2
@@ -152,6 +151,7 @@ def run_demo(photo, model, output):
         **{f"{name} score (%)": round(100 * score, 4)
            for name, score in stages["class_scores"].items()},
         "Segmentation": stages["status"],
+        "Retained area (%)": round(100 * cv2.countNonZero(stages["mask"]) / max(1, cv2.countNonZero(valid)), 2),
         "Error": "",
     }
 
@@ -204,14 +204,16 @@ def main():
                 row = {"Image": photo.name, "Error": str(exc)}
             rows.append({**row, "Model": choice})
         args.output.mkdir(parents=True, exist_ok=True)
-        stamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-        csv_path = args.output / f"predictions_{stamp}.csv"
+        csv_path = args.output / "predictions.csv"
         fields = ["Image", "Predicted class", *[f"{name} score (%)" for name in LABELS],
-                  "Model", "Segmentation", "Error"]
-        with csv_path.open("x", newline="", encoding="utf-8-sig") as f:
-            writer = csv.DictWriter(f, fieldnames=fields)
-            writer.writeheader()
-            writer.writerows(rows)
+                  "Model", "Segmentation", "Retained area (%)", "Error"]
+        try:
+            with csv_path.open("w", newline="", encoding="utf-8-sig") as f:
+                writer = csv.DictWriter(f, fieldnames=fields)
+                writer.writeheader()
+                writer.writerows(rows)
+        except PermissionError:
+            parser.exit(1, f"Close {csv_path} in Excel, then rerun to refresh the CSV.\n")
         print(f"\nResults CSV: {csv_path}")
         if failures:
             parser.exit(1, f"{len(failures)} image(s) failed. See messages above.\n")

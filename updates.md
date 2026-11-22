@@ -1,5 +1,40 @@
 # Project updates
 
+## 22 November 2026 — Added repository navigation guide
+
+- Inventoried the code, checkpoints, results, launchers and existing documents.
+- Added REPO_GUIDE.md and linked it from README. It maps current training/demo code, shared dependencies, older MLEE experiments, result files and diagnostic cleanup candidates.
+- Recorded the remaining corrected-model robustness/Grad-CAM reruns, fresh-install verification and field generalization limitations.
+- Performed documentation changes only during this inventory. Directory restructuring and file deletion remain pending review.
+
+## 22 November 2026 — Clarified existing robustness evidence
+
+- Rechecked src/background_swap.py, saved OOD metrics and the existing raw/processed Grad-CAM artifacts following the user's reminder.
+- Corrected the status audit to credit the historical noise-robustness improvement, 55.63% processed versus 34.44% raw. The script perturbs the entire normalized input after preprocessing. Matched background replacement and corrected-model robustness results remain unverified.
+
+## 22 November 2026 — Rechecked assignment and rubric completion
+
+- Read guidelines.png and project-task.jpeg directly and compared their requirements with the current pipeline and measured outputs.
+- Added the current requirement recheck to reports/DIP_PROJECT_STATUS.md. Most requested operations and evaluation artifacts are implemented. Field background isolation, cucumber-specific generalization, final reporting and clean-install reproducibility remain incomplete.
+- Documented that prepared training/validation examples can demonstrate functionality with disclosure, while unseen-image performance requires held-out evidence.
+- No repository cleanup was performed because overall completion has not been established.
+
+## 22 November 2026 — Investigated segmentation and Whitefly overprediction
+
+- Confirmed cuc4_yel has HSV foreground coverage 89.8%, triggering the >85% bypass and preserving its background. The old status incorrectly asserted that no background existed. Corrected both bypass messages to describe unresolved foreground/background.
+- Added retained-area percentage to the normal predictions.csv so full-frame fallback is visible.
+- Added src/diagnose_segmentation.py and ran four fixed preprocessing variants on all nine existing photos using the saved model. Saved all 36 comparisons and five class scores in results/corrected/segmentation_diagnostic.csv.
+- For cuc4_yel, forced HSV masking changes Whitefly to Leaf Miner. Central GrabCut retains the whole frame and still predicts Whitefly. For cuc5_yel central GrabCut predicts Yellow Mosaic, while it changes the previously correct cuc6_miner prediction to Whitefly. These ablations do not establish a globally better segmentation method.
+- Whitefly errors also occur with active segmentation on cuc7_miner and cuc8_miner. Source/host mismatch and forced five-class selection remain plausible contributors. Source bias is an inference, not a measured causal attribution.
+- Model weights and preprocessing outputs remain the same in the deployed workflow. The status and CSV changes expose uncertainty. A segmentation algorithm change requires matched retraining and held-out evaluation before deployment.
+- Normal demo rerun processed all nine images but could not refresh predictions.csv because Windows denied write access, consistent with the CSV being open in Excel. Added an explicit close-and-rerun message. Existing CSV remains accessible. The separate 36-row diagnostic CSV was generated successfully.
+
+## 22 November 2026 — Changed demo export to a single CSV
+
+- Replaced timestamped CSV exports with results/demo/predictions.csv, refreshed on each run. Running the default command includes all current demo_input photos in one file.
+- Updated README and the presentation guide to reflect the requested single-file workflow.
+- Ran the demo and verified predictions.csv contains exactly one row for each of the nine images in demo_input. Removed the superseded timestamped CSV generated in the previous change.
+
 This file records changes made by Codex in DIP-project. Subsequent work should append an entry describing changed files, purpose, verification, results, pending work and any GitHub commit.
 
 ## 22 November 2026 — Added demo CSV export
@@ -111,3 +146,35 @@ Created this updates.md file in the repository root. Future updates should be re
 - Matched all 300 current Red Mite images back to 126 source-photo IDs by exact file hashes. Versions of 55 source IDs cross split boundaries.
 - Saved measured source overlap in results/metrics/tea_source_group_audit.json and updated the diagnostic and status documents to require a split rebuild and retraining.
 - Existing checkpoints have not been retrained during this audit. Earlier claims of globally leakage-safe evaluation need the tea-group correction.
+
+## 22 November 2026 — Fresh setup on D drive
+
+- Copied the current project into the user-specified D-drive destination. Created .fresh-env and redirected installer caches, TEMP, TMP, torch and matplotlib storage into .runtime on D.
+- Linked source datasets already on D. Added verify_setup.ps1 for dependency, benchmark, storage, plot and demo checks. Installation and verification outcomes are pending.
+- This directory is a project copy without Git history. The existing GitHub repository remains the publication destination.
+
+- Fresh installation from requirements.txt succeeded. pip check reported no broken requirements. verify_setup.ps1 passed benchmark replay, storage, plotting and all nine demo inputs.
+- Isolated retraining completed in .runtime/retrain-check. All three models reproduced the previous per-image test predictions, validation scores and test metrics exactly. The newly trained DIP model also passed deployment replay.
+- Saved installer, verification, retraining and deployment logs plus installed_requirements.txt under .runtime. New environments, caches, temporary files, models and outputs from this check are on D.
+- Fresh setup/retraining reproducibility is verified on this Windows machine. This result does not resolve the previously documented field-image limitations.
+
+## 22 November 2026 — Updated DIP ownership documentation
+
+- Set AP as the sole DIP project owner. Reworded historical experiment descriptions in neutral technical language and removed outdated team-role instructions.
+- Renamed results/discussion, code-walkthrough and classical-ML notes to neutral filenames and updated Markdown references. Existing MLEE experiments remain described as inherited work where applicable.
+- Applied these documentation changes in the D-drive working copy.
+
+## 22 November 2026 — Rerunning extra experiments on corrected models
+
+- Added extra_corrected.py for cached feature extraction, seven RF feature subsets, matched training-only augmentation, validation-selected embedding SVM, source-group learning curves and separately projected t-SNE plots.
+- Added extra_neural.py for deterministically selected correct/error Grad-CAM examples, predicted/true-class maps, top-20-percent versus random deletion checks, per-channel INT8 weight storage and matched raw/DIP noise and brightness tests. Corruptions are applied before preprocessing.
+- Runs are in progress. Outputs are written to results/corrected/extra_experiments. All caches and logs remain on D. Heatmap quality and measured benefits remain to be assessed.
+
+- Completed all corrected extra experiments, including separate original post-normalization noise replication. Saved CSVs, four comparison figures, eight Grad-CAM panels, quantized storage checkpoint, embedding SVM and verification summary under results/corrected/extra_experiments.
+- Verified cached baseline predictions for all three models and clean stress predictions against all 135 recorded test views. Inspected all eight CAM panels and all four comparison figures.
+- Grad-CAM localization check used all 28 held-out Leaf Miner views. DIP crop enrichment 1.87 versus raw 1.33, but peak localization was 0/4 on full frames for both models. No claim of reliable full-leaf symptom localization is supported.
+- Before-DIP noise mean accuracy 96.54% raw versus 90.62% DIP. Historical normalized-tensor noise mean accuracy 75.31% raw versus 67.65% DIP. The corrected models do not reproduce the old DIP noise advantage.
+- INT8 weight storage saves 71.04%, with accuracy falling to 94.81%. Leaf Miner mean recall increases from 22.62% to 71.43% across 15 to 59 training source groups. Augmentation yields mixed results. Methods and limitations are in the experiment README.
+- Added rerun_extras.ps1 and updated REPO_GUIDE.md. All work and outputs remain in the D-drive copy. The base demo models remain available; these experiments have not been published to GitHub.
+
+- Connected the D-drive folder to the existing GitHub history and prepared the latest code, documentation and experiment outputs for publication from D.

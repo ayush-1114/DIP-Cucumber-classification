@@ -2,7 +2,7 @@
 
 ## Classification on DIP-processed images
 
-The augmented SVM and Random Forest trained by SN and the MobileNetV2 trained by AP were compared on the same 151 DIP-processed test images. PJ matched each model's saved predictions to the test manifest by filename and true label. Accuracy is the fraction of correctly classified images. Macro-F1 is the unweighted mean of the five class-level F1 scores.
+The augmented SVM, Random Forest and MobileNetV2 were compared on the same 151 DIP-processed test images. The evaluation matched each model's saved predictions to the test manifest by filename and true label. Accuracy is the fraction of correctly classified images. Macro-F1 is the unweighted mean of the five class-level F1 scores.
 
 | Model | Correct | Accuracy | Macro-F1 |
 | --- | ---: | ---: | ---: |
@@ -18,7 +18,7 @@ Random Forest correctly classified six more images than MobileNetV2, an accuracy
 
 ## Random Forest feature ablation
 
-PJ compared all seven nonempty subsets of SN's HOG (edge directions), LBP (local texture), and HSV colour histogram features. Each run used the same manifest-verified DIP splits, SN's 300-tree Random Forest with class weighting and unlimited depth, and seed 42. Each fit used the same 702 original training images and 348 augmented copies (167 Leaf Miner and 181 Healthy). Each validation and test split contained 151 original images. The full-feature control reproduced SN's validation macro-F1 and test scores to the reported precision.
+The analysis compared all seven nonempty subsets of the HOG (edge directions), LBP (local texture), and HSV colour histogram features. Each run used the same manifest-verified DIP splits, the 300-tree Random Forest with class weighting and unlimited depth, and seed 42. Each fit used the same 702 original training images and 348 augmented copies (167 Leaf Miner and 181 Healthy). Each validation and test split contained 151 original images. The full-feature control reproduced the validation macro-F1 and test scores to the reported precision.
 
 | Features | Dimensions | Validation macro-F1 | Test accuracy | Test macro-F1 | Test Leaf Miner recall |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -38,7 +38,7 @@ Run from the repository root with `python -m src.classical_ml.feature_ablation`.
 
 ## MobileNetV2 embeddings and SVM
 
-PJ ran the comparison on the manifest-verified DIP split. The two SVMs used the same 702 original training images without augmentation and selected C by macro-F1 on the 151 validation images. The handcrafted model used SN's HOG, LBP, and colour features. The hybrid used the 1,280 pooled features from AP's MobileNetV2 checkpoint. AP's trained head received the same embeddings and retained its original training recipe.
+The experiment used the comparison on the manifest-verified DIP split. The two SVMs used the same 702 original training images without augmentation and selected C by macro-F1 on the 151 validation images. The handcrafted model used the HOG, LBP, and colour features. The hybrid used the 1,280 pooled features from the MobileNetV2 checkpoint. the trained head received the same embeddings and retained its original training recipe.
 
 | Model | Validation macro-F1 | Test correct | Test accuracy | Test macro-F1 | Test Leaf Miner recall |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -46,13 +46,13 @@ PJ ran the comparison on the manifest-verified DIP split. The two SVMs used the 
 | MobileNetV2 embeddings + SVM | 0.8302 | 144/151 | 95.36% | 0.8774 | 3/10 |
 | MobileNetV2 embeddings + AP head | 0.9116 | 135/151 | 89.40% | 0.8588 | 8/10 |
 
-The embedding SVM gained seven correct test predictions over the handcrafted SVM and improved validation and test macro-F1. Against AP's original head, the hybrid gained nine correct test predictions and classified all 45 Whitefly images correctly. All seven hybrid errors were Leaf Miner images. AP's head achieved the highest validation macro-F1 and detected five more Leaf Miner cases on test. The head and SVM differed in training recipe as well as classifier. These results describe the shared split.
+The embedding SVM gained seven correct test predictions over the handcrafted SVM and improved validation and test macro-F1. Against the original head, the hybrid gained nine correct test predictions and classified all 45 Whitefly images correctly. All seven hybrid errors were Leaf Miner images. the head achieved the highest validation macro-F1 and detected five more Leaf Miner cases on test. The head and SVM differed in training recipe as well as classifier. These results describe the shared split.
 
-The reconstructed checkpoint's head reproduced AP's reported aggregate test scores. The comparison CSV contains aggregate metrics, so per-image agreement was not checked. Run with `python -m src.classical_ml.mobilenet_svm`. See the [comparison CSV](../results/metrics/mobilenet_svm_comparison.csv) for all per-class recalls and selected C values.
+The reconstructed checkpoint's head reproduced the reported aggregate test scores. The comparison CSV contains aggregate metrics, so per-image agreement was not checked. Run with `python -m src.classical_ml.mobilenet_svm`. See the [comparison CSV](../results/metrics/mobilenet_svm_comparison.csv) for all per-class recalls and selected C values.
 
 ## Leaf Miner learning curve
 
-PJ fitted the embedding SVM with C = 1 on nested subsets of Leaf Miner source groups, keeping the other four training classes and AP's MobileNetV2 checkpoint fixed. Crops from each source stayed together. Each partial group count used five seeded draws. The full set was fitted once. Evaluation used the same validation split for all runs.
+The analysis fitted the embedding SVM with C = 1 on nested subsets of Leaf Miner source groups, keeping the other four training classes and the MobileNetV2 checkpoint fixed. Crops from each source stayed together. Each partial group count used five seeded draws. The full set was fitted once. Evaluation used the same validation split for all runs.
 
 | Leaf Miner training source groups | Training crops (range) | Mean validation Leaf Miner recall | Mean validation macro-F1 |
 | ---: | ---: | ---: | ---: |
@@ -63,7 +63,7 @@ PJ fitted the embedding SVM with C = 1 on nested subsets of Leaf Miner source gr
 
 ![Validation recall and macro-F1 by Leaf Miner training group count](../results/figures/leaf_miner_learning_curve.png)
 
-At 10 groups, three of five runs detected one Leaf Miner crop and the other two detected zero. With all 13 training groups, the SVM detected two out of ten validation crops. This suggests that broader Leaf Miner training coverage helped the SVM on this split, though recall remained low. The validation crops come from two source groups, and adding groups also changes the crop count and class balance. The experiment varied the training data available to the SVM with AP's existing feature extractor fixed.
+At 10 groups, three of five runs detected one Leaf Miner crop and the other two detected zero. With all 13 training groups, the SVM detected two out of ten validation crops. This suggests that broader Leaf Miner training coverage helped the SVM on this split, though recall remained low. The validation crops come from two source groups, and adding groups also changes the crop count and class balance. The experiment varied the training data available to the SVM with the existing feature extractor fixed.
 
 See the [per-run CSV](../results/metrics/leaf_miner_learning_curve.csv).
 
@@ -71,7 +71,7 @@ See the [per-run CSV](../results/metrics/leaf_miner_learning_curve.csv).
 
 ![Side-by-side t-SNE plots of HOG and MobileNetV2 features for 151 DIP-processed test crops](../results/figures/hog_mobilenet_tsne.png)
 
-Both panels show the same 151 manifest-matched test crops, coloured by their true class. PJ reused SN's HOG descriptor and AP's 1,280-dimensional MobileNetV2 embeddings. Each feature matrix was reduced separately to 30 PCA components, then projected to 2D using t-SNE with perplexity 20 and seed 42. Orange diamonds mark Leaf Miner and blue triangles mark Whitefly.
+Both panels show the same 151 manifest-matched test crops, coloured by their true class. The analysis used the HOG descriptor and the 1,280-dimensional MobileNetV2 embeddings. Each feature matrix was reduced separately to 30 PCA components, then projected to 2D using t-SNE with perplexity 20 and seed 42. Orange diamonds mark Leaf Miner and blue triangles mark Whitefly.
 
 The MobileNetV2 projection shows a more distinct Whitefly region, though some Leaf Miner crops still appear among Whitefly points. The independent 2D maps illustrate local neighborhoods. Use the measured scores and recalls to compare classifiers. The left panel uses HOG alone, while the handcrafted SVM comparison used HOG, LBP, and colour together.
 
@@ -79,7 +79,7 @@ Reproduce the figure with `python -u -m src.classical_ml.plot_feature_tsne`.
 
 ## Storage before and after DIP
 
-PJ measured the saved file lengths of each raw and processed image pair, using the split, class, and filename in the [shared manifest](../data/split_manifest.csv). All 1,004 pairs were present and nonempty. The sums cover only manifest-listed files and exclude extra directories such as `_unused` and `train_backup`. The reduction is calculated as 100 × (1 − processed bytes / raw bytes).
+The experiment measured the saved file lengths of each raw and processed image pair, using the split, class, and filename in the [shared manifest](../data/split_manifest.csv). All 1,004 pairs were present and nonempty. The sums cover only manifest-listed files and exclude extra directories such as `_unused` and `train_backup`. The reduction is calculated as 100 × (1 − processed bytes / raw bytes).
 
 | Split | Matched pairs | Raw bytes | DIP-processed bytes | Reduction |
 | --- | ---: | ---: | ---: | ---: |
@@ -90,11 +90,11 @@ PJ measured the saved file lengths of each raw and processed image pair, using t
 
 The processed dataset used 18.83 MB compared with 96.11 MB for the same raw files, a saving of 77.27 MB (1 MB = 1,000,000 bytes). These figures reflect the full preprocessing pipeline and its saved outputs, including resizing and encoding. The contribution of individual preprocessing stages to the storage change was unmeasured.
 
-The classification results compare the three models on processed inputs. AP's matched raw-versus-processed experiment is in progress and will provide the evidence for whether preprocessing changed classification performance.
+The classification results compare the three models on processed inputs. the matched raw-versus-processed experiment is in progress and will provide the evidence for whether preprocessing changed classification performance.
 
 ## MobileNetV2 model storage before and after quantization
 
-PJ measured AP's original checkpoint against an INT8 weight-storage version of the same model. The script quantizes each convolution and linear weight tensor with a separate symmetric scale for each output channel. Other state, including biases and batch-normalization parameters, keeps its original dtype. Both measurements use decimal MB (1,000,000 bytes). Neither measured file is an outer ZIP download.
+The experiment measured the original checkpoint against an INT8 weight-storage version of the same model. The script quantizes each convolution and linear weight tensor with a separate symmetric scale for each output channel. Other state, including biases and batch-normalization parameters, keeps its original dtype. Both measurements use decimal MB (1,000,000 bytes). Neither measured file is an outer ZIP download.
 
 | Checkpoint | Bytes | Size (MB) | Reduction | Test accuracy | Test macro-F1 | Leaf Miner recall |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |

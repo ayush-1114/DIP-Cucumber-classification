@@ -1,4 +1,4 @@
-# Classical ML Track (SN)
+# Classical ML Track
 
 Track 1 of the project: hand-crafted features + SVM and Random Forest. This is the
 baseline that the deep-learning track (MobileNetV2 / ResNet50) is compared against.
@@ -35,8 +35,8 @@ Options for `train.py`:
 | File | For whom |
 |---|---|
 | `models/svm_model.pkl`, `models/rf_model.pkl` | The trained models (local only; Git ignores `*.pkl`) |
-| `results/metrics/svm_processed_test_predictions.csv`, `rf_processed_test_predictions.csv` | PJ: one row per test image, `filename, y_true, y_pred`, as class names |
-| `results/metrics/classical_ml_processed_summary.json` | PJ: chosen settings, val and test scores, per-class precision/recall/F1, ms per image |
+| `results/metrics/svm_processed_test_predictions.csv`, `rf_processed_test_predictions.csv` | the evaluation: one row per test image, `filename, y_true, y_pred`, as class names |
+| `results/metrics/classical_ml_processed_summary.json` | the evaluation: chosen settings, val and test scores, per-class precision/recall/F1, ms per image |
 | `results/figures/augmentation_examples_processed.png` | Report: what the augmentation does |
 
 The `*_noaug_*` files are the same run without augmentation, for comparison.
@@ -60,4 +60,4 @@ classes: a model that never predicts Healthy or Leaf_Miner still gets about 89%.
 - Healthy (6) and Leaf_Miner (10) have very few test images, so their per-class
   scores are rough.
 
-See `reports/sn_code_walkthrough.md` for a plain-language explanation of each step.
+See `reports/CODE_WALKTHROUGH.md` for a plain-language explanation of each step.

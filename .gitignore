@@ -33,3 +33,15 @@ AGENTS.md
 .codex/
 .agents/
 /src/dip/pipeline_claude.py
+
+# D-drive reproducibility environment
+.fresh-env/
+.runtime/
+
+# Local demo inputs and generated inspection outputs
+/demo_input/*.jpg
+/results/demo/
+/results/demo_input_check/
+/results/demo_score_check/
+/results/google_photo_contact_sheet.jpg
+/results/roboflow_source_audit.jpg

@@ -1,8 +1,8 @@
 # Progress 2: DIP Pipeline, Iteration 2 to Iteration 3
 
-**Contribution:** SN (Shardul) diagnosed the Iteration 2 failures and wrote the corrected
-segmentation logic; AP (Ayushman) integrated it into `src/dip/pipeline.py`
-(merged in PRs #1 and #3). · **Date:** 16 Nov 2026
+**DIP project maintainer:** AP. This note documents the inherited segmentation implementation.
+
+**Date:** 16 Nov 2026
 
 ## Summary
 

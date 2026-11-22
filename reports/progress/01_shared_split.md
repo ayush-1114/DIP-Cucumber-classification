@@ -1,13 +1,13 @@
 # Progress 1: One Shared Train/Val/Test Split
 
-**Owner:** SN (Shardul) · **Merged in:** PR #2 (`fix-shared-split`) · **Date:** 16 Nov 2026
+**DIP project maintainer:** AP · **Merged in:** PR #2 (`fix-shared-split`) · **Date:** 16 Nov 2026
 **Code:** `src/data_prep/split_dataset.py`, `data/split_manifest.csv`
 
 ## Summary
 
 Before: there was no train/val/test split, the dataset contained hidden duplicates,
-and each teammate would have split the data differently. After: one committed list
-gives every teammate the same 702 / 151 / 151 split, with no duplicates and no leakage.
+and each installation would have split the data differently. After: one committed list
+gives every installation the same 702 / 151 / 151 split, with no duplicates and no leakage.
 
 ## Before
 
@@ -24,7 +24,7 @@ gives every teammate the same 702 / 151 / 151 split, with no duplicates and no l
 
 | Fix | Result |
 |---|---|
-| One committed list (`data/split_manifest.csv`) | Every teammate runs the same script and gets identical folders |
+| One committed list (`data/split_manifest.csv`) | Every installation runs the same script and gets identical folders |
 | Applies to both raw and processed | Verified: `data/raw` and `data/processed` both 702 / 151 / 151, same images |
 | Duplicates removed | 3458 files to 3412 unique images (moved to `_unused/`, not deleted) |
 | Repeatable downsampling to 300 per class | Same images kept on every machine (seeded, sorted file names) |

@@ -1,6 +1,6 @@
 # Progress 3: Classical ML Baseline and Targeted Augmentation
 
-**Owner:** SN (Shardul) · **Branch:** `classical-ml` · **Date:** 17 Nov 2026
+**DIP project maintainer:** AP · **Branch:** `classical-ml` · **Date:** 17 Nov 2026
 **Code:** `src/classical_ml/` (features, augment, train)
 
 ## Summary
@@ -11,7 +11,7 @@ Random Forest macro-F1 from **0.75 to 0.86** and Leaf_Miner recall from **10% to
 
 ## Setup (same for before and after)
 
-- Data: `data/processed` from the team DIP pipeline, shared split, **151 test images**
+- Data: `data/processed` from the DIP pipeline, shared split, **151 test images**
 - Features: HOG + LBP + HSV colour histograms, 6208 values per image
 - Models: SVM (scaler, PCA 95%, RBF) and Random Forest (300 trees), both
   `class_weight="balanced"`; settings chosen on validation by macro-F1

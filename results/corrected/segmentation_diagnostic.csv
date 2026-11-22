@@ -1,0 +1,37 @@
+﻿Image,Variant,Prediction,HSV coverage (%),Kept area (%),Healthy Leaf score (%),Leaf Miner score (%),Red Mite score (%),Whitefly score (%),Yellow Mosaic score (%)
+cuc1_healthy.jpg,deployed,Healthy Leaf,63.44,69.75,92.437,0.539,0.8,5.938,0.286
+cuc1_healthy.jpg,no_mask,Whitefly,63.44,100.0,26.791,0.316,2.675,69.806,0.411
+cuc1_healthy.jpg,hsv_mask,Healthy Leaf,63.44,63.44,98.331,0.075,0.276,1.253,0.065
+cuc1_healthy.jpg,central_grabcut,Healthy Leaf,63.44,52.93,88.498,0.201,2.086,8.855,0.36
+cuc2_redmite.jpg,deployed,Whitefly,99.73,100.0,16.729,4.231,0.121,78.758,0.161
+cuc2_redmite.jpg,no_mask,Whitefly,99.73,100.0,16.729,4.231,0.121,78.758,0.161
+cuc2_redmite.jpg,hsv_mask,Whitefly,99.73,99.73,15.493,4.289,0.117,79.95,0.151
+cuc2_redmite.jpg,central_grabcut,Healthy Leaf,99.73,68.07,52.74,7.852,0.26,38.83,0.318
+cuc3_red.jpg,deployed,Whitefly,94.45,100.0,39.379,14.907,2.204,42.036,1.474
+cuc3_red.jpg,no_mask,Whitefly,94.45,100.0,39.379,14.907,2.204,42.036,1.474
+cuc3_red.jpg,hsv_mask,Healthy Leaf,94.45,94.45,42.961,15.889,1.705,38.201,1.244
+cuc3_red.jpg,central_grabcut,Leaf Miner,94.45,46.2,24.947,41.074,4.987,24.832,4.16
+cuc4_yel.jpg,deployed,Whitefly,89.8,100.0,19.059,30.915,1.549,40.65,7.827
+cuc4_yel.jpg,no_mask,Whitefly,89.8,100.0,19.059,30.915,1.549,40.65,7.827
+cuc4_yel.jpg,hsv_mask,Leaf Miner,89.8,89.8,11.517,62.848,1.263,22.654,1.717
+cuc4_yel.jpg,central_grabcut,Whitefly,89.8,100.0,19.059,30.915,1.549,40.65,7.827
+cuc5_yel.jpg,deployed,Whitefly,95.81,100.0,34.238,9.061,4.484,36.986,15.23
+cuc5_yel.jpg,no_mask,Whitefly,95.81,100.0,34.238,9.061,4.484,36.986,15.23
+cuc5_yel.jpg,hsv_mask,Healthy Leaf,95.81,95.81,41.945,7.098,3.185,31.811,15.962
+cuc5_yel.jpg,central_grabcut,Yellow Mosaic,95.81,68.67,18.862,25.319,1.868,13.862,40.09
+cuc6_miner.jpg,deployed,Leaf Miner,99.36,100.0,0.606,78.62,0.122,20.525,0.127
+cuc6_miner.jpg,no_mask,Leaf Miner,99.36,100.0,0.606,78.62,0.122,20.525,0.127
+cuc6_miner.jpg,hsv_mask,Leaf Miner,99.36,99.36,0.517,79.39,0.108,19.9,0.086
+cuc6_miner.jpg,central_grabcut,Whitefly,99.36,34.38,1.523,38.194,6.989,51.478,1.817
+cuc7_miner.jpg,deployed,Whitefly,84.55,83.79,11.322,26.781,1.809,57.006,3.081
+cuc7_miner.jpg,no_mask,Whitefly,84.55,100.0,2.957,8.491,0.869,85.474,2.208
+cuc7_miner.jpg,hsv_mask,Whitefly,84.55,84.55,18.598,10.802,2.197,65.056,3.347
+cuc7_miner.jpg,central_grabcut,Whitefly,84.55,53.32,12.367,26.387,2.858,57.145,1.242
+cuc8_miner.jpg,deployed,Whitefly,72.93,77.04,6.692,6.338,0.732,85.597,0.641
+cuc8_miner.jpg,no_mask,Whitefly,72.93,100.0,10.518,9.169,0.953,77.998,1.362
+cuc8_miner.jpg,hsv_mask,Whitefly,72.93,72.93,14.75,8.521,2.528,72.831,1.37
+cuc8_miner.jpg,central_grabcut,Whitefly,72.93,49.45,5.819,10.909,1.671,77.451,4.15
+cuc9_healthy.jpg,deployed,Healthy Leaf,77.79,81.67,97.041,0.914,0.043,1.99,0.013
+cuc9_healthy.jpg,no_mask,Healthy Leaf,77.79,100.0,96.03,0.761,0.027,3.169,0.012
+cuc9_healthy.jpg,hsv_mask,Healthy Leaf,77.79,77.79,96.924,0.621,0.102,2.337,0.016
+cuc9_healthy.jpg,central_grabcut,Healthy Leaf,77.79,65.75,97.246,0.986,0.098,1.658,0.012

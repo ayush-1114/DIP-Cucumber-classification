@@ -1,4 +1,4 @@
-# SN Code Walkthrough (presentation prep)
+# Code Walkthrough (presentation prep)
 
 A plain-language guide to the four scripts in the classical ML track: what each one
 does, why it is written that way, and the questions you are likely to be asked.
@@ -13,13 +13,13 @@ data/raw/train (everything)                         src/config.py
         v                                            70/15/15, 5 class names)
 split_dataset.py  --->  data/raw/train | val | test
         |
-        |   (AP's DIP pipeline turns data/raw into data/processed = "Dataset B")
+        |   (the DIP pipeline turns data/raw into data/processed = "Dataset B")
         v
 features.py   image -> 6208 numbers (HOG + LBP + colour)
 augment.py    extra copies of the small classes, TRAIN only
         |
         v
-train.py      SVM + Random Forest -> models/, results/metrics/ (for PJ)
+train.py      SVM + Random Forest -> models/, results/metrics/ (for the evaluation)
 ```
 
 `src/config.py` is the shared settings file. Every script imports it, so paths, the
@@ -42,7 +42,7 @@ person would make their own random split and the F1-scores could not be compared
   file name and moved to `train/`, `val/` or `test/`.
 - Images not in the list go to `_unused/`. Nothing is deleted.
 
-**Building the list (`--rebuild`, done once by SN)**
+**Building the list (`--rebuild`, performed once)**
 
 1. **Collect** every raw image.
 2. **Drop exact duplicates** using an MD5 hash (a fingerprint of the file's bytes).
@@ -77,7 +77,7 @@ Result: 702 train, 151 val, 151 test.
   54/23/23 for Whitefly, because groups have different sizes.
 - *Why move duplicates instead of deleting them?* So the step can be undone and
   checked.
-- *How do teammates get the same split?* They pull the committed manifest and run
+- *How is the same split reproduced?* They pull the committed manifest and run
   the script, which applies it to their raw and processed folders.
 
 ---
@@ -146,7 +146,7 @@ leaf-miner leaf.
   images.
 - **After the split.** Copies are made from train images only, so no copy of a test
   image can end up in train.
-- **In memory.** Nothing is written into `data/`, so the split and AP's pipeline are
+- **In memory.** Nothing is written into `data/`, so the split and the pipeline are
   unaffected.
 
 **Likely questions**
@@ -175,7 +175,7 @@ Options: `--dataset raw` (code check only), `--no-augment` (to compare), `--no-c
    scored on val; the best one is kept.
 4. **Scores the chosen model once on test.**
 5. **Saves** the model (`models/svm_model.pkl`, `models/rf_model.pkl`), the test predictions and a summary (scores, chosen settings,
-   milliseconds per image) for PJ's evaluation.
+   milliseconds per image) for evaluation.
 
 **The two models**
 
@@ -207,7 +207,7 @@ Options: `--dataset raw` (code check only), `--no-augment` (to compare), `--no-c
 - *Why must the final run use Dataset B?* The project compares classical ML against
   deep learning on the same DIP-processed images. Features from raw images would
   make that comparison invalid.
-- *Why is inference timed?* PJ compares speed (ms per image) of classical ML versus
+- *Why is inference timed?* The analysis compares speed (ms per image) of classical ML versus
   deep learning for edge deployment. The timing covers the whole path: read the
   image, extract features, predict.
 - *Why is the SVM "one model" when there are 5 classes?* sklearn's SVC trains one

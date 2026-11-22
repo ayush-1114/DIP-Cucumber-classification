@@ -1,0 +1,811 @@
+﻿view,actual,model,seed,prediction
+0,Red Mite,raw,42,Red Mite
+0,Red Mite,dip,42,Red Mite
+0,Red Mite,raw,43,Red Mite
+0,Red Mite,dip,43,Red Mite
+0,Red Mite,raw,44,Red Mite
+0,Red Mite,dip,44,Red Mite
+1,Red Mite,raw,42,Red Mite
+1,Red Mite,dip,42,Red Mite
+1,Red Mite,raw,43,Red Mite
+1,Red Mite,dip,43,Red Mite
+1,Red Mite,raw,44,Red Mite
+1,Red Mite,dip,44,Red Mite
+2,Red Mite,raw,42,Red Mite
+2,Red Mite,dip,42,Red Mite
+2,Red Mite,raw,43,Red Mite
+2,Red Mite,dip,43,Red Mite
+2,Red Mite,raw,44,Red Mite
+2,Red Mite,dip,44,Red Mite
+3,Red Mite,raw,42,Red Mite
+3,Red Mite,dip,42,Red Mite
+3,Red Mite,raw,43,Red Mite
+3,Red Mite,dip,43,Red Mite
+3,Red Mite,raw,44,Red Mite
+3,Red Mite,dip,44,Red Mite
+4,Red Mite,raw,42,Red Mite
+4,Red Mite,dip,42,Red Mite
+4,Red Mite,raw,43,Red Mite
+4,Red Mite,dip,43,Red Mite
+4,Red Mite,raw,44,Red Mite
+4,Red Mite,dip,44,Red Mite
+5,Red Mite,raw,42,Red Mite
+5,Red Mite,dip,42,Red Mite
+5,Red Mite,raw,43,Red Mite
+5,Red Mite,dip,43,Red Mite
+5,Red Mite,raw,44,Red Mite
+5,Red Mite,dip,44,Red Mite
+6,Red Mite,raw,42,Red Mite
+6,Red Mite,dip,42,Red Mite
+6,Red Mite,raw,43,Red Mite
+6,Red Mite,dip,43,Red Mite
+6,Red Mite,raw,44,Red Mite
+6,Red Mite,dip,44,Red Mite
+7,Red Mite,raw,42,Red Mite
+7,Red Mite,dip,42,Red Mite
+7,Red Mite,raw,43,Red Mite
+7,Red Mite,dip,43,Red Mite
+7,Red Mite,raw,44,Red Mite
+7,Red Mite,dip,44,Red Mite
+8,Red Mite,raw,42,Red Mite
+8,Red Mite,dip,42,Red Mite
+8,Red Mite,raw,43,Red Mite
+8,Red Mite,dip,43,Red Mite
+8,Red Mite,raw,44,Red Mite
+8,Red Mite,dip,44,Red Mite
+9,Red Mite,raw,42,Red Mite
+9,Red Mite,dip,42,Red Mite
+9,Red Mite,raw,43,Red Mite
+9,Red Mite,dip,43,Red Mite
+9,Red Mite,raw,44,Red Mite
+9,Red Mite,dip,44,Red Mite
+10,Red Mite,raw,42,Red Mite
+10,Red Mite,dip,42,Red Mite
+10,Red Mite,raw,43,Red Mite
+10,Red Mite,dip,43,Red Mite
+10,Red Mite,raw,44,Red Mite
+10,Red Mite,dip,44,Red Mite
+11,Red Mite,raw,42,Red Mite
+11,Red Mite,dip,42,Red Mite
+11,Red Mite,raw,43,Red Mite
+11,Red Mite,dip,43,Red Mite
+11,Red Mite,raw,44,Red Mite
+11,Red Mite,dip,44,Red Mite
+12,Red Mite,raw,42,Red Mite
+12,Red Mite,dip,42,Red Mite
+12,Red Mite,raw,43,Red Mite
+12,Red Mite,dip,43,Red Mite
+12,Red Mite,raw,44,Red Mite
+12,Red Mite,dip,44,Red Mite
+13,Red Mite,raw,42,Red Mite
+13,Red Mite,dip,42,Red Mite
+13,Red Mite,raw,43,Red Mite
+13,Red Mite,dip,43,Red Mite
+13,Red Mite,raw,44,Red Mite
+13,Red Mite,dip,44,Red Mite
+14,Red Mite,raw,42,Red Mite
+14,Red Mite,dip,42,Red Mite
+14,Red Mite,raw,43,Red Mite
+14,Red Mite,dip,43,Red Mite
+14,Red Mite,raw,44,Red Mite
+14,Red Mite,dip,44,Red Mite
+15,Red Mite,raw,42,Red Mite
+15,Red Mite,dip,42,Red Mite
+15,Red Mite,raw,43,Red Mite
+15,Red Mite,dip,43,Red Mite
+15,Red Mite,raw,44,Red Mite
+15,Red Mite,dip,44,Red Mite
+16,Red Mite,raw,42,Red Mite
+16,Red Mite,dip,42,Red Mite
+16,Red Mite,raw,43,Red Mite
+16,Red Mite,dip,43,Red Mite
+16,Red Mite,raw,44,Red Mite
+16,Red Mite,dip,44,Red Mite
+17,Red Mite,raw,42,Red Mite
+17,Red Mite,dip,42,Red Mite
+17,Red Mite,raw,43,Red Mite
+17,Red Mite,dip,43,Red Mite
+17,Red Mite,raw,44,Red Mite
+17,Red Mite,dip,44,Red Mite
+18,Red Mite,raw,42,Red Mite
+18,Red Mite,dip,42,Red Mite
+18,Red Mite,raw,43,Red Mite
+18,Red Mite,dip,43,Red Mite
+18,Red Mite,raw,44,Red Mite
+18,Red Mite,dip,44,Red Mite
+19,Red Mite,raw,42,Red Mite
+19,Red Mite,dip,42,Red Mite
+19,Red Mite,raw,43,Red Mite
+19,Red Mite,dip,43,Red Mite
+19,Red Mite,raw,44,Red Mite
+19,Red Mite,dip,44,Red Mite
+20,Red Mite,raw,42,Red Mite
+20,Red Mite,dip,42,Red Mite
+20,Red Mite,raw,43,Red Mite
+20,Red Mite,dip,43,Red Mite
+20,Red Mite,raw,44,Red Mite
+20,Red Mite,dip,44,Red Mite
+21,Red Mite,raw,42,Red Mite
+21,Red Mite,dip,42,Red Mite
+21,Red Mite,raw,43,Red Mite
+21,Red Mite,dip,43,Red Mite
+21,Red Mite,raw,44,Red Mite
+21,Red Mite,dip,44,Red Mite
+22,Red Mite,raw,42,Red Mite
+22,Red Mite,dip,42,Red Mite
+22,Red Mite,raw,43,Red Mite
+22,Red Mite,dip,43,Red Mite
+22,Red Mite,raw,44,Red Mite
+22,Red Mite,dip,44,Red Mite
+23,Red Mite,raw,42,Red Mite
+23,Red Mite,dip,42,Red Mite
+23,Red Mite,raw,43,Red Mite
+23,Red Mite,dip,43,Red Mite
+23,Red Mite,raw,44,Red Mite
+23,Red Mite,dip,44,Red Mite
+24,Red Mite,raw,42,Red Mite
+24,Red Mite,dip,42,Red Mite
+24,Red Mite,raw,43,Red Mite
+24,Red Mite,dip,43,Red Mite
+24,Red Mite,raw,44,Red Mite
+24,Red Mite,dip,44,Red Mite
+25,Red Mite,raw,42,Red Mite
+25,Red Mite,dip,42,Red Mite
+25,Red Mite,raw,43,Red Mite
+25,Red Mite,dip,43,Red Mite
+25,Red Mite,raw,44,Red Mite
+25,Red Mite,dip,44,Red Mite
+26,Red Mite,raw,42,Red Mite
+26,Red Mite,dip,42,Red Mite
+26,Red Mite,raw,43,Red Mite
+26,Red Mite,dip,43,Red Mite
+26,Red Mite,raw,44,Red Mite
+26,Red Mite,dip,44,Red Mite
+27,Red Mite,raw,42,Red Mite
+27,Red Mite,dip,42,Red Mite
+27,Red Mite,raw,43,Red Mite
+27,Red Mite,dip,43,Red Mite
+27,Red Mite,raw,44,Red Mite
+27,Red Mite,dip,44,Red Mite
+28,Red Mite,raw,42,Red Mite
+28,Red Mite,dip,42,Red Mite
+28,Red Mite,raw,43,Red Mite
+28,Red Mite,dip,43,Red Mite
+28,Red Mite,raw,44,Red Mite
+28,Red Mite,dip,44,Red Mite
+29,Red Mite,raw,42,Red Mite
+29,Red Mite,dip,42,Red Mite
+29,Red Mite,raw,43,Red Mite
+29,Red Mite,dip,43,Red Mite
+29,Red Mite,raw,44,Red Mite
+29,Red Mite,dip,44,Red Mite
+30,Red Mite,raw,42,Red Mite
+30,Red Mite,dip,42,Red Mite
+30,Red Mite,raw,43,Red Mite
+30,Red Mite,dip,43,Red Mite
+30,Red Mite,raw,44,Red Mite
+30,Red Mite,dip,44,Red Mite
+31,Red Mite,raw,42,Red Mite
+31,Red Mite,dip,42,Red Mite
+31,Red Mite,raw,43,Leaf Miner
+31,Red Mite,dip,43,Red Mite
+31,Red Mite,raw,44,Leaf Miner
+31,Red Mite,dip,44,Red Mite
+32,Red Mite,raw,42,Red Mite
+32,Red Mite,dip,42,Red Mite
+32,Red Mite,raw,43,Red Mite
+32,Red Mite,dip,43,Red Mite
+32,Red Mite,raw,44,Red Mite
+32,Red Mite,dip,44,Red Mite
+33,Red Mite,raw,42,Leaf Miner
+33,Red Mite,dip,42,Red Mite
+33,Red Mite,raw,43,Leaf Miner
+33,Red Mite,dip,43,Red Mite
+33,Red Mite,raw,44,Leaf Miner
+33,Red Mite,dip,44,Red Mite
+34,Red Mite,raw,42,Red Mite
+34,Red Mite,dip,42,Red Mite
+34,Red Mite,raw,43,Red Mite
+34,Red Mite,dip,43,Red Mite
+34,Red Mite,raw,44,Red Mite
+34,Red Mite,dip,44,Red Mite
+35,Red Mite,raw,42,Red Mite
+35,Red Mite,dip,42,Red Mite
+35,Red Mite,raw,43,Whitefly
+35,Red Mite,dip,43,Red Mite
+35,Red Mite,raw,44,Red Mite
+35,Red Mite,dip,44,Red Mite
+36,Red Mite,raw,42,Red Mite
+36,Red Mite,dip,42,Red Mite
+36,Red Mite,raw,43,Leaf Miner
+36,Red Mite,dip,43,Red Mite
+36,Red Mite,raw,44,Leaf Miner
+36,Red Mite,dip,44,Red Mite
+37,Yellow Mosaic,raw,42,Yellow Mosaic
+37,Yellow Mosaic,dip,42,Red Mite
+37,Yellow Mosaic,raw,43,Yellow Mosaic
+37,Yellow Mosaic,dip,43,Red Mite
+37,Yellow Mosaic,raw,44,Yellow Mosaic
+37,Yellow Mosaic,dip,44,Red Mite
+38,Yellow Mosaic,raw,42,Yellow Mosaic
+38,Yellow Mosaic,dip,42,Yellow Mosaic
+38,Yellow Mosaic,raw,43,Yellow Mosaic
+38,Yellow Mosaic,dip,43,Yellow Mosaic
+38,Yellow Mosaic,raw,44,Yellow Mosaic
+38,Yellow Mosaic,dip,44,Yellow Mosaic
+39,Yellow Mosaic,raw,42,Leaf Miner
+39,Yellow Mosaic,dip,42,Yellow Mosaic
+39,Yellow Mosaic,raw,43,Yellow Mosaic
+39,Yellow Mosaic,dip,43,Yellow Mosaic
+39,Yellow Mosaic,raw,44,Yellow Mosaic
+39,Yellow Mosaic,dip,44,Yellow Mosaic
+40,Yellow Mosaic,raw,42,Yellow Mosaic
+40,Yellow Mosaic,dip,42,Yellow Mosaic
+40,Yellow Mosaic,raw,43,Leaf Miner
+40,Yellow Mosaic,dip,43,Yellow Mosaic
+40,Yellow Mosaic,raw,44,Yellow Mosaic
+40,Yellow Mosaic,dip,44,Yellow Mosaic
+41,Yellow Mosaic,raw,42,Yellow Mosaic
+41,Yellow Mosaic,dip,42,Red Mite
+41,Yellow Mosaic,raw,43,Yellow Mosaic
+41,Yellow Mosaic,dip,43,Yellow Mosaic
+41,Yellow Mosaic,raw,44,Yellow Mosaic
+41,Yellow Mosaic,dip,44,Red Mite
+42,Yellow Mosaic,raw,42,Yellow Mosaic
+42,Yellow Mosaic,dip,42,Yellow Mosaic
+42,Yellow Mosaic,raw,43,Yellow Mosaic
+42,Yellow Mosaic,dip,43,Yellow Mosaic
+42,Yellow Mosaic,raw,44,Yellow Mosaic
+42,Yellow Mosaic,dip,44,Yellow Mosaic
+43,Yellow Mosaic,raw,42,Yellow Mosaic
+43,Yellow Mosaic,dip,42,Yellow Mosaic
+43,Yellow Mosaic,raw,43,Yellow Mosaic
+43,Yellow Mosaic,dip,43,Yellow Mosaic
+43,Yellow Mosaic,raw,44,Yellow Mosaic
+43,Yellow Mosaic,dip,44,Yellow Mosaic
+44,Yellow Mosaic,raw,42,Yellow Mosaic
+44,Yellow Mosaic,dip,42,Yellow Mosaic
+44,Yellow Mosaic,raw,43,Yellow Mosaic
+44,Yellow Mosaic,dip,43,Yellow Mosaic
+44,Yellow Mosaic,raw,44,Yellow Mosaic
+44,Yellow Mosaic,dip,44,Yellow Mosaic
+45,Yellow Mosaic,raw,42,Leaf Miner
+45,Yellow Mosaic,dip,42,Yellow Mosaic
+45,Yellow Mosaic,raw,43,Yellow Mosaic
+45,Yellow Mosaic,dip,43,Yellow Mosaic
+45,Yellow Mosaic,raw,44,Yellow Mosaic
+45,Yellow Mosaic,dip,44,Red Mite
+46,Yellow Mosaic,raw,42,Yellow Mosaic
+46,Yellow Mosaic,dip,42,Red Mite
+46,Yellow Mosaic,raw,43,Yellow Mosaic
+46,Yellow Mosaic,dip,43,Yellow Mosaic
+46,Yellow Mosaic,raw,44,Yellow Mosaic
+46,Yellow Mosaic,dip,44,Yellow Mosaic
+47,Yellow Mosaic,raw,42,Yellow Mosaic
+47,Yellow Mosaic,dip,42,Yellow Mosaic
+47,Yellow Mosaic,raw,43,Yellow Mosaic
+47,Yellow Mosaic,dip,43,Yellow Mosaic
+47,Yellow Mosaic,raw,44,Yellow Mosaic
+47,Yellow Mosaic,dip,44,Yellow Mosaic
+48,Yellow Mosaic,raw,42,Yellow Mosaic
+48,Yellow Mosaic,dip,42,Yellow Mosaic
+48,Yellow Mosaic,raw,43,Yellow Mosaic
+48,Yellow Mosaic,dip,43,Yellow Mosaic
+48,Yellow Mosaic,raw,44,Yellow Mosaic
+48,Yellow Mosaic,dip,44,Yellow Mosaic
+49,Yellow Mosaic,raw,42,Yellow Mosaic
+49,Yellow Mosaic,dip,42,Yellow Mosaic
+49,Yellow Mosaic,raw,43,Leaf Miner
+49,Yellow Mosaic,dip,43,Yellow Mosaic
+49,Yellow Mosaic,raw,44,Leaf Miner
+49,Yellow Mosaic,dip,44,Yellow Mosaic
+50,Yellow Mosaic,raw,42,Yellow Mosaic
+50,Yellow Mosaic,dip,42,Red Mite
+50,Yellow Mosaic,raw,43,Leaf Miner
+50,Yellow Mosaic,dip,43,Red Mite
+50,Yellow Mosaic,raw,44,Yellow Mosaic
+50,Yellow Mosaic,dip,44,Yellow Mosaic
+51,Yellow Mosaic,raw,42,Yellow Mosaic
+51,Yellow Mosaic,dip,42,Red Mite
+51,Yellow Mosaic,raw,43,Yellow Mosaic
+51,Yellow Mosaic,dip,43,Red Mite
+51,Yellow Mosaic,raw,44,Yellow Mosaic
+51,Yellow Mosaic,dip,44,Yellow Mosaic
+52,Yellow Mosaic,raw,42,Yellow Mosaic
+52,Yellow Mosaic,dip,42,Yellow Mosaic
+52,Yellow Mosaic,raw,43,Leaf Miner
+52,Yellow Mosaic,dip,43,Yellow Mosaic
+52,Yellow Mosaic,raw,44,Yellow Mosaic
+52,Yellow Mosaic,dip,44,Red Mite
+53,Yellow Mosaic,raw,42,Yellow Mosaic
+53,Yellow Mosaic,dip,42,Whitefly
+53,Yellow Mosaic,raw,43,Leaf Miner
+53,Yellow Mosaic,dip,43,Whitefly
+53,Yellow Mosaic,raw,44,Leaf Miner
+53,Yellow Mosaic,dip,44,Whitefly
+54,Yellow Mosaic,raw,42,Leaf Miner
+54,Yellow Mosaic,dip,42,Yellow Mosaic
+54,Yellow Mosaic,raw,43,Yellow Mosaic
+54,Yellow Mosaic,dip,43,Yellow Mosaic
+54,Yellow Mosaic,raw,44,Yellow Mosaic
+54,Yellow Mosaic,dip,44,Yellow Mosaic
+55,Yellow Mosaic,raw,42,Yellow Mosaic
+55,Yellow Mosaic,dip,42,Yellow Mosaic
+55,Yellow Mosaic,raw,43,Yellow Mosaic
+55,Yellow Mosaic,dip,43,Yellow Mosaic
+55,Yellow Mosaic,raw,44,Yellow Mosaic
+55,Yellow Mosaic,dip,44,Yellow Mosaic
+56,Yellow Mosaic,raw,42,Yellow Mosaic
+56,Yellow Mosaic,dip,42,Yellow Mosaic
+56,Yellow Mosaic,raw,43,Yellow Mosaic
+56,Yellow Mosaic,dip,43,Red Mite
+56,Yellow Mosaic,raw,44,Yellow Mosaic
+56,Yellow Mosaic,dip,44,Yellow Mosaic
+57,Yellow Mosaic,raw,42,Whitefly
+57,Yellow Mosaic,dip,42,Yellow Mosaic
+57,Yellow Mosaic,raw,43,Yellow Mosaic
+57,Yellow Mosaic,dip,43,Yellow Mosaic
+57,Yellow Mosaic,raw,44,Yellow Mosaic
+57,Yellow Mosaic,dip,44,Yellow Mosaic
+58,Yellow Mosaic,raw,42,Yellow Mosaic
+58,Yellow Mosaic,dip,42,Yellow Mosaic
+58,Yellow Mosaic,raw,43,Yellow Mosaic
+58,Yellow Mosaic,dip,43,Yellow Mosaic
+58,Yellow Mosaic,raw,44,Yellow Mosaic
+58,Yellow Mosaic,dip,44,Yellow Mosaic
+59,Yellow Mosaic,raw,42,Yellow Mosaic
+59,Yellow Mosaic,dip,42,Yellow Mosaic
+59,Yellow Mosaic,raw,43,Yellow Mosaic
+59,Yellow Mosaic,dip,43,Yellow Mosaic
+59,Yellow Mosaic,raw,44,Yellow Mosaic
+59,Yellow Mosaic,dip,44,Red Mite
+60,Yellow Mosaic,raw,42,Yellow Mosaic
+60,Yellow Mosaic,dip,42,Yellow Mosaic
+60,Yellow Mosaic,raw,43,Yellow Mosaic
+60,Yellow Mosaic,dip,43,Yellow Mosaic
+60,Yellow Mosaic,raw,44,Leaf Miner
+60,Yellow Mosaic,dip,44,Yellow Mosaic
+61,Yellow Mosaic,raw,42,Yellow Mosaic
+61,Yellow Mosaic,dip,42,Whitefly
+61,Yellow Mosaic,raw,43,Leaf Miner
+61,Yellow Mosaic,dip,43,Whitefly
+61,Yellow Mosaic,raw,44,Yellow Mosaic
+61,Yellow Mosaic,dip,44,Red Mite
+62,Yellow Mosaic,raw,42,Yellow Mosaic
+62,Yellow Mosaic,dip,42,Yellow Mosaic
+62,Yellow Mosaic,raw,43,Yellow Mosaic
+62,Yellow Mosaic,dip,43,Yellow Mosaic
+62,Yellow Mosaic,raw,44,Yellow Mosaic
+62,Yellow Mosaic,dip,44,Yellow Mosaic
+63,Yellow Mosaic,raw,42,Yellow Mosaic
+63,Yellow Mosaic,dip,42,Yellow Mosaic
+63,Yellow Mosaic,raw,43,Yellow Mosaic
+63,Yellow Mosaic,dip,43,Yellow Mosaic
+63,Yellow Mosaic,raw,44,Yellow Mosaic
+63,Yellow Mosaic,dip,44,Yellow Mosaic
+64,Yellow Mosaic,raw,42,Yellow Mosaic
+64,Yellow Mosaic,dip,42,Yellow Mosaic
+64,Yellow Mosaic,raw,43,Yellow Mosaic
+64,Yellow Mosaic,dip,43,Yellow Mosaic
+64,Yellow Mosaic,raw,44,Yellow Mosaic
+64,Yellow Mosaic,dip,44,Yellow Mosaic
+65,Yellow Mosaic,raw,42,Leaf Miner
+65,Yellow Mosaic,dip,42,Yellow Mosaic
+65,Yellow Mosaic,raw,43,Leaf Miner
+65,Yellow Mosaic,dip,43,Yellow Mosaic
+65,Yellow Mosaic,raw,44,Leaf Miner
+65,Yellow Mosaic,dip,44,Yellow Mosaic
+66,Yellow Mosaic,raw,42,Yellow Mosaic
+66,Yellow Mosaic,dip,42,Red Mite
+66,Yellow Mosaic,raw,43,Yellow Mosaic
+66,Yellow Mosaic,dip,43,Yellow Mosaic
+66,Yellow Mosaic,raw,44,Yellow Mosaic
+66,Yellow Mosaic,dip,44,Yellow Mosaic
+67,Yellow Mosaic,raw,42,Yellow Mosaic
+67,Yellow Mosaic,dip,42,Yellow Mosaic
+67,Yellow Mosaic,raw,43,Yellow Mosaic
+67,Yellow Mosaic,dip,43,Yellow Mosaic
+67,Yellow Mosaic,raw,44,Yellow Mosaic
+67,Yellow Mosaic,dip,44,Yellow Mosaic
+68,Yellow Mosaic,raw,42,Yellow Mosaic
+68,Yellow Mosaic,dip,42,Whitefly
+68,Yellow Mosaic,raw,43,Yellow Mosaic
+68,Yellow Mosaic,dip,43,Whitefly
+68,Yellow Mosaic,raw,44,Leaf Miner
+68,Yellow Mosaic,dip,44,Red Mite
+69,Yellow Mosaic,raw,42,Yellow Mosaic
+69,Yellow Mosaic,dip,42,Yellow Mosaic
+69,Yellow Mosaic,raw,43,Yellow Mosaic
+69,Yellow Mosaic,dip,43,Yellow Mosaic
+69,Yellow Mosaic,raw,44,Yellow Mosaic
+69,Yellow Mosaic,dip,44,Yellow Mosaic
+70,Yellow Mosaic,raw,42,Yellow Mosaic
+70,Yellow Mosaic,dip,42,Yellow Mosaic
+70,Yellow Mosaic,raw,43,Yellow Mosaic
+70,Yellow Mosaic,dip,43,Yellow Mosaic
+70,Yellow Mosaic,raw,44,Yellow Mosaic
+70,Yellow Mosaic,dip,44,Yellow Mosaic
+71,Yellow Mosaic,raw,42,Yellow Mosaic
+71,Yellow Mosaic,dip,42,Yellow Mosaic
+71,Yellow Mosaic,raw,43,Yellow Mosaic
+71,Yellow Mosaic,dip,43,Yellow Mosaic
+71,Yellow Mosaic,raw,44,Yellow Mosaic
+71,Yellow Mosaic,dip,44,Yellow Mosaic
+72,Yellow Mosaic,raw,42,Yellow Mosaic
+72,Yellow Mosaic,dip,42,Yellow Mosaic
+72,Yellow Mosaic,raw,43,Yellow Mosaic
+72,Yellow Mosaic,dip,43,Yellow Mosaic
+72,Yellow Mosaic,raw,44,Yellow Mosaic
+72,Yellow Mosaic,dip,44,Red Mite
+73,Healthy Leaf,raw,42,Leaf Miner
+73,Healthy Leaf,dip,42,Red Mite
+73,Healthy Leaf,raw,43,Leaf Miner
+73,Healthy Leaf,dip,43,Red Mite
+73,Healthy Leaf,raw,44,Leaf Miner
+73,Healthy Leaf,dip,44,Red Mite
+74,Healthy Leaf,raw,42,Leaf Miner
+74,Healthy Leaf,dip,42,Red Mite
+74,Healthy Leaf,raw,43,Leaf Miner
+74,Healthy Leaf,dip,43,Red Mite
+74,Healthy Leaf,raw,44,Leaf Miner
+74,Healthy Leaf,dip,44,Red Mite
+75,Healthy Leaf,raw,42,Healthy Leaf
+75,Healthy Leaf,dip,42,Yellow Mosaic
+75,Healthy Leaf,raw,43,Healthy Leaf
+75,Healthy Leaf,dip,43,Red Mite
+75,Healthy Leaf,raw,44,Healthy Leaf
+75,Healthy Leaf,dip,44,Red Mite
+76,Healthy Leaf,raw,42,Healthy Leaf
+76,Healthy Leaf,dip,42,Red Mite
+76,Healthy Leaf,raw,43,Leaf Miner
+76,Healthy Leaf,dip,43,Red Mite
+76,Healthy Leaf,raw,44,Leaf Miner
+76,Healthy Leaf,dip,44,Red Mite
+77,Healthy Leaf,raw,42,Leaf Miner
+77,Healthy Leaf,dip,42,Red Mite
+77,Healthy Leaf,raw,43,Leaf Miner
+77,Healthy Leaf,dip,43,Red Mite
+77,Healthy Leaf,raw,44,Leaf Miner
+77,Healthy Leaf,dip,44,Whitefly
+78,Healthy Leaf,raw,42,Leaf Miner
+78,Healthy Leaf,dip,42,Red Mite
+78,Healthy Leaf,raw,43,Leaf Miner
+78,Healthy Leaf,dip,43,Red Mite
+78,Healthy Leaf,raw,44,Leaf Miner
+78,Healthy Leaf,dip,44,Red Mite
+79,Whitefly,raw,42,Whitefly
+79,Whitefly,dip,42,Yellow Mosaic
+79,Whitefly,raw,43,Yellow Mosaic
+79,Whitefly,dip,43,Yellow Mosaic
+79,Whitefly,raw,44,Whitefly
+79,Whitefly,dip,44,Yellow Mosaic
+80,Whitefly,raw,42,Whitefly
+80,Whitefly,dip,42,Whitefly
+80,Whitefly,raw,43,Whitefly
+80,Whitefly,dip,43,Yellow Mosaic
+80,Whitefly,raw,44,Whitefly
+80,Whitefly,dip,44,Whitefly
+81,Whitefly,raw,42,Leaf Miner
+81,Whitefly,dip,42,Whitefly
+81,Whitefly,raw,43,Healthy Leaf
+81,Whitefly,dip,43,Yellow Mosaic
+81,Whitefly,raw,44,Leaf Miner
+81,Whitefly,dip,44,Yellow Mosaic
+82,Whitefly,raw,42,Leaf Miner
+82,Whitefly,dip,42,Red Mite
+82,Whitefly,raw,43,Leaf Miner
+82,Whitefly,dip,43,Red Mite
+82,Whitefly,raw,44,Leaf Miner
+82,Whitefly,dip,44,Whitefly
+83,Whitefly,raw,42,Leaf Miner
+83,Whitefly,dip,42,Whitefly
+83,Whitefly,raw,43,Leaf Miner
+83,Whitefly,dip,43,Whitefly
+83,Whitefly,raw,44,Leaf Miner
+83,Whitefly,dip,44,Red Mite
+84,Whitefly,raw,42,Leaf Miner
+84,Whitefly,dip,42,Red Mite
+84,Whitefly,raw,43,Leaf Miner
+84,Whitefly,dip,43,Red Mite
+84,Whitefly,raw,44,Leaf Miner
+84,Whitefly,dip,44,Red Mite
+85,Whitefly,raw,42,Red Mite
+85,Whitefly,dip,42,Yellow Mosaic
+85,Whitefly,raw,43,Leaf Miner
+85,Whitefly,dip,43,Yellow Mosaic
+85,Whitefly,raw,44,Leaf Miner
+85,Whitefly,dip,44,Yellow Mosaic
+86,Whitefly,raw,42,Whitefly
+86,Whitefly,dip,42,Whitefly
+86,Whitefly,raw,43,Whitefly
+86,Whitefly,dip,43,Whitefly
+86,Whitefly,raw,44,Whitefly
+86,Whitefly,dip,44,Whitefly
+87,Whitefly,raw,42,Leaf Miner
+87,Whitefly,dip,42,Healthy Leaf
+87,Whitefly,raw,43,Leaf Miner
+87,Whitefly,dip,43,Red Mite
+87,Whitefly,raw,44,Leaf Miner
+87,Whitefly,dip,44,Red Mite
+88,Whitefly,raw,42,Whitefly
+88,Whitefly,dip,42,Whitefly
+88,Whitefly,raw,43,Leaf Miner
+88,Whitefly,dip,43,Whitefly
+88,Whitefly,raw,44,Leaf Miner
+88,Whitefly,dip,44,Whitefly
+89,Whitefly,raw,42,Leaf Miner
+89,Whitefly,dip,42,Yellow Mosaic
+89,Whitefly,raw,43,Leaf Miner
+89,Whitefly,dip,43,Yellow Mosaic
+89,Whitefly,raw,44,Leaf Miner
+89,Whitefly,dip,44,Yellow Mosaic
+90,Whitefly,raw,42,Leaf Miner
+90,Whitefly,dip,42,Yellow Mosaic
+90,Whitefly,raw,43,Leaf Miner
+90,Whitefly,dip,43,Whitefly
+90,Whitefly,raw,44,Leaf Miner
+90,Whitefly,dip,44,Red Mite
+91,Whitefly,raw,42,Whitefly
+91,Whitefly,dip,42,Whitefly
+91,Whitefly,raw,43,Whitefly
+91,Whitefly,dip,43,Red Mite
+91,Whitefly,raw,44,Whitefly
+91,Whitefly,dip,44,Whitefly
+92,Whitefly,raw,42,Yellow Mosaic
+92,Whitefly,dip,42,Red Mite
+92,Whitefly,raw,43,Red Mite
+92,Whitefly,dip,43,Red Mite
+92,Whitefly,raw,44,Red Mite
+92,Whitefly,dip,44,Red Mite
+93,Whitefly,raw,42,Whitefly
+93,Whitefly,dip,42,Whitefly
+93,Whitefly,raw,43,Whitefly
+93,Whitefly,dip,43,Whitefly
+93,Whitefly,raw,44,Leaf Miner
+93,Whitefly,dip,44,Whitefly
+94,Whitefly,raw,42,Leaf Miner
+94,Whitefly,dip,42,Whitefly
+94,Whitefly,raw,43,Leaf Miner
+94,Whitefly,dip,43,Whitefly
+94,Whitefly,raw,44,Leaf Miner
+94,Whitefly,dip,44,Whitefly
+95,Whitefly,raw,42,Whitefly
+95,Whitefly,dip,42,Red Mite
+95,Whitefly,raw,43,Healthy Leaf
+95,Whitefly,dip,43,Red Mite
+95,Whitefly,raw,44,Whitefly
+95,Whitefly,dip,44,Yellow Mosaic
+96,Whitefly,raw,42,Leaf Miner
+96,Whitefly,dip,42,Whitefly
+96,Whitefly,raw,43,Leaf Miner
+96,Whitefly,dip,43,Whitefly
+96,Whitefly,raw,44,Leaf Miner
+96,Whitefly,dip,44,Whitefly
+97,Whitefly,raw,42,Leaf Miner
+97,Whitefly,dip,42,Red Mite
+97,Whitefly,raw,43,Whitefly
+97,Whitefly,dip,43,Red Mite
+97,Whitefly,raw,44,Whitefly
+97,Whitefly,dip,44,Red Mite
+98,Whitefly,raw,42,Whitefly
+98,Whitefly,dip,42,Whitefly
+98,Whitefly,raw,43,Whitefly
+98,Whitefly,dip,43,Red Mite
+98,Whitefly,raw,44,Whitefly
+98,Whitefly,dip,44,Whitefly
+99,Whitefly,raw,42,Leaf Miner
+99,Whitefly,dip,42,Red Mite
+99,Whitefly,raw,43,Leaf Miner
+99,Whitefly,dip,43,Red Mite
+99,Whitefly,raw,44,Leaf Miner
+99,Whitefly,dip,44,Red Mite
+100,Whitefly,raw,42,Leaf Miner
+100,Whitefly,dip,42,Red Mite
+100,Whitefly,raw,43,Leaf Miner
+100,Whitefly,dip,43,Red Mite
+100,Whitefly,raw,44,Leaf Miner
+100,Whitefly,dip,44,Red Mite
+101,Healthy Leaf,raw,42,Healthy Leaf
+101,Healthy Leaf,dip,42,Whitefly
+101,Healthy Leaf,raw,43,Healthy Leaf
+101,Healthy Leaf,dip,43,Whitefly
+101,Healthy Leaf,raw,44,Leaf Miner
+101,Healthy Leaf,dip,44,Whitefly
+102,Healthy Leaf,raw,42,Leaf Miner
+102,Healthy Leaf,dip,42,Red Mite
+102,Healthy Leaf,raw,43,Leaf Miner
+102,Healthy Leaf,dip,43,Red Mite
+102,Healthy Leaf,raw,44,Leaf Miner
+102,Healthy Leaf,dip,44,Healthy Leaf
+103,Healthy Leaf,raw,42,Leaf Miner
+103,Healthy Leaf,dip,42,Whitefly
+103,Healthy Leaf,raw,43,Leaf Miner
+103,Healthy Leaf,dip,43,Healthy Leaf
+103,Healthy Leaf,raw,44,Leaf Miner
+103,Healthy Leaf,dip,44,Whitefly
+104,Healthy Leaf,raw,42,Leaf Miner
+104,Healthy Leaf,dip,42,Whitefly
+104,Healthy Leaf,raw,43,Leaf Miner
+104,Healthy Leaf,dip,43,Whitefly
+104,Healthy Leaf,raw,44,Leaf Miner
+104,Healthy Leaf,dip,44,Whitefly
+105,Healthy Leaf,raw,42,Leaf Miner
+105,Healthy Leaf,dip,42,Whitefly
+105,Healthy Leaf,raw,43,Leaf Miner
+105,Healthy Leaf,dip,43,Healthy Leaf
+105,Healthy Leaf,raw,44,Leaf Miner
+105,Healthy Leaf,dip,44,Healthy Leaf
+106,Healthy Leaf,raw,42,Leaf Miner
+106,Healthy Leaf,dip,42,Red Mite
+106,Healthy Leaf,raw,43,Leaf Miner
+106,Healthy Leaf,dip,43,Red Mite
+106,Healthy Leaf,raw,44,Leaf Miner
+106,Healthy Leaf,dip,44,Healthy Leaf
+107,Leaf Miner,raw,42,Leaf Miner
+107,Leaf Miner,dip,42,Leaf Miner
+107,Leaf Miner,raw,43,Leaf Miner
+107,Leaf Miner,dip,43,Leaf Miner
+107,Leaf Miner,raw,44,Leaf Miner
+107,Leaf Miner,dip,44,Leaf Miner
+108,Leaf Miner,raw,42,Leaf Miner
+108,Leaf Miner,dip,42,Leaf Miner
+108,Leaf Miner,raw,43,Leaf Miner
+108,Leaf Miner,dip,43,Leaf Miner
+108,Leaf Miner,raw,44,Leaf Miner
+108,Leaf Miner,dip,44,Leaf Miner
+109,Leaf Miner,raw,42,Leaf Miner
+109,Leaf Miner,dip,42,Red Mite
+109,Leaf Miner,raw,43,Leaf Miner
+109,Leaf Miner,dip,43,Red Mite
+109,Leaf Miner,raw,44,Leaf Miner
+109,Leaf Miner,dip,44,Red Mite
+110,Leaf Miner,raw,42,Leaf Miner
+110,Leaf Miner,dip,42,Leaf Miner
+110,Leaf Miner,raw,43,Leaf Miner
+110,Leaf Miner,dip,43,Yellow Mosaic
+110,Leaf Miner,raw,44,Leaf Miner
+110,Leaf Miner,dip,44,Yellow Mosaic
+111,Leaf Miner,raw,42,Leaf Miner
+111,Leaf Miner,dip,42,Leaf Miner
+111,Leaf Miner,raw,43,Leaf Miner
+111,Leaf Miner,dip,43,Leaf Miner
+111,Leaf Miner,raw,44,Leaf Miner
+111,Leaf Miner,dip,44,Leaf Miner
+112,Leaf Miner,raw,42,Leaf Miner
+112,Leaf Miner,dip,42,Leaf Miner
+112,Leaf Miner,raw,43,Leaf Miner
+112,Leaf Miner,dip,43,Leaf Miner
+112,Leaf Miner,raw,44,Leaf Miner
+112,Leaf Miner,dip,44,Leaf Miner
+113,Leaf Miner,raw,42,Leaf Miner
+113,Leaf Miner,dip,42,Whitefly
+113,Leaf Miner,raw,43,Leaf Miner
+113,Leaf Miner,dip,43,Whitefly
+113,Leaf Miner,raw,44,Leaf Miner
+113,Leaf Miner,dip,44,Whitefly
+114,Leaf Miner,raw,42,Leaf Miner
+114,Leaf Miner,dip,42,Leaf Miner
+114,Leaf Miner,raw,43,Leaf Miner
+114,Leaf Miner,dip,43,Leaf Miner
+114,Leaf Miner,raw,44,Leaf Miner
+114,Leaf Miner,dip,44,Leaf Miner
+115,Leaf Miner,raw,42,Leaf Miner
+115,Leaf Miner,dip,42,Leaf Miner
+115,Leaf Miner,raw,43,Leaf Miner
+115,Leaf Miner,dip,43,Leaf Miner
+115,Leaf Miner,raw,44,Leaf Miner
+115,Leaf Miner,dip,44,Leaf Miner
+116,Leaf Miner,raw,42,Leaf Miner
+116,Leaf Miner,dip,42,Leaf Miner
+116,Leaf Miner,raw,43,Leaf Miner
+116,Leaf Miner,dip,43,Leaf Miner
+116,Leaf Miner,raw,44,Leaf Miner
+116,Leaf Miner,dip,44,Leaf Miner
+117,Leaf Miner,raw,42,Leaf Miner
+117,Leaf Miner,dip,42,Red Mite
+117,Leaf Miner,raw,43,Leaf Miner
+117,Leaf Miner,dip,43,Red Mite
+117,Leaf Miner,raw,44,Leaf Miner
+117,Leaf Miner,dip,44,Red Mite
+118,Leaf Miner,raw,42,Leaf Miner
+118,Leaf Miner,dip,42,Red Mite
+118,Leaf Miner,raw,43,Leaf Miner
+118,Leaf Miner,dip,43,Red Mite
+118,Leaf Miner,raw,44,Leaf Miner
+118,Leaf Miner,dip,44,Red Mite
+119,Leaf Miner,raw,42,Leaf Miner
+119,Leaf Miner,dip,42,Red Mite
+119,Leaf Miner,raw,43,Leaf Miner
+119,Leaf Miner,dip,43,Red Mite
+119,Leaf Miner,raw,44,Leaf Miner
+119,Leaf Miner,dip,44,Red Mite
+120,Leaf Miner,raw,42,Leaf Miner
+120,Leaf Miner,dip,42,Leaf Miner
+120,Leaf Miner,raw,43,Leaf Miner
+120,Leaf Miner,dip,43,Leaf Miner
+120,Leaf Miner,raw,44,Leaf Miner
+120,Leaf Miner,dip,44,Leaf Miner
+121,Leaf Miner,raw,42,Leaf Miner
+121,Leaf Miner,dip,42,Leaf Miner
+121,Leaf Miner,raw,43,Leaf Miner
+121,Leaf Miner,dip,43,Leaf Miner
+121,Leaf Miner,raw,44,Leaf Miner
+121,Leaf Miner,dip,44,Leaf Miner
+122,Leaf Miner,raw,42,Leaf Miner
+122,Leaf Miner,dip,42,Leaf Miner
+122,Leaf Miner,raw,43,Leaf Miner
+122,Leaf Miner,dip,43,Leaf Miner
+122,Leaf Miner,raw,44,Leaf Miner
+122,Leaf Miner,dip,44,Leaf Miner
+123,Leaf Miner,raw,42,Leaf Miner
+123,Leaf Miner,dip,42,Leaf Miner
+123,Leaf Miner,raw,43,Leaf Miner
+123,Leaf Miner,dip,43,Leaf Miner
+123,Leaf Miner,raw,44,Leaf Miner
+123,Leaf Miner,dip,44,Leaf Miner
+124,Leaf Miner,raw,42,Leaf Miner
+124,Leaf Miner,dip,42,Leaf Miner
+124,Leaf Miner,raw,43,Leaf Miner
+124,Leaf Miner,dip,43,Leaf Miner
+124,Leaf Miner,raw,44,Leaf Miner
+124,Leaf Miner,dip,44,Leaf Miner
+125,Leaf Miner,raw,42,Leaf Miner
+125,Leaf Miner,dip,42,Red Mite
+125,Leaf Miner,raw,43,Leaf Miner
+125,Leaf Miner,dip,43,Red Mite
+125,Leaf Miner,raw,44,Leaf Miner
+125,Leaf Miner,dip,44,Red Mite
+126,Leaf Miner,raw,42,Leaf Miner
+126,Leaf Miner,dip,42,Whitefly
+126,Leaf Miner,raw,43,Leaf Miner
+126,Leaf Miner,dip,43,Whitefly
+126,Leaf Miner,raw,44,Leaf Miner
+126,Leaf Miner,dip,44,Whitefly
+127,Leaf Miner,raw,42,Leaf Miner
+127,Leaf Miner,dip,42,Leaf Miner
+127,Leaf Miner,raw,43,Leaf Miner
+127,Leaf Miner,dip,43,Leaf Miner
+127,Leaf Miner,raw,44,Leaf Miner
+127,Leaf Miner,dip,44,Leaf Miner
+128,Leaf Miner,raw,42,Leaf Miner
+128,Leaf Miner,dip,42,Red Mite
+128,Leaf Miner,raw,43,Leaf Miner
+128,Leaf Miner,dip,43,Red Mite
+128,Leaf Miner,raw,44,Leaf Miner
+128,Leaf Miner,dip,44,Red Mite
+129,Leaf Miner,raw,42,Leaf Miner
+129,Leaf Miner,dip,42,Red Mite
+129,Leaf Miner,raw,43,Leaf Miner
+129,Leaf Miner,dip,43,Red Mite
+129,Leaf Miner,raw,44,Leaf Miner
+129,Leaf Miner,dip,44,Red Mite
+130,Leaf Miner,raw,42,Leaf Miner
+130,Leaf Miner,dip,42,Red Mite
+130,Leaf Miner,raw,43,Leaf Miner
+130,Leaf Miner,dip,43,Red Mite
+130,Leaf Miner,raw,44,Leaf Miner
+130,Leaf Miner,dip,44,Leaf Miner
+131,Leaf Miner,raw,42,Leaf Miner
+131,Leaf Miner,dip,42,Leaf Miner
+131,Leaf Miner,raw,43,Leaf Miner
+131,Leaf Miner,dip,43,Leaf Miner
+131,Leaf Miner,raw,44,Leaf Miner
+131,Leaf Miner,dip,44,Red Mite
+132,Leaf Miner,raw,42,Leaf Miner
+132,Leaf Miner,dip,42,Red Mite
+132,Leaf Miner,raw,43,Leaf Miner
+132,Leaf Miner,dip,43,Red Mite
+132,Leaf Miner,raw,44,Leaf Miner
+132,Leaf Miner,dip,44,Red Mite
+133,Leaf Miner,raw,42,Leaf Miner
+133,Leaf Miner,dip,42,Leaf Miner
+133,Leaf Miner,raw,43,Leaf Miner
+133,Leaf Miner,dip,43,Leaf Miner
+133,Leaf Miner,raw,44,Leaf Miner
+133,Leaf Miner,dip,44,Leaf Miner
+134,Leaf Miner,raw,42,Leaf Miner
+134,Leaf Miner,dip,42,Leaf Miner
+134,Leaf Miner,raw,43,Leaf Miner
+134,Leaf Miner,dip,43,Leaf Miner
+134,Leaf Miner,raw,44,Leaf Miner
+134,Leaf Miner,dip,44,Leaf Miner

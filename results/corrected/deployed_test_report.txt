@@ -16,7 +16,7 @@ Rows actual, columns predicted: Healthy Leaf, Leaf Miner, Red Mite, Whitefly, Ye
  [ 0  0 37  0  0]
  [ 2  1  0 19  0]
  [ 0  0  0  1 35]]
-{'grabcut': 74, 'skipped: tight crop, no background': 56, 'skipped: no reliable colour mask': 5}
+{'grabcut': 74, 'full frame retained: HSV coverage >85%; background unresolved': 56, 'full frame retained: HSV coverage <10%; foreground unresolved': 5}
 
 Full-frame subset only (excludes extracted symptom regions)
                precision    recall  f1-score   support

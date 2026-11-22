@@ -1,6 +1,6 @@
 # Quick live demonstration
 
-Each run saves predictions_<timestamp>.csv in results/demo. Open it in Excel to see one row per photo with the predicted class and all five scores in percent. The terminal prints its full path. A new CSV is created for each run.
+Each run refreshes results/demo/predictions.csv. Run without a photo argument to include every current demo_input image, one row per photo with the predicted class and all five scores in percent. Close the CSV in Excel before rerunning on Windows.
 
 Current readiness check on 22 November 2026 found only 3/9 matches to provisional labels on the nine Google photos. The corrected internal benchmark is 129/135 views. Reliable classification of a new whole cucumber leaf still requires verified target-domain training and rehearsal data.
 

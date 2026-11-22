@@ -1,0 +1,57 @@
+﻿path,group,box,view_type,model,annotated_area_fraction,cam_energy_in_damage_boxes,enrichment_vs_uniform,peak_in_damage_box
+external_data/wmc4/miner/Mangalore cucumber (12).jpg,wmc_miner/Mangalore cucumber (12),0.422068 0.264403 0.047840 0.129630,crop,raw,0.390625,0.49519594125783445,1.2677016096200562,True
+external_data/wmc4/miner/Mangalore cucumber (12).jpg,wmc_miner/Mangalore cucumber (12),0.422068 0.264403 0.047840 0.129630,crop,dip,0.19252232142857142,0.5249619943707692,2.7267591127896185,True
+external_data/wmc4/miner/Mangalore cucumber (12).jpg,wmc_miner/Mangalore cucumber (12),0.584105 0.450617 0.072531 0.069959,crop,raw,0.5672831632653061,0.6859137293108309,1.209120548127468,True
+external_data/wmc4/miner/Mangalore cucumber (12).jpg,wmc_miner/Mangalore cucumber (12),0.584105 0.450617 0.072531 0.069959,crop,dip,0.40908003826530615,0.6862871518558696,1.6776353956698875,True
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,wmc_miner/Mangalore cucumber (18),,full_frame,raw,0.009685905612244899,0.004069707450551936,0.42016798567673647,False
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,wmc_miner/Mangalore cucumber (18),,full_frame,dip,0.005939094387755102,0.0,0.0,False
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,wmc_miner/Mangalore cucumber (18),0.247599 0.653292 0.109739 0.047325,crop,raw,0.39060507015306123,0.4806367030546264,1.2304927400616834,True
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,wmc_miner/Mangalore cucumber (18),0.247599 0.653292 0.109739 0.047325,crop,dip,0.3013392857142857,0.5064806449940498,1.6807653996839578,True
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,wmc_miner/Mangalore cucumber (18),0.449044 0.657831 0.081767 0.035100,crop,raw,0.39060507015306123,0.5433810157936011,1.3911263762671426,True
+external_data/wmc4/miner/Mangalore cucumber (18).jpg,wmc_miner/Mangalore cucumber (18),0.449044 0.657831 0.081767 0.035100,crop,dip,0.29854910714285715,0.4637514981414387,1.5533508124662767,True
+external_data/wmc4/miner/Mangalore cucumber (23).jpg,wmc_miner/Mangalore cucumber (23),0.606391 0.416364 0.072622 0.060518,crop,raw,0.38783482142857145,0.5611553195448511,1.4468925649271556,True
+external_data/wmc4/miner/Mangalore cucumber (23).jpg,wmc_miner/Mangalore cucumber (23),0.606391 0.416364 0.072622 0.060518,crop,dip,0.3515625,0.6470616861666185,1.8405310184294927,True
+external_data/wmc4/miner/Mangalore cucumber (23).jpg,wmc_miner/Mangalore cucumber (23),0.727427 0.409102 0.095215 0.043573,crop,raw,0.390625,0.5738400507699116,1.4690305299709738,True
+external_data/wmc4/miner/Mangalore cucumber (23).jpg,wmc_miner/Mangalore cucumber (23),0.727427 0.409102 0.095215 0.043573,crop,dip,0.23995535714285715,0.4056324451320864,1.6904496318062763,True
+external_data/wmc4/miner/Mangalore cucumber (25).jpg,wmc_miner/Mangalore cucumber (25),0.246793 0.457548 0.040430 0.018410,crop,raw,0.39060507015306123,0.4967770967905676,1.2718142562663155,True
+external_data/wmc4/miner/Mangalore cucumber (25).jpg,wmc_miner/Mangalore cucumber (25),0.246793 0.457548 0.040430 0.018410,crop,dip,0.3107860331632653,0.5332688188479995,1.7158712488468142,True
+external_data/wmc4/miner/Mangalore cucumber (3).jpg,wmc_miner/Mangalore cucumber (3),0.808259 0.441003 0.147493 0.268764,crop,raw,0.4241270727040816,0.45699561929356475,1.0774969312379072,True
+external_data/wmc4/miner/Mangalore cucumber (3).jpg,wmc_miner/Mangalore cucumber (3),0.808259 0.441003 0.147493 0.268764,crop,dip,0.3462013711734694,0.5022012280293673,1.4506043876346517,False
+external_data/wmc4/miner/Mangalore cucumber (3).jpg,wmc_miner/Mangalore cucumber (3),0.397493 0.467224 0.125369 0.235988,crop,raw,0.39060507015306123,0.509791270136555,1.305132239929169,True
+external_data/wmc4/miner/Mangalore cucumber (3).jpg,wmc_miner/Mangalore cucumber (3),0.397493 0.467224 0.125369 0.235988,crop,dip,0.33203125,0.5369818242727935,1.6172629060451194,True
+external_data/wmc4/miner/Mangalore cucumber (45).jpg,wmc_miner/Mangalore cucumber (45),0.353982 0.687480 0.073746 0.222878,crop,raw,0.39341517857142855,0.6511349338829542,1.6550834064088709,True
+external_data/wmc4/miner/Mangalore cucumber (45).jpg,wmc_miner/Mangalore cucumber (45),0.353982 0.687480 0.073746 0.222878,crop,dip,0.22879464285714285,0.4968553584873551,2.171621469291074,True
+external_data/wmc4/miner/Mangalore cucumber (45).jpg,wmc_miner/Mangalore cucumber (45),0.561209 0.047689 0.092920 0.086529,crop,raw,0.4664779974489796,0.63424553259413,1.3596472632420347,True
+external_data/wmc4/miner/Mangalore cucumber (45).jpg,wmc_miner/Mangalore cucumber (45),0.561209 0.047689 0.092920 0.086529,crop,dip,0.20368303571428573,0.38812120173711206,1.9055155986654926,True
+external_data/wmc4/miner/Mangalore cucumber (46).jpg,wmc_miner/Mangalore cucumber (46),0.402655 0.633727 0.076696 0.215011,crop,raw,0.3962252869897959,0.6269220201802599,1.582236270034944,True
+external_data/wmc4/miner/Mangalore cucumber (46).jpg,wmc_miner/Mangalore cucumber (46),0.402655 0.633727 0.076696 0.215011,crop,dip,0.24553571428571427,0.5442171518598552,2.216448036665592,True
+external_data/wmc4/miner/Mangalore cucumber (46).jpg,wmc_miner/Mangalore cucumber (46),0.409819 0.196072 0.037927 0.074917,crop,raw,0.3962252869897959,0.47252265379852415,1.1925605692366956,True
+external_data/wmc4/miner/Mangalore cucumber (46).jpg,wmc_miner/Mangalore cucumber (46),0.409819 0.196072 0.037927 0.074917,crop,dip,0.35435267857142855,0.47661440556411544,1.3450283697179448,True
+external_data/wmc4/miner/Mangalore cucumber (5).jpg,wmc_miner/Mangalore cucumber (5),0.481710 0.762346 0.283493 0.067901,crop,raw,0.3962252869897959,0.4511861500568907,1.1387111445729363,True
+external_data/wmc4/miner/Mangalore cucumber (5).jpg,wmc_miner/Mangalore cucumber (5),0.481710 0.762346 0.283493 0.067901,crop,dip,0.20926339285714285,0.42538497763578165,2.0327730131288555,True
+external_data/wmc4/miner/Mangalore cucumber (50).jpg,wmc_miner/Mangalore cucumber (50),0.089971 0.939200 0.082596 0.102262,crop,raw,0.44921875,0.6254316225102827,1.3922651770663685,True
+external_data/wmc4/miner/Mangalore cucumber (50).jpg,wmc_miner/Mangalore cucumber (50),0.089971 0.939200 0.082596 0.102262,crop,dip,0.27341757015306123,0.7051608310453729,2.5790618746652547,True
+external_data/wmc4/miner/Mangalore cucumber (50).jpg,wmc_miner/Mangalore cucumber (50),0.887906 0.302032 0.058997 0.123238,crop,raw,0.3962252869897959,0.5495637410941011,1.386998152665239,True
+external_data/wmc4/miner/Mangalore cucumber (50).jpg,wmc_miner/Mangalore cucumber (50),0.887906 0.302032 0.058997 0.123238,crop,dip,0.33203125,0.5394320225821495,1.6246423268356502,True
+external_data/wmc4/miner/Mangalore cucumber (57).jpg,wmc_miner/Mangalore cucumber (57),0.514841 0.142064 0.023046 0.045887,crop,raw,0.3962252869897959,0.5402780469464643,1.36356276261686,True
+external_data/wmc4/miner/Mangalore cucumber (57).jpg,wmc_miner/Mangalore cucumber (57),0.514841 0.142064 0.023046 0.045887,crop,dip,0.34877232142857145,0.5731445057608984,1.6433199269176477,True
+external_data/wmc4/miner/Mangalore cucumber (57).jpg,wmc_miner/Mangalore cucumber (57),0.486726 0.691064 0.038717 0.026221,crop,raw,0.3962252869897959,0.47896450608300833,1.2088186236718992,True
+external_data/wmc4/miner/Mangalore cucumber (57).jpg,wmc_miner/Mangalore cucumber (57),0.486726 0.691064 0.038717 0.026221,crop,dip,0.14787946428571427,0.4290816491059854,2.901563453577079,True
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,wmc_miner/Mangalore cucumber (74),,full_frame,raw,0.02459343112244898,0.028774078307495107,1.1699903996409031,False
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,wmc_miner/Mangalore cucumber (74),,full_frame,dip,0.014329559948979591,0.017935985267217305,1.251677325129201,False
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,wmc_miner/Mangalore cucumber (74),0.542035 0.526221 0.072271 0.110128,crop,raw,0.3850645727040816,0.5978533499081377,1.5526054389001975,True
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,wmc_miner/Mangalore cucumber (74),0.542035 0.526221 0.072271 0.110128,crop,dip,0.33482142857142855,0.6401483901340518,1.9119098585337015,True
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,wmc_miner/Mangalore cucumber (74),0.060472 0.663881 0.038348 0.107506,crop,raw,0.39060507015306123,0.41661389302350116,1.0665859837923972,True
+external_data/wmc4/miner/Mangalore cucumber (74).jpg,wmc_miner/Mangalore cucumber (74),0.060472 0.663881 0.038348 0.107506,crop,dip,0.24553571428571427,0.4004682215460261,1.6309978477510882,True
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,wmc_miner/Mangalore cucumber (92),,full_frame,raw,0.03463807397959184,0.03040035599489137,0.8776572280780607,False
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,wmc_miner/Mangalore cucumber (92),,full_frame,dip,0.02032844387755102,0.03557502790974642,1.7500123533327807,False
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,wmc_miner/Mangalore cucumber (92),0.318930 0.339506 0.164609 0.061728,crop,raw,0.3850645727040816,0.5859574521363071,1.5217121845862713,True
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,wmc_miner/Mangalore cucumber (92),0.318930 0.339506 0.164609 0.061728,crop,dip,0.25948660714285715,0.566449922386221,2.182964001970125,True
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,wmc_miner/Mangalore cucumber (92),0.847508 0.683128 0.095107 0.078189,crop,raw,0.3962252869897959,0.47955715419659606,1.2103143588837786,True
+external_data/wmc4/miner/Mangalore cucumber (92).jpg,wmc_miner/Mangalore cucumber (92),0.847508 0.683128 0.095107 0.078189,crop,dip,0.2650669642857143,0.4755706561152881,1.7941528752812552,True
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,wmc_miner/Mangalore cucumber (97),,full_frame,raw,0.017338966836734693,0.021373450565653946,1.2326830523933936,False
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,wmc_miner/Mangalore cucumber (97),,full_frame,dip,0.009705835459183673,0.010148501406201126,1.0456082270175517,False
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,wmc_miner/Mangalore cucumber (97),0.643480 0.548268 0.077732 0.043724,crop,raw,0.39341517857142855,0.4235463023997189,1.0765886154614133,True
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,wmc_miner/Mangalore cucumber (97),0.643480 0.548268 0.077732 0.043724,crop,dip,0.390625,0.510544496085242,1.3069939099782195,True
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,wmc_miner/Mangalore cucumber (97),0.334076 0.608282 0.080780 0.042010,crop,raw,0.3962252869897959,0.5873723099694069,1.4824200505520326,True
+external_data/wmc4/miner/Mangalore cucumber (97).jpg,wmc_miner/Mangalore cucumber (97),0.334076 0.608282 0.080780 0.042010,crop,dip,0.3599330357142857,0.6376335406716981,1.771533806021214,True

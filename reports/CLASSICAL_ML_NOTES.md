@@ -1,7 +1,7 @@
-# What Was Pushed: Classical ML (SN)
+# What Was Pushed: Classical ML
 
 Branch `classical-ml`, commit `902ffe6`, based on the latest `main` (`4f499ad`,
-Ayushman's PR #3). Pushed 17 Nov 2026. `main` is unchanged; the branch goes in
+the project's PR #3). Pushed 17 Nov 2026. `main` is unchanged; the branch goes in
 through a pull request that Ayushman reviews and merges.
 
 Pull request link:
@@ -16,7 +16,7 @@ https://github.com/ayush-1114/Cucumber-Disease-Pipeline/pull/new/classical-ml
 | `src/classical_ml/train.py` | New | Trains SVM and Random Forest, picks settings on val, scores once on test, saves models, predictions and summary |
 | `src/classical_ml/__init__.py` | New | Makes the folder a Python package |
 | `src/classical_ml/README.md` | New | How to run the scripts and what they output |
-| `reports/sn_code_walkthrough.md` | New | Plain-language explanation of every script, for presentation prep |
+| `reports/CODE_WALKTHROUGH.md` | New | Plain-language explanation of every script, for presentation prep |
 | `results/metrics/classical_ml_processed_summary.json` | New | Scores, chosen settings, per-class results, timing (with augmentation) |
 | `results/metrics/svm_processed_test_predictions.csv` | New | One row per test image for the SVM: filename, true class, predicted class |
 | `results/metrics/rf_processed_test_predictions.csv` | New | Same for the Random Forest |
@@ -30,7 +30,7 @@ the cached features. Anyone can recreate them by running the scripts.
 
 ## How the results were made
 
-1. Started from the latest `main` (Ayushman's PR #3, updated DIP pipeline).
+1. Started from the latest `main` (the project's PR #3, updated DIP pipeline).
 2. Rebuilt `data/processed` with his updated `src/dip/pipeline.py`.
 3. Checked it against the shared list: 702 train / 151 val / 151 test, nothing to
    move, so the raw and processed sets use the same images.
@@ -56,9 +56,9 @@ the cached features. Anyone can recreate them by running the scripts.
 - Timing was measured on a laptop with other work running; re-measure on an idle
   machine before the final speed comparison.
 - `svm_model.pkl` and `rf_model.pkl` are the augmented versions. They are not in
-  Git; upload them to the shared Drive for PJ, as the team agreed.
+  Git. Keep local copies available for evaluation.
 
-## For teammates after merging
+## Setup after merging
 
 ```
 git pull origin main

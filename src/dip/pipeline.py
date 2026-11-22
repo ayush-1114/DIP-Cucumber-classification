@@ -51,9 +51,9 @@ def apply_grabcut(image, valid):
     prior = hsv_leaf_mask(image, valid)
     frac = cv2.countNonZero(prior) / max(1, cv2.countNonZero(valid))
     if frac > MAX_FG:
-        return valid.copy(), "skipped: tight crop, no background"
+        return valid.copy(), "full frame retained: HSV coverage >85%; background unresolved"
     if frac < MIN_FG:
-        return valid.copy(), "skipped: no reliable colour mask"
+        return valid.copy(), "full frame retained: HSV coverage <10%; foreground unresolved"
 
     gc = np.full(image.shape[:2], cv2.GC_PR_BGD, np.uint8)
     gc[prior == 255] = cv2.GC_PR_FGD
