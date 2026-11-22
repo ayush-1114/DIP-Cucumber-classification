@@ -1,24 +1,24 @@
 # Project updates
 
-## 22 November 2026 — Added repository navigation guide
+## Added repository navigation guide
 
 - Inventoried the code, checkpoints, results, launchers and existing documents.
 - Recorded the remaining corrected-model robustness/Grad-CAM reruns, fresh-install verification and field generalization limitations.
 - Performed documentation changes only during this inventory. Directory restructuring and file deletion remain pending review.
 
-## 22 November 2026 — Clarified existing robustness evidence
+## Clarified existing robustness evidence
 
 - Rechecked src/background_swap.py, saved OOD metrics and the existing raw/processed Grad-CAM artifacts following the user's reminder.
 - Corrected the status audit to credit the historical noise-robustness improvement, 55.63% processed versus 34.44% raw. The script perturbs the entire normalized input after preprocessing. Matched background replacement and corrected-model robustness results remain unverified.
 
-## 22 November 2026 — Rechecked assignment and rubric completion
+## Rechecked assignment and rubric completion
 
 - Read guidelines.png and project-task.jpeg directly and compared their requirements with the current pipeline and measured outputs.
 - Added the current requirement recheck to reports/DIP_PROJECT_STATUS.md. Most requested operations and evaluation artifacts are implemented. Field background isolation, cucumber-specific generalization, final reporting and clean-install reproducibility remain incomplete.
 - Documented that prepared training/validation examples can demonstrate functionality with disclosure, while unseen-image performance requires held-out evidence.
 - No repository cleanup was performed because overall completion has not been established.
 
-## 22 November 2026 — Investigated segmentation and Whitefly overprediction
+## Investigated segmentation and Whitefly overprediction
 
 - Confirmed cuc4_yel has HSV foreground coverage 89.8%, triggering the >85% bypass and preserving its background. The old status incorrectly asserted that no background existed. Corrected both bypass messages to describe unresolved foreground/background.
 - Added retained-area percentage to the normal predictions.csv so full-frame fallback is visible.
@@ -28,7 +28,7 @@
 - Model weights and preprocessing outputs remain the same in the deployed workflow. The status and CSV changes expose uncertainty. A segmentation algorithm change requires matched retraining and held-out evaluation before deployment.
 - Normal demo rerun processed all nine images but could not refresh predictions.csv because Windows denied write access, consistent with the CSV being open in Excel. Added an explicit close-and-rerun message. Existing CSV remains accessible. The separate 36-row diagnostic CSV was generated successfully.
 
-## 22 November 2026 — Changed demo export to a single CSV
+##  Changed demo export to a single CSV
 
 - Replaced timestamped CSV exports with results/demo/predictions.csv, refreshed on each run. Running the default command includes all current demo_input photos in one file.
 - Updated README and the presentation guide to reflect the requested single-file workflow.
@@ -36,14 +36,14 @@
 
 This file records changes made by Codex in DIP-project. Subsequent work should append an entry describing changed files, purpose, verification, results, pending work and any GitHub commit.
 
-## 22 November 2026 — Added demo CSV export
+## Added demo CSV export
 
 - Updated src/leaf_demo.py to save an Excel-readable CSV automatically on every demo run, for either model and both single-photo and folder inputs.
 - Each row includes image name, predicted class, all five scores in percent, the selected model, segmentation status and processing errors. Failed images retain a row with their error.
 - CSVs use unique timestamped filenames in the output directory to preserve earlier runs and allow an earlier CSV to remain open in Excel.
 - Updated README and the presentation guide. Ran the normal direct-file demo on all nine existing photos. Verified nine CSV rows, five score columns, sums within 0.001 percentage points of 100, and every predicted class matching the largest score. Python compilation and scoped diff checks passed.
 
-## 22 November 2026 — Rebuilt training and deployment, field readiness still unresolved
+## Rebuilt training and deployment, field readiness still unresolved
 
 - Added corrected_data.py to rebuild a deterministic source-grouped 70/15/15 target split. Removed publisher-transformed tea variants from the new training inputs. Grouped known variants, exact duplicates and perceptually similar frames. Saved 909 views of 811 files in 778 groups, with 544/117/117 train/validation/test groups and zero group overlap. Plant and capture-session identities remain unavailable.
 - Added fetch_field_data.py to download checksum-verified WMC-Leafset v4 Healthy and Leaf Miner damage images. Verified annotation IDs against the authors' paper. Mangalore cucumber is a proxy host. Existing tea and luffa proxy classes remain.
@@ -61,7 +61,7 @@ This file records changes made by Codex in DIP-project. Subsequent work should a
 - Published the repair implementation, corrected weights and measured outputs to the existing GitHub repository as commit 3d4a940. The first push was blocked by network access and automatic approval review reaching a usage limit. A later authorized retry succeeded.
 - The user chose to proceed with the current datasets after reviewing the field-photo limitations. Further data acquisition is deferred. The demo runs with the validation-selected DIP MobileNet and retains the measured limitations in its documentation.
 
-## 22 November 2026 — Retrospective record of initial setup and demo work
+##  Retrospective record of initial setup and demo work
 
 This entry records work completed in the preceding chat turns. The log was added after the user pointed out its omission.
 
@@ -113,7 +113,7 @@ The live predictor uses the processed-image checkpoint. Whole-leaf performance o
 
 Created this updates.md file in the repository root. Future updates should be recorded here alongside implementation changes.
 
-## 22 November 2026 — Unlabelled demo input and five-class scores
+##  Unlabelled demo input and five-class scores
 
 - Added demo_input as the dedicated folder for presentation photos, with no class subfolders.
 - Updated src/leaf_demo.py so running it without a photo argument processes all supported images directly in demo_input. Explicit photo paths still work.
@@ -123,7 +123,7 @@ Created this updates.md file in the repository root. Future updates should be re
 - Updated reports/PRESENTATION_GUIDE.md with the new command and the interpretation of scores.
 - Verification uses the saved model on the existing healthy rehearsal sample and an unlabelled folder copy. See the chat for the completed checks.
 
-## 22 November 2026 — Investigated poor Google-photo predictions
+##  Investigated poor Google-photo predictions
 
 - Inspected the nine photos already present in demo_input and compared the current processed checkpoint with the raw checkpoint on the same originals.
 - Verified checkpoint class order against the training ImageFolder. Mapping is correct.
@@ -133,7 +133,7 @@ Created this updates.md file in the repository root. Future updates should be re
 - The current benchmark does not establish whole-leaf demo readiness. No replacement checkpoint was selected.
 - The user-provided photos and existing unrelated working-tree changes were retained locally.
 
-## 22 November 2026 — Verified supplied dataset provenance and found source leakage
+## Verified supplied dataset provenance and found source leakage
 
 - Added the four supplied dataset links to reports/dataset_construction.md and documented web verification limits.
 - Verified the local Roboflow YAML IDs and crop mapping. Inspected one annotated image from each selected pest class. The inspected Leaf Miner box surrounds an insect, which differs from the winding-damage demonstration photos.
@@ -143,7 +143,7 @@ Created this updates.md file in the repository root. Future updates should be re
 - Saved measured source overlap in results/metrics/tea_source_group_audit.json and updated the diagnostic and status documents to require a split rebuild and retraining.
 - Existing checkpoints have not been retrained during this audit. Earlier claims of globally leakage-safe evaluation need the tea-group correction.
 
-## 22 November 2026 — Fresh setup on D drive
+## Fresh setup on D drive
 
 - Copied the current project into the user-specified D-drive destination. Created .fresh-env and redirected installer caches, TEMP, TMP, torch and matplotlib storage into .runtime on D.
 - Linked source datasets already on D. Added verify_setup.ps1 for dependency, benchmark, storage, plot and demo checks. Installation and verification outcomes are pending.
@@ -154,12 +154,12 @@ Created this updates.md file in the repository root. Future updates should be re
 - Saved installer, verification, retraining and deployment logs plus installed_requirements.txt under .runtime. New environments, caches, temporary files, models and outputs from this check are on D.
 - Fresh setup/retraining reproducibility is verified on this Windows machine. This result does not resolve the previously documented field-image limitations.
 
-## 22 November 2026 — Updated DIP ownership documentation
+## Updated DIP ownership documentation
 
 - Set AP as the sole DIP project owner. Reworded historical experiment descriptions in neutral technical language and removed outdated team-role instructions.
 - Applied these documentation changes in the D-drive working copy.
 
-## 22 November 2026 — Rerunning extra experiments on corrected models
+## Rerunning extra experiments on corrected models
 
 - Added extra_corrected.py for cached feature extraction, seven RF feature subsets, matched training-only augmentation, validation-selected embedding SVM, source-group learning curves and separately projected t-SNE plots.
 - Added extra_neural.py for deterministically selected correct/error Grad-CAM examples, predicted/true-class maps, top-20-percent versus random deletion checks, per-channel INT8 weight storage and matched raw/DIP noise and brightness tests. Corruptions are applied before preprocessing.
@@ -174,13 +174,13 @@ Created this updates.md file in the repository root. Future updates should be re
 
 - Connected the D-drive folder to the existing GitHub history and prepared the latest code, documentation and experiment outputs for publication from D.
 
-## 22 November 2026 — Completed editable DIP report
+## Completed editable DIP report
 - Built a sectioned LaTeX report following the grading guide, with editable cover placeholders, supplied logos, original vector diagrams, IEEE-style references and corrected experiment evidence.
 - Compiled a 14-page A4 report and rendered the pages for visual review. Verified that the Overleaf ZIP contains the exact compiled source and referenced figures.
 - Saved DIP_Report_Overleaf.zip, DIP_Final_Report.pdf and DIP_Implementation_Appendix.zip in the D-drive checkout.
 
 
-## 22 November 2026 — DIP report submission format
+## DIP report submission format
 
 - Reorganized the existing report under the course guideline headings and preserved its experiments, figures, tables and discussion.
 - Added complete Python scripts, PowerShell launchers, dependencies and setup notes as listings in the PDF appendix. Refreshed the Overleaf source ZIP.
