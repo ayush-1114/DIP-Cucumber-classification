@@ -1,8 +1,10 @@
 """Classify one leaf photo and render the image-processing evidence."""
 
 import argparse
+import csv
 import json
 import sys
+from datetime import datetime
 from pathlib import Path
 
 import cv2
@@ -144,6 +146,14 @@ def run_demo(photo, model, output):
         f"\nImage: {photo}\n{summary}",
         f"\nSegmentation: {stages['status']}\nFigure: {directory / 'stages.png'}",
     )
+    return {
+        "Image": photo.name,
+        "Predicted class": label,
+        **{f"{name} score (%)": round(100 * score, 4)
+           for name, score in stages["class_scores"].items()},
+        "Segmentation": stages["status"],
+        "Error": "",
+    }
 
 
 def main():
@@ -179,14 +189,30 @@ def main():
             parser.error(
                 "Give each photo a unique filename stem to keep its outputs separate."
             )
-        model = load_demo_model(args.model)
+        choice = args.model
+        if choice == "auto":
+            choice = json.loads((ROOT / "results/corrected/metrics.json").read_text())["demo"]
+        model = load_demo_model(choice)
         failures = []
+        rows = []
         for photo in photos:
             try:
-                run_demo(photo, model, args.output)
+                row = run_demo(photo, model, args.output)
             except (OSError, ValueError, cv2.error) as exc:
                 failures.append(photo)
                 print(f"Could not process {photo}: {exc}")
+                row = {"Image": photo.name, "Error": str(exc)}
+            rows.append({**row, "Model": choice})
+        args.output.mkdir(parents=True, exist_ok=True)
+        stamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        csv_path = args.output / f"predictions_{stamp}.csv"
+        fields = ["Image", "Predicted class", *[f"{name} score (%)" for name in LABELS],
+                  "Model", "Segmentation", "Error"]
+        with csv_path.open("x", newline="", encoding="utf-8-sig") as f:
+            writer = csv.DictWriter(f, fieldnames=fields)
+            writer.writeheader()
+            writer.writerows(rows)
+        print(f"\nResults CSV: {csv_path}")
         if failures:
             parser.exit(1, f"{len(failures)} image(s) failed. See messages above.\n")
     except (OSError, ValueError, cv2.error) as exc:

@@ -2,6 +2,13 @@
 
 This file records changes made by Codex in DIP-project. Subsequent work should append an entry describing changed files, purpose, verification, results, pending work and any GitHub commit.
 
+## 22 November 2026 — Added demo CSV export
+
+- Updated src/leaf_demo.py to save an Excel-readable CSV automatically on every demo run, for either model and both single-photo and folder inputs.
+- Each row includes image name, predicted class, all five scores in percent, the selected model, segmentation status and processing errors. Failed images retain a row with their error.
+- CSVs use unique timestamped filenames in the output directory to preserve earlier runs and allow an earlier CSV to remain open in Excel.
+- Updated README and the presentation guide. Ran the normal direct-file demo on all nine existing photos. Verified nine CSV rows, five score columns, sums within 0.001 percentage points of 100, and every predicted class matching the largest score. Python compilation and scoped diff checks passed.
+
 ## 22 November 2026 — Rebuilt training and deployment, field readiness still unresolved
 
 - Added corrected_data.py to rebuild a deterministic source-grouped 70/15/15 target split. Removed publisher-transformed tea variants from the new training inputs. Grouped known variants, exact duplicates and perceptually similar frames. Saved 909 views of 811 files in 778 groups, with 544/117/117 train/validation/test groups and zero group overlap. Plant and capture-session identities remain unavailable.

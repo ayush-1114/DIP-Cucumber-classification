@@ -14,6 +14,8 @@ python -m src.leaf_demo
 
 Each photo receives five relative scores, a predicted class, a processed JPEG and a labelled stage panel in results/demo/<photo stem>. The default uses the DIP model selected by validation macro-F1. Use --model dip_mobilenet or --model dip_svm for an explicit comparison. SVM percentages are normalized decision scores. Both sets of scores express model preference and are uncalibrated.
 
+Every demo run also saves an Excel-readable predictions_<timestamp>.csv in results/demo, or in the directory specified by --output. Each image has a row with the predicted class, all five scores in percent, model, segmentation decision and any processing error. A new filename preserves earlier runs. The terminal prints the CSV path.
+
 **Rebuild.** Keep the original source datasets under external_data as described in [dataset construction](reports/dataset_construction.md). Install requirements.txt. Training uses the standard torchvision ImageNet MobileNetV2 weights and needs them cached locally or downloadable on first use. The demo uses local trained weights. Fetch the field subset before rebuilding:
 
 ~~~powershell
