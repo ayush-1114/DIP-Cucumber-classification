@@ -18,7 +18,8 @@ This file records changes made by Codex in DIP-project. Subsequent work should a
 - Pending work requires verified target-domain cucumber training photos, especially Red Mite and Yellow Mosaic, plus an independent labelled rehearsal set for all five classes. Further tuning against these nine diagnostic photos would compromise their role as a check.
 - The submission report remains pending at the user's request.
 - Final verification compiled all changed Python entry points, reproduced the manifest byte-for-byte, replayed both models' saved test predictions, ran direct-file SVM demo invocation and exercised the independent CSV evaluator on all nine diagnostic photos. Visually inspected the corrected confusion matrices. The scoped Git staging check passed. Existing unrelated edits and diagnostic photo files remain local.
-- Prepared the repair implementation, corrected weights and measured outputs for publication to the existing GitHub repository. The chat records the resulting commit and push outcome.
+- Published the repair implementation, corrected weights and measured outputs to the existing GitHub repository as commit 3d4a940. The first push was blocked by network access and automatic approval review reaching a usage limit. A later authorized retry succeeded.
+- The user chose to proceed with the current datasets after reviewing the field-photo limitations. Further data acquisition is deferred. The demo runs with the validation-selected DIP MobileNet and retains the measured limitations in its documentation.
 
 ## 22 November 2026 — Retrospective record of initial setup and demo work
 
